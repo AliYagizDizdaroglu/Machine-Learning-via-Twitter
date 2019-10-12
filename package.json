@@ -5,13 +5,24 @@
   "repository": "git@github.com:Gaspadin/bitirme.git",
   "author": "Yagiz <sotkaliyagiz@gmail.com>",
   "license": "MIT",
+  "scripts": {
+    "webpack": "webpack",
+    "webpack-dev-server": "webpack-dev-server",
+    "start:dev": "yarn webpack-dev-server",
+    "lint:js": "eslint eslint \"src/**/*.js\"",
+    "format:js": "prettier --write \"src/**/*.js\""
+  },
   "devDependencies": {
     "eslint": "^6.5.1",
     "eslint-config-airbnb-base": "^14.0.0",
     "eslint-plugin-import": "^2.18.2",
-    "prettier": "^1.18.2"
+    "html-webpack-plugin": "^3.2.0",
+    "prettier": "^1.18.2",
+    "webpack-cli": "^3.3.9",
+    "webpack-dev-server": "^3.8.2"
   },
   "dependencies": {
+    "webpack": "^4.41.1",
     "xmlhttprequest": "^1.8.0"
   }
 }
