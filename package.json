@@ -13,6 +13,10 @@
     "format:js": "prettier --write \"src/**/*.js\""
   },
   "devDependencies": {
+    "@babel/core": "^7.6.4",
+    "babel-core": "^6.26.3",
+    "babel-loader": "^7",
+    "babel-preset-es2015": "^6.24.1",
     "eslint": "^6.5.1",
     "eslint-config-airbnb-base": "^14.0.0",
     "eslint-plugin-import": "^2.18.2",
@@ -22,6 +26,10 @@
     "webpack-dev-server": "^3.8.2"
   },
   "dependencies": {
+    "@tensorflow/tfjs": "^1.2.11",
+    "firebase": "^7.2.0",
+    "fs": "^0.0.1-security",
+    "siema": "^1.5.1",
     "webpack": "^4.41.1",
     "xmlhttprequest": "^1.8.0"
   }
