@@ -6,6 +6,7 @@
   "author": "Yagiz <sotkaliyagiz@gmail.com>",
   "license": "MIT",
   "scripts": {
+    "firebase": "firebase",
     "webpack": "webpack",
     "webpack-dev-server": "webpack-dev-server",
     "start:dev": "yarn webpack-dev-server",
@@ -26,8 +27,10 @@
     "webpack-dev-server": "^3.8.2"
   },
   "dependencies": {
+    "@tensorflow-models/knn-classifier": "^1.2.1",
     "@tensorflow/tfjs": "^1.2.11",
     "firebase": "^7.2.0",
+    "firebase-tools": "^7.5.0",
     "fs": "^0.0.1-security",
     "siema": "^1.5.1",
     "webpack": "^4.41.1",
