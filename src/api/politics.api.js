@@ -1,11 +1,14 @@
 import database from '../firebase/firebase';
 
 const readPoliticsData = async () => {
-  const response = await database.ref('politics').once('value');
-
-  const result = response.val();
-
-  return result;
+  await database
+    .collection('bitirme')
+    .get()
+    .then(querySnapshot => {
+      querySnapshot.forEach(doc => {
+        console.log(doc.data());
+      });
+    });
 };
 
 export default readPoliticsData;

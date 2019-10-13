@@ -3,6 +3,6 @@ import config from './config';
 
 firebase.initializeApp(config);
 
-const database = firebase.database();
+const database = firebase.firestore();
 
 export default database;
