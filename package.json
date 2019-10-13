@@ -35,7 +35,6 @@
     "webpack-dev-server": "^3.8.2"
   },
   "dependencies": {
-    "@tensorflow-models/knn-classifier": "^1.2.1",
     "@tensorflow/tfjs": "^1.2.11",
     "bootstrap-sass": "^3.4.1",
     "firebase": "^7.2.0",
