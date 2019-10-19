@@ -30,7 +30,7 @@ readPoliticsData().then(result => {
       const rate =
         datas.politicsWordCounts[parseWord] / Object.keys(datas.politicsWordCounts).length;
 
-      console.log(parseWord + ' ' + rate / 4);
+      console.log(parseWord + ' ' + rate);
     });
   });
 });
