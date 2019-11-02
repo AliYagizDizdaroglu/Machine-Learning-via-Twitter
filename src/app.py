@@ -1,3 +1,4 @@
+#!/usr/bin/env python
 # -*- coding: utf-8 -*-
 import tweepy
 import re
@@ -18,12 +19,17 @@ api = tweepy.API(auth)
 
 stemmer = TurkishStemmer()
 
-emoji_pattern = re.compile("["
-                           u"\U0001F600-\U0001F64F"  # emoticons
-                           u"\U0001F300-\U0001F5FF"  # symbols & pictographs
-                           u"\U0001F680-\U0001F6FF"  # transport & map symbols
-                           u"\U0001F1E0-\U0001F1FF"  # flags (iOS)
-                           "]+", flags=re.UNICODE)
+datasets = ['art', 'economy', 'politics', 'sport', 'technology']
+
+config = {
+    "apiKey": 'AIzaSyBDgWYe3XTCVmhByPbm213KxDJL0rkcLO4',
+    "authDomain": 'project01-f64c4.firebaseapp.com',
+    "databaseURL": 'https://project01-f64c4.firebaseio.com',
+    "projectId": 'project01-f64c4',
+    "storageBucket": 'project01-f64c4.appspot.com',
+    "messagingSenderId": '829199127735',
+    "appId": '1:829199127735:web:3db486e626e90f66a46932',
+}
 
 
 class MyStreamListener(tweepy.StreamListener):
@@ -33,6 +39,8 @@ class MyStreamListener(tweepy.StreamListener):
         # alıp kullancagız
         if(status.lang == "tr"):
             tweet = status.text
+
+            print(tweet)
 
             # tweetlerin içinden gereksiz kısımları çıkaracagız.
             # RT, @.. https:.. noktalama işaretleri
@@ -52,7 +60,7 @@ class MyStreamListener(tweepy.StreamListener):
                         tweet = tweet.split(
                             tweet[resultUserTag:resultSpace])[1]
 
-           # http... olan kısmı çıkarılır
+            # http... olan kısmı çıkarılır
             while(tweet.find('http') != -1):
                 resultHttp = tweet.find('http')
                 if(resultHttp != -1):
@@ -78,8 +86,6 @@ class MyStreamListener(tweepy.StreamListener):
             # bütün cümleyi kücük harf yapıyoruz
             tweet = tweet.lower()
 
-            tweet = emoji_pattern.sub(r'', tweet)
-
             # tweet içindeki kelimelerin kokleri bulunacak
             tweetWords = tweet.split(' ')
             tweet = []
@@ -94,11 +100,30 @@ class MyStreamListener(tweepy.StreamListener):
             tweet = []
             tweet = tweetTemp
 
+            print(tweet)
+            rate = []
             # Database ile Karşılaştırma Yapılacak (AI)
+            for dataset in datasets:
+                f = open("./database/" + dataset + ".txt", "r")
+                
+                lines = f.readlines()
+                result = 0
+                for line in lines:
+                    word = line.split(':')
+                    if word[0] in tweet:
+                        result += int(word[1]) / len(lines)
+
+                if len(tweet) == 0:
+                    lengthTweet = 1
+
+                lengthTweet = len(tweet)
+                rate.append(result / lengthTweet)
+                
+            print(dataset + " - " + str(rate))
 
             # Bulunan sonuclara göre database güncellenecek
 
-            print(tweet)
+            # print(tweet)
 
 
 myStreamListener = MyStreamListener()
