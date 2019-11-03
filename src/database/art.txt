@@ -593,7 +593,6 @@ albümleriyle:1
 sıçrama:1
 yaptı.:6
  rrrrrr.:1
-https://www.ntv.com.tr/sanat/rotting-christ-turkiyeye-geliyorzulhdnbcnkcbk6gv7gr3gg:1
 :94
 2017-11-26:1
 15:00:03:3
@@ -696,7 +695,7 @@ daha:42
 tercih:1
 etmesini:2
 sağlıyor.:1
-https://www.ntv.com.tr/sanat/kultur-bakanligindan-ozel-tiyatrolara-odenekfthcpcmys06595703nrdba:1
+95703nrdba:1
 2017-11-28:2
 12:00:02:2
 çin:5
@@ -983,7 +982,7 @@ günü:7
 galata:1
 kampüsü’nde:1
 gerçekleştirilecek.rr.:1
-https://www.ntv.com.tr/sanat/cin-sinemasi-randevu-istanbul-film-festivalindesxwimy_lje6lantmyvy8cw:1
+e6lantmyvy8cw:1
 13:00:04:2
 geçmişteki:1
 sır:1
@@ -1049,7 +1048,7 @@ onu:3
 yolculuğunda:1
 yalnız:2
 bırakmayacaktır.:1
-https://www.ntv.com.tr/sanat/gecmisteki-sir-filminin-yonetmenirasit-gorgulubu-film-ezberleri-bozacak4wnd6dmcjugd9qdl3ow8wa:1
+berleri-bozacak4wnd6dmcjugd9qdl3ow8wa:1
 2017-11-29:2
 15:00:06:1
 0:56
@@ -1188,7 +1187,7 @@ sahiplerini:3
 yöneticilerini:1
 araya:10
 getiriyor.:1
-https://www.ntv.com.tr/sanat/cagdas-sanat-bulusmalari-gerceklestizunt2t1hpusm7qbbiuaupq:1
+pq:1
 18:00:05:1
 oscar:11
 and:7
@@ -1268,7 +1267,6 @@ ios:1
 android:1
 uygulamaları:1
 mobilet.:1
-https://www.ntv.com.tr/sanat/oscar-and-the-wolfa-yogun-talepe8hrz-8m4ucsrbzqxedkpq:1
 2017-11-30:2
 aydın:2
 karikatür:3
@@ -1299,7 +1297,7 @@ thomsonın:1
 karikatürünü:1
 birinciliğe:1
 layık:3
-gördü.:1
+gördü:1
 törende:1
 ayrıca:1
 güçlü:3
@@ -1319,7 +1317,7 @@ ben:21
 karikatürü:1
 göçmenler:1
 çizdim.:1
-https://www.cnnturk.com/kultur-sanat/aydin-dogan-uluslararasi-karikatur-odulleri-sahiplerini-buldu:1
+plerini-buldu:1
 19:55:04:1
 anadolu’ya:3
 zeki:3
@@ -1410,8 +1408,7 @@ gençlerin:1
 eğitimine:1
 sağlanması:1
 hedefleniyor.:1
-https://www.ntv.com.tr/sanat/anadoluya-zeki-muren-gunesi4qfg7wvvn02qwmvn_cptew:1
-2017-12-01:3
+-12-01:3
 09:48:06:1
 tramvayı’na:1
 durağında:1
@@ -1529,7 +1526,7 @@ işık:1
 tolga:1
 çebi:1
 hazırlandı.:1
-https://www.cnnturk.com/kultur-sanat/sahne/arzu-tramvayina-ilk-duraginda-buyuk-karsilama:1
+ama:1
 09:55:06:1
 vapurda:1
 yaptığım:3
@@ -1681,7 +1678,7 @@ olduk:1
 parça:1
 yaptık:1
 dedi.:4
-https://www.ntv.com.tr/sanat/evrencan-gunduz-vapurda-muzik-yaptigim-gunler-benim-icin-cok-ozeldijiqooiqpnegm0cum971esw:1
+-cok-ozeldijiqooiqpnegm0cum971esw:1
 12:24:02:1
 imzada:2
 sergisi:3
@@ -1834,7 +1831,7 @@ dikkati:2
 çıktığımız:1
 projeyi:1
 geçiriyoruz.:1
-https://www.ntv.com.tr/sanat/bu-imzada-sanat-var-sergisi-ankarada-acilacakxwqwktdui0-ojs4lj_5eqa:1
+ojs4lj_5eqa:1
 2017-12-02:9
 07:16:02:1
 haftanın:1
@@ -1899,7 +1896,7 @@ olayla:1
 şüpheli:1
 gözaltına:5
 alındı.:2
-https://www.ntv.com.tr/galeri/sanat/haftanin-filmleri-1-aralik-2017hcoisv2iskkxel-sm0a_xa:1
+a_xa:1
 09:00:03:1
 3:1
 yenilmezler::1
@@ -1958,7 +1955,7 @@ rahmetle:1
 anıyorum.:1
 r\t\t\t\t\tr:12
 r\t\t\t\t\tr\t\t\t\t.:20
-https://www.ntv.com.tr/sanat/yenilmezler-sonsuzluk-savasindan-rekorjni697zsxkkuwbszujbdig:1
+bdig:1
 12:00:04:1
 nüfusunun:2
 katını:2
@@ -2046,7 +2043,7 @@ yurt:5
 içi:3
 dışından:1
 alıyoruz.:1
-https://www.ntv.com.tr/sanat/nufusunun-70-katini-agirlayan-700-yillik-osmanli-koyuqelox0k-uegg6_3hn3hnpw:1
+ox0k-uegg6_3hn3hnpw:1
 12:16:02:1
 erzurumda:1
 antik:3
@@ -2105,7 +2102,7 @@ kişilerin:1
 cenaze:1
 işlemlerinin:1
 yerdir.:1
-https://www.ntv.com.tr/sanat/erzurumda-antik-yerlesim-alani-bulunduo-f5ebryduwwnbumxkas4q:1
+as4q:1
 12:16:03:1
 emma:1
 shapplin:1
@@ -2147,7 +2144,7 @@ camında:1
 atatürk:1
 imzasının:1
 çekti. r\t\t\t\t\tr:1
-https://www.ntv.com.tr/galeri/sanat/emma-shapplin-ve-husnu-senlendiriciden-muzik-ziyafeti4dpmhv9l-kgmtxmrzsfmxa:1
+feti4dpmhv9l-kgmtxmrzsfmxa:1
 16:00:07:1
 5:1
 fantastikten:1
@@ -2202,7 +2199,7 @@ fırat:1
 aydınus:1
 pozisyonda:1
 göstermedi.:1
-https://www.ntv.com.tr/sanat/yalcin-ozden-cem-yilmaz-fantastikten-vazgecerse-sahan-gokbakarla-yarisirjq5npyqteumbdisqvznsvw:1
+kbakarla-yarisirjq5npyqteumbdisqvznsvw:1
 18:00:04:1
 gülse:4
 birselin:4
@@ -2264,7 +2261,6 @@ dakika:1
 çekileceği:1
 konuşuluyor.:1
  r\t\t\t\t\tr:3
-http://www.cumhuriyet.com.tr/haber/kultur-sanat/878468/gulse_birsel_in_yeni_dizisinde_surpriz_oyuncu.html:1
 18:18:03:1
 genco:1
 erkal::1
@@ -2289,8 +2285,7 @@ ankara’dan:1
 gelenler:1
 oldu:3
 konservatuardan:1
-orkestralar.:1
-http://www.cumhuriyet.com.tr/haber/kultur-sanat/878472/sanatci_genco_erkal__ataturkculukleri_bir_hesap_isi.html:1
+orkestralar.:1html:1
 23:54:11:1
 google:1
 playden:1
@@ -2352,7 +2347,7 @@ bilmediklerini:1
 northbridge:1
 properties:1
 şirket.:1
-https://www.ntv.com.tr/galeri/sanat/google-playden-2017de-en-cok-izlenen-dizi-ve-filmleri--bgl9xy9uccr4ibnaywva:1
+leri--bgl9xy9uccr4ibnaywva:1
 2017-12-03:2
 05:00:08:1
 kamançasıyla:1
@@ -2423,7 +2418,7 @@ kültürünün:1
 derinliğinden:1
 etkilendiğini:1
 belirtiyor.:1
-https://www.ntv.com.tr/sanat/kamanca-ustadi-mark-eliyahu-istanbullu-hayranlariyla-bulustuk3njthzu8k6iggg2sldmda:1
+ustuk3njthzu8k6iggg2sldmda:1
 07:32:02:1
 kitap:5
 okuyup:1
@@ -2491,8 +2486,7 @@ sevda:1
 ablamızı:1
 aramayı:1
 unutmayın.:1
-https://www.cnnturk.com/kultur-sanat/kitap/bir-kitap-okuyup-cocuklara-umut-olalim:1
-2017-12-04:2
+017-12-04:2
 08:55:03:2
 6:2
 bollywoodun:1
@@ -2536,7 +2530,7 @@ yapımcılığını:1
 shakespeare-wallah:1
 toz:1
 tanındı.:1
-https://www.ntv.com.tr/sanat/bollywoodun-efsane-ismi-shashi-kapoor-hayatini-kaybetti-shashi-kapoor-kimdirohubgnwwq0wzkhuata_0ua:1
+shashi-kapoor-kimdirohubgnwwq0wzkhuata_0ua:1
 18:56:02:1
 atlas:1
 dergisinden:1
@@ -2616,8 +2610,7 @@ tarif:1
 atlas’ın:1
 ücretsiz:1
 ekinde.:1
-https://www.cnnturk.com/kultur-sanat/atlas-dergisinin-aralik-ayi-sayisi-cikti:1
-2017-12-05:4
+12-05:4
 10:00:05:2
 kalmasın!:1
 yapan:10
@@ -2662,8 +2655,7 @@ düşünenlerdenim.:1
 bence:2
 izleyin:1
 için.:1
-https://www.ntv.com.tr/sanat/aile-arasinda-kalmasinqodxfrrjguqrj6oqavm7rw:1
-11:00:03:1
+1
 senin:1
 tuhafım:1
 diyen:1
@@ -2692,7 +2684,7 @@ rebecca’ya:1
 haklısın’:1
 demek:3
 isterdim.:1
-https://www.cnnturk.com/kultur-sanat/sahne/en-az-senin-kadar-tuhafim-diyen-uc-kadinin-hikayesi:1
+-hikayesi:1
 13:55:05:1
 konu:1
 osmanlıdan:2
@@ -2778,7 +2770,7 @@ faaliyetleri:1
 zekeriyanın:1
 tanıklıkları:1
 veriyor.:1
-https://www.cnnturk.com/kultur-sanat/kitap/toplumsal-tarihte-konu-osmanlidan-bugune-adalet-ve-hukuk:1
+dalet-ve-hukuk:1
 14:44:03:1
 14:1
 usta:1
@@ -2813,9 +2805,7 @@ hastanede:3
 tutuldu:1
  tedbir:1
 yatan:1
-durumunun:1
-http://www.cumhuriyet.com.tr/haber/turkiye/880674/usta_sanatci_selami_sahin_hastaneye_kaldirildi.html:1
-2017-12-06:6
+durumunun:17-12-06:6
 08:45:03:1
 fransız:3
 şarkıcı:5
@@ -2875,7 +2865,7 @@ baye’den:1
 laura:1
 kızı:1
 bulunuyor.:1
-https://www.cnnturk.com/kultur-sanat/unlu-fransiz-sarkici-johnny-hallyday-74-yasinda-yasamini-yitirdi:1
+yasamini-yitirdi:1
 gezici:7
 festivalin:4
 durağı::1
@@ -2922,8 +2912,7 @@ demirkubuz:1
 sinop’ta:1
 konuğu:1
 olacak.:1
-https://www.ntv.com.tr/sanat/gezici-festivalin-duragi-sinopmnzmzx7m6ekkiybcnimzla:1
-ilk:4
+lk:4
 bakışta:1
 yanıltan:1
 fotoğraflar:1
@@ -2996,7 +2985,7 @@ sendromunun:1
 oranında:2
 geçtiğini:1
 söyledi.:1
-https://www.ntv.com.tr/galeri/sanat/ilk-bakista-yaniltan-fotograflar-photoshop-yok9cm-_wxtjkwo08z4pqajqq:1
+-_wxtjkwo08z4pqajqq:1
 15:00:09:1
 şehir:7
 tiyatrolarından:1
@@ -3038,7 +3027,7 @@ hastanelere:1
 kaldırdı.:1
 yaralandığı:1
 başlatıldı.:1
-https://www.ntv.com.tr/sanat/istanbul-buyuksehir-belediyesi-sehir-tiyatrolari-bu-hafta17-oyun-sahneleyecekmwa5yzgwe0mvi0cl4_t8_w:1
+a17-oyun-sahneleyecekmwa5yzgwe0mvi0cl4_t8_w:1
 23:00:06:1
 artı:2
 takvimi:2
@@ -3128,7 +3117,7 @@ tetikleyecek:1
 doğuracak:1
 dramlara:1
 yaklaşımdır.:1
-https://www.ntv.com.tr/sanat/ahmet-aslan-arti-sahnede-sanat-takvimi80ho8jser0oipamazrvz8a:1
+vz8a:1
 23:00:08:1
 ‘damdaki:1
 kemancı’:1
@@ -3146,7 +3135,7 @@ karşısında:2
 güncellenmeye:2
 var.:5
 var.:1
-https://www.ntv.com.tr/sanat/damdaki-kemanci-zorluda-ilk-yerli-muzikaltuyd6xkxheqsrqzm-o6d0w:1
+m-o6d0w:1
 2017-12-07:10
 02:00:03:1
 dili:3
@@ -3196,7 +3185,6 @@ yaşatılması:1
 çalışmalara:1
 destekler:1
 artacaktır.:1
-https://www.ntv.com.tr/sanat/kus-dili-unesco-listesine-girdi1kpf7xfivuwwwiq7ewxxuw:1
 07:16:05:1
 yalın:4
 yine:1
@@ -3238,8 +3226,7 @@ olalım.:1
 hele:1
 başlayalalım’:1
 rrrrrr.:1
-https://www.ntv.com.tr/sanat/yalin-yine-yeni-yeniden8v47nwvpxuc4jotc1aifoq:1
-08:32:05:1
+:1
 iskender:6
 paydaş::1
 ideallerim:1
@@ -3385,7 +3372,7 @@ evde:4
 bestelerini:2
 yapmaya:1
 başladı:2
-https://www.ntv.com.tr/sanat/iskender-paydas-ideallerim-arasinda-kayahanla-calismak-vardir-fopr_dguc8tlk4-ch5fg:1
+ardir-fopr_dguc8tlk4-ch5fg:1
 11:40:03:1
 işe:3
 yarar:4
@@ -3432,7 +3419,7 @@ sanatrcategory2::2
 &#8220işe:1
 şey&#8221:1
 fragmanırrrrr.:2
-https://www.ntv.com.tr/sanat/ise-yarar-bir-sey-ekibi-gezici-festivale-konuk-oldud1-e7p9u7uiqxckuj38xsq:1
+p9u7uiqxckuj38xsq:1
 11:56:01:1
 3.:1
 gülsin:4
@@ -3523,7 +3510,7 @@ mutluyum:1
 gururluyum:1
 konuştu.:4
 3.:1
-https://www.cnnturk.com/kultur-sanat/diger/3-gulsin-onay-piyano-gunleri-basliyor-unlu-virtuozler-suleymanpasada:1
+-virtuozler-suleymanpasada:1
 12:22:05:1
 27.:1
 şehrin:3
@@ -3588,7 +3575,7 @@ binin:1
 gelirken:1
 paylaşımı:1
 gerçekleştirildi.:1
-https://www.cnnturk.com/kultur-sanat/muzik/27-akbank-caz-festivali-sehrin-caz-haline-inovasyon-katti:1
+inovasyon-katti:1
 12:55:03:1
 ocean’s:1
 8ten:1
@@ -3645,7 +3632,7 @@ rahatlıkla:1
 kullanabileceği:1
 radyonom’a:1
 webte www.:1
-https://www.ntv.com.tr/galeri/sanat/oceans-8ten-yeni-gorsel-yayinlandijpvi3tbrae-73f3yrfimua:1
+yrfimua:1
 bingöl’de:3
 iklim:1
 değiştirdi:1
@@ -3713,7 +3700,6 @@ festivali:1
 kapanışı:1
 kolpa:1
 yaptı.:2
-https://www.cnnturk.com/kultur-sanat/kisa-film-festivali-bingolde-iklim-degistirdi:1
 14:33:04:1
 yılın:4
 geldiğini:2
@@ -3774,7 +3760,7 @@ gösterileri:1
 boyu:1
 göstereleri:1
 düzenlendi.:2
-https://www.ntv.com.tr/galeri/sanat/yeni-yilin-geldigini-hatirlatan-10-sarkilwjizdtoe0g4rs9mgzpxcq:1
+0g4rs9mgzpxcq:1
 22:00:03:1
 10:5
 yayınlanacağı:1
@@ -3819,8 +3805,7 @@ eşinden:1
 ayrıldığı:1
 öğrenilen:1
 ölümüyle:2
-sürüyor.:1
-http://www.cumhuriyet.com.tr/haber/kultur-sanat/882284/gulse_birsel_in_yeni_dizisinin_yayinlanacagi_kanal_belli_oldu.html:1
+sürüyor.:1elli_oldu.html:1
 2017-12-08:5
 12:00:03:1
 seyirciye:3
@@ -3856,7 +3841,7 @@ ateşte:1
 yakmadan:1
 tazeliğini:1
 ettim.:1
-https://www.ntv.com.tr/sanat/zihni-goktayseyirciye-olan-saygimi-hicbir-zaman-yitirmedim2p467hdfm0yqsllg1tximg:1
+im2p467hdfm0yqsllg1tximg:1
 13:08:05:1
 hello!’dan:1
 dergi::1
@@ -3907,8 +3892,7 @@ hayatının:1
 isimleriyle:1
 dergi:1
 topladı.:1
-https://www.cnnturk.com/kultur-sanat/hello-dan-yepyeni-bir-dergi-pop-up-mag:1
-13:33:03:1
+3:1
 yüz:1
 doluluk:6
 oranıyla:2
@@ -3973,7 +3957,7 @@ haftadan:1
 oyunlarında:1
 oranları:1
 yaşandı.:1
-https://www.cnnturk.com/kultur-sanat/sahne/sehir-tiyatrolari-yuzde-yuz-doluluk-oraniyla-rekora-kosuyor:1
+la-rekora-kosuyor:1
 14:22:03:2
 resimli:1
 edebiyat:3
@@ -4033,8 +4017,7 @@ düşünce:1
 mesaisinin:1
 izlerini:1
 taşır.:1
-https://www.cnnturk.com/kultur-sanat/kitap/2018-resimli-turkce-edebiyat-takvimi:1
-14:22:04:1
+22:04:1
 ‘kedi’:1
 2017’nin:1
 iyileri:1
@@ -4076,9 +4059,7 @@ city:2
 z:1
 kayıp:1
 z:1
-4.:3
-http://www.cumhuriyet.com.tr/haber/kultur-sanat/883153/_kedi___2017_nin_en_iyileri_arasinda.html:1
-2017-12-10:1
+4.:310:1
 03:27:05:1
 selim::1
 adını:3
@@ -4159,7 +4140,7 @@ duyar:1
 duymaz:1
 sormadan:1
 ettim:1
-https://www.ntv.com.tr/sanat/ibrahim-selim-adini-duyunca-hemen-kabul-ettimiweh8qahm0-z8nx7efycjw:1
+z8nx7efycjw:1
 2017-12-11:1
 13:16:04:1
 ozanı:4
@@ -4194,9 +4175,7 @@ tepebaşında:1
 ozanların:1
 atışma:1
 birinci:2
-seçilmişti.:1
-http://www.cumhuriyet.com.tr/haber/kultur-sanat/885121/halk_ozani_ali_kiziltug_yasamini_yitirdi.html:1
-2017-12-13:13
+seçilmişti.:1-12-13:13
 06:45:04:1
 alakarga:1
 yayınlarından:1
@@ -4251,7 +4230,7 @@ lewis:1
 carroll:1
 kütüphaneci:1
 kuklacıydı.:1
-https://www.cnnturk.com/kultur-sanat/kitap/alakarga-yayinlarindan-bu-yilin-yeni-kitaplari:1
+lari:1
 07:22:02:1
 işçi:1
 yıldız’ın:2
@@ -4348,8 +4327,7 @@ filmdir.:1
 fragmanını:1
 izlemek:1
 tıklayınız .:1
-https://www.cnnturk.com/kultur-sanat/cocuk-isci-ahmet-yildizin-anisina-sekir-pemb:1
-07:33:03:1
+7:33:03:1
 mülteci:1
 müzisyenler:2
 barışı:2
@@ -4455,7 +4433,7 @@ böyle:2
 organizasyonda:1
 olmaktan:1
 duyuyorum:1
-https://www.cnnturk.com/kultur-sanat/sahne/multeci-muzisyenler-dunya-barisi-icin-sahne-aldi:1
+e-aldi:1
 09:11:04:1
 mix:2
 festival’de:2
@@ -4508,7 +4486,7 @@ sanatçıların:1
 dallarından:1
 performanslar:1
 alacak.:2
-https://www.cnnturk.com/kultur-sanat/sahne/mix-festivaldeki-red-bull-warm-up-sahnesi:1
+1
 09:11:06:1
 roma:2
 mısır:2
@@ -4576,8 +4554,7 @@ arkadaşımız:1
 olduğundan:1
 prova:1
 oldu.:1
-https://www.cnnturk.com/kultur-sanat/ikincikatin-yeni-oyunu-isiltili-hasereler:1
-11:44:02:1
+4:02:1
 aralıkta:1
 martıların:6
 efendisi:2
@@ -4647,7 +4624,7 @@ bambaşka:1
 anlattığı:2
 içine:1
 çekmektedir.:1
-https://www.cnnturk.com/kultur-sanat/sinema/22-aralikta-martilarin-efendisi-filmi-vizyona-giriyor:1
+yona-giriyor:1
 12:33:02:1
 değiştiren:1
 dahilerin:1
@@ -4716,7 +4693,7 @@ göründüğü:1
 olmadığını:1
 oyununu:1
 edecektir.:1
-https://www.cnnturk.com/kultur-sanat/kitap/dunyayi-degistiren-dahilerin-acimasiz-savasi-karanligin-son-gunleri:1
+si-karanligin-son-gunleri:1
 11:2
 yeniceli:3
 ağa’nın:3
@@ -4789,7 +4766,7 @@ gap:1
 yayınında:1
 köşe:1
 yazarlığı:1
-https://www.cnnturk.com/kultur-sanat/kitap/yeniceli-mehmet-aganin-nefes-kesen-gercek-yasam-oykusu-madalyasiz:1
+yasam-oykusu-madalyasiz:1
 14:33:03:1
 12:1
 doğdun:1
@@ -4852,8 +4829,7 @@ besime:1
 açlık:1
 grevinde:1
 paylaşımları:1
-https://www.ntv.com.tr/sanat/iyi-ki-dogdun-tarik-akankastxrsijeaohxgcqfw7zw:1
-15:00:05:1
+5:1
 selena:1
 gomezden:1
 albüm:2
@@ -4913,7 +4889,7 @@ demirspor:1
 karşılaşmasında:1
 giyemeyecek:1
 isimler.:1
-https://www.ntv.com.tr/sanat/selena-gomezden-yeniyila-yeni-album-mujdesimt04drxuw0gewqookarf6g:1
+qookarf6g:1
 17:00:05:1
 mesnevi:2
 pazarının:1
@@ -4988,8 +4964,7 @@ anadolu’yu:1
 kapsayan:1
 turları:2
 düzenlemektedir…        .:1
-https://www.cnnturk.com/kultur-sanat/kitap/mesnevi-ask-pazarinin-kuruldugu-yerdir:1
-19:22:02:1
+9:22:02:1
 x-men:1
 gündemde:1
 hugh:1
@@ -5037,7 +5012,7 @@ geçişi:1
 gerekçelerle:1
 sık:2
 kapatılıyor.:1
-https://www.ntv.com.tr/galeri/sanat/yeni-x-men-serisi-gundemde-hugh-jackmanin-avengers-hayaliaqlgj515xea1z1yxml6xpg:1
+s-hayaliaqlgj515xea1z1yxml6xpg:1
 2017-12-14:11
 01:00:03:1
 kaybetti:1
@@ -5098,7 +5073,7 @@ bakanıyla:1
 görüşen:1
 müjdeyi:1
 verdi :1
-https://www.ntv.com.tr/galeri/sanat/halk-ozani-ali-kiziltug-hayatini-kaybetti-2017de-hayatini-kaybeden-unlulerja6heqzuu0iakdmfeju5yw:1
+hayatini-kaybeden-unlulerja6heqzuu0iakdmfeju5yw:1
 06:00:03:1
 erdemci:1
 yıldan:1
@@ -5122,7 +5097,7 @@ mı:2
 zor:1
 albümde:1
 demişsiniz.:1
-https://www.cnnturk.com/kultur-sanat/muzik/fatih-erdemci-18-yildan-sonra-kapilar-ile-dondu:1
+dondu:1
 08:11:06:1
 kaf:4
 dağı’nın:3
@@ -5190,8 +5165,7 @@ sipariş:1
 edilmiş:1
 yazıları:1
 alıyor.:2
-https://www.cnnturk.com/kultur-sanat/kaf-daginin-ardinda-sergisi-uzatildi:1
-09:33:03:1
+1
 hollywood:1
 yıldızı:1
 ethan:4
@@ -5248,7 +5222,7 @@ kitabıyla:1
 yaşamanın:1
 sırlarını:1
 anlatıyor.:1
-https://www.cnnturk.com/kultur-sanat/kitap/hollywood-yildizi-ethan-hawketan-sovalyeligin-kurallari-kitabi:1
+gin-kurallari-kitabi:1
 11:55:06:1
 koçak:3
 iktidarının:2
@@ -5319,7 +5293,7 @@ baskıları:1
 kuruluşuna:1
 mutabakat:1
 alanlarını:1
-https://www.cnnturk.com/kultur-sanat/kitap/cemil-kocak-chp-iktidarinin-sonunu-yazdi:1
+
 13:33:04:1
 tiyatrokareden:1
 leylanın:1
@@ -5374,7 +5348,7 @@ leyla’nın:1
 sekizinci:1
 ile:1
 150.:1
-https://www.cnnturk.com/kultur-sanat/sahne/tiyatrokareden-leylanin-evi-ve-ahududuya-devam:1
+evam:1
 13:44:08:1
 keman:2
 okan:2
@@ -5427,7 +5401,6 @@ yerinde:2
 keşfin:1
 mahkemeye:2
 sunulan:1
-http://www.cumhuriyet.com.tr/haber/turkiye/886322/keman_sanatcisi_okan_arikan_davasinda_yeni_gelisme.html:1
 hapsi:1
 istenen:1
 ferhat:1
@@ -5471,7 +5444,7 @@ düzeyde:1
 oran:1
 tutturacağımıza:1
 inanıyorum.:1
-https://www.cnnturk.com/turkiye/6-yil-hapsi-istenen-sanatci-ferhat-tunc-hakim-karsisinda:1
+nda:1
 18:00:02:1
 istanbul’dan:1
 first:1
@@ -5523,7 +5496,7 @@ konserinden:1
 kolundaki:1
 uyuşukluğun:1
 düzelmediğini:1
-https://www.ntv.com.tr/galeri/sanat/istanbuldan-first-lady-gecti-carla-bruni-ruzgariktrkat7pi0eqi6l1fddg8w:1
+trkat7pi0eqi6l1fddg8w:1
 20:00:02:1
 yolculuğuna:1
 uğurlandı:1
@@ -5666,7 +5639,7 @@ değildir.işletmemizden:1
 4:1
 akitleri:1
 feshedilmiştir.r\t\t\t\t\tr:1
-https://www.ntv.com.tr/galeri/sanat/halk-ozani-ali-kiziltug-son-yolculuguna-ugurlandin-wszuavfusahqjkyfsgpq:1
+n-wszuavfusahqjkyfsgpq:1
 21:00:05:1
 dergisi:1
 çıktı:1
@@ -5722,8 +5695,7 @@ ekici:1
 özge:1
 ç.:1
  .:1
-https://www.cnnturk.com/kultur-sanat/turkiyenin-ilk-plak-dergisi-piyasaya-cikti:1
-2017-12-15:15
+7-12-15:15
 03:55:05:1
 topkapı:2
 sarayında:1
@@ -5759,10 +5731,7 @@ ilban:1
 sözünü:1
 ettiği:5
 sistemi:3
-anlaşıldı.:1
-http://www.cumhuriyet.com.tr/haber/kultur-sanat/886506/topkapi_sarayi_nda_tarihi_kesif.html:1
-05:18:03:1
-2017nin:1
+anlaşıldı.:117nin:1
 vahşi:1
 fotoğrafları:1
 national:1
@@ -5798,7 +5767,7 @@ sisteminin:1
 satışlarını:1
 etkilemesi:1
 normal.:1
-https://www.ntv.com.tr/galeri/sanat/2017nin-en-iyi-vahsi-yasam-fotograflari-national-geographickiyuh_q1oegmpkgy9bytmw:1
+geographickiyuh_q1oegmpkgy9bytmw:1
 06:00:05:1
 ayla:3
 yarışına:1
@@ -5852,8 +5821,7 @@ ostlundaylayı:3
 vizyonda:3
 haftalık:3
 4.:1
-https://www.cnnturk.com/kultur-sanat/sinema/ayla-oscar-yarisina-katilamadi:1
-07:33:04:1
+:1
 ayla:3
 oscara:4
 olamadı:2
@@ -5871,10 +5839,7 @@ adayları:2
 ocakta:2
 açıklanacak.:2
 şöyle::5
-şili:2
-http://www.cumhuriyet.com.tr/haber/kultur-sanat/886621/ayla__oscar_a_aday_olamadi.html:1
-08:18:02:1
-gezmekle:1
+şili:2e:1
 bitmeyen:1
 istanbulun:1
 fotoğrafları:1
@@ -5917,8 +5882,7 @@ paraydı:1
 nikolai:1
 vashshilin:1
 doszdh:1
-https://www.ntv.com.tr/galeri/sanat/bir-zamanlar-istanbul-eski-istanbul-fotograflarie_d9wresnuo5nph1e6j_ka:1
-https://www.ntv.com.tr/galeri/sanat/ayla-oscara-aday-olamadiy7hqslvh7ekkvurd7hpafa:1
+_d9wresnuo5nph1e6j_ka:1
 10:00:06:1
 aslı:2
 enverden:1
@@ -5945,7 +5909,7 @@ ki.:1
 rrdatalayer.:1
 &#39öteki:1
 taraf&#39:1
-https://www.ntv.com.tr/sanat/asli-enverden-oteki-taraf-aciklamasivcpw214ltuefrdl3r5ltta:1
+ta:1
 10:32:03:1
 eteği:6
 belinde:6
@@ -6077,14 +6041,12 @@ olmayacağını:3
 anlamış:3
 olmakla:3
 kırıklıklarından:3
-vazgeçecekr\t\t\t\t\tr:3
-http://www.cumhuriyet.com.tr/haber/kultur-sanat/886965/_etegi_belinde__sarkisi_calinti_cikti..._manus_baba_dan_aciklama.html:1
+vazgeçecekr\t\t\t\t\tr:3dan_aciklama.html:1
 13:54:03:1
 çıktı:3
 iddiası...:1
 mynette:2
-göre sanatçı:2
-http://www.cumhuriyet.com.tr/haber/kultur-sanat/886965/_etegi_belinde_sarkisi_calinti_cikti__iddiasi..._manus_baba_dan_aciklama.html:1
+göre sanatçı:2us_baba_dan_aciklama.html:1
 14:09:02:1
 game:2
 thronesun:2
@@ -6093,7 +6055,7 @@ wall:1
 mi?:1
 deniliyordu:1
 ama.:1
-https://www.ntv.com.tr/galeri/sanat/game-of-thronesun-duvari-the-wall-gercek-olabilir-miey4frzrtauwtoxxbpedg6g:1
+-miey4frzrtauwtoxxbpedg6g:1
 15:00:04:1
 sansa:1
 starktan:1
@@ -6157,7 +6119,7 @@ kongrenin:1
 yönde:1
 yapması:1
 söylemişti.:1
-https://www.ntv.com.tr/galeri/sanat/sansa-starktan-sophie-turner-game-of-thronesun-8-final-sezonu-hakkinda-ipucumtkjsjpt6eidi8g-at6hga:1
+final-sezonu-hakkinda-ipucumtkjsjpt6eidi8g-at6hga:1
 19:00:03:1
 arif:1
 v:1
@@ -6188,7 +6150,7 @@ jeolojik:1
 büyüklüğünü:1
 65:1
 açıkladı.:2
-https://www.ntv.com.tr/video/sanat/arif-v-2016nin-fragmani-yayinlandiuliimrtpauuonslhlv-osq:1
+lv-osq:1
 20:00:05:1
 2018de:3
 hbo’da:1
@@ -6250,8 +6212,7 @@ kontrol:1
 tahliye:1
 edilmelerine:1
 verdi.:1
-https://www.ntv.com.tr/video/sanat/2018de-hboda-neler-varvv1k4eus-uqp4lnv4jr_nq:1
-21:00:06:1
+00:06:1
 ‘oradaydım’:1
 sebep:1
 kredi:5
@@ -6289,7 +6250,7 @@ başından:1
 beri:1
 negatifte:1
 tutuyor.:1
-https://www.ntv.com.tr/galeri/sanat/mix-festivalde-oradaydim-demek-icin-17-sebep_f6rhybcvkusuakb-sawsq:1
+ybcvkusuakb-sawsq:1
 21:00:07:1
 simpsonsın:2
 walt:2
@@ -6656,7 +6617,7 @@ iran’a:1
 gittiği:1
 basına:1
 yansımıştı.:1
-https://www.ntv.com.tr/galeri/sanat/the-simpsonsin-bir-bolumu-daha-19-yil-sonra-gercek-oldu-walt-disney-20th-centulnyhjn_biesg1n8rfratpq:1
+k-oldu-walt-disney-20th-centulnyhjn_biesg1n8rfratpq:1
 2017-12-16:3
 10:00:02:1
 babanın:1
@@ -6771,7 +6732,7 @@ getirmiş.:1
 evrakı:1
 anlatıyorum.:1
 operasyonu.:1
-https://www.ntv.com.tr/galeri/sanat/manus-babanin-etegi-belinde-sarkisi-calinti-cikti-msg-karar-verdihuwtpzwn5u2hjnfqevexfq:1
+-msg-karar-verdihuwtpzwn5u2hjnfqevexfq:1
 10:00:04:1
 oğuz:5
 atay:3
@@ -6836,7 +6797,7 @@ satma:1
 hikayeleri:1
 gelişen:1
 olaylar:1
-https://www.ntv.com.tr/sanat/bitcoinli-komedi-filmi-cekiliyorfo-gfubn8u2xqfyfq0dcua:1
+
 17:32:04:1
 gösterimi:1
 00da:1
@@ -6890,6 +6851,6 @@ aşk:1
 sevgisi:1
 şiir:1
 okudu.:1
-https://www.ntv.com.tr/sanat/uluslararasi-yaren-sairler-soleniucuncu-kez-duzenlendi12jaszd1de6kt13a_8phba:1
+jaszd1de6kt13a_8phba:1
 2017-12-17:1
 09:00:06:1

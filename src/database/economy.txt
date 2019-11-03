@@ -1587,7 +1587,6 @@ yapılır:1
 iyileş:2
 10a:3
 düşüyor.:1
-https://www.ntv.com.tr/ekonomi/izmirde-suya-yuzde-10-zamslwncpm3duyvsybzdqzd3w:1
 2017-11-27:1
 21:00:02:1
 oecd:1
@@ -1635,7 +1634,7 @@ erdoğa:6
 dördünç:2
 civar:6
 bekliyor.:3
-https://www.ntv.com.tr/ekonomi/oecd-turkiyenin-buyume-tahminini-yukseltti1yu8uuiz8e-grmbrcxilcq:1
+z8e-grmbrcxilcq:1
 2017-11-28:3
 12:00:06:1
 rusyadan:1
@@ -1670,7 +1669,7 @@ tem:3
 kullanılma:1
 söylemişti.:1
  rr.:1
-https://www.ntv.com.tr/ekonomi/rusyadan-kripto-para-uyarisinyyj7smtdukti1b1kv1neg:1
+g:1
 16:00:02:1
 bitcoinden:1
 rekor!:1
@@ -1693,7 +1692,7 @@ sürer:2
 ihtimali:1
 80in:1
 savunuyor.:1
-https://www.ntv.com.tr/ekonomi/bitcoinden-yeni-rekor-10-bin-dolari-gordu_x9_eazosu-1ltrppbx_da:1
+su-1ltrppbx_da:1
 20:00:09:1
 actera:2
 grati:3
@@ -1734,7 +1733,7 @@ responsivercategory1::1
 yaşamrcategory2::1
 rihanna&#39dan:1
 markarrrrr.:1
-https://www.ntv.com.tr/ekonomi/actera-group-gratise-ortakoldu7f9pcnsxleeurkelcub9ua:1
+9ua:1
 2017-11-29:3
 09:00:06:1
 yumurta:6
@@ -1791,7 +1790,7 @@ baktık:4
 mü:2
 gezen:1
 görebilecek:1
-https://www.ntv.com.tr/ekonomi/yumurta-satisinda-yeni-donemdldywfc_fuqohk24wlmsig:1
+g:1
 11:00:04:1
 fedden:2
 bitcoin:4
@@ -1826,7 +1825,7 @@ fed’in:1
 konuşmak:1
 hakk:9
 kon:1
-https://www.ntv.com.tr/ekonomi/fedden-bitcoine-rakip-mi-geliyorql2u5ymxuk2szkxdttflrg:1
+tflrg:1
 21:00:05:1
 tasfiye:2
 tasarruf:1
@@ -1872,7 +1871,7 @@ idaresine:1
 başvur:1
 yapılma:6
 gerekmektedir.:1
-https://www.ntv.com.tr/ekonomi/bank-asyanin-iflas-tasfiye-islemlerine-baslandirwnnj43h9eoia11g5oyzkg:1
+nnj43h9eoia11g5oyzkg:1
 2017-11-30:14
 07:00:06:1
 kadar?:5
@@ -1885,7 +1884,7 @@ dün:11
 9550/3.:1
 görüyor.:2
 rr.:1
-https://www.ntv.com.tr/ekonomi/dolar-ne-kadar-30-kasim-2017-dolar-euro-fiyatlari6_gc5vq3nku0ywv0ezlnla:1
+6_gc5vq3nku0ywv0ezlnla:1
 07:00:07:1
  ihracatın:1
 karşıla:1
@@ -1902,7 +1901,7 @@ takip:8
 etti.:8
 or:4
 423’tür.:1
-https://www.ntv.com.tr/ekonomi/dis-ticaret-acigi-ekimde-yuzde-74-artti_jpvow5prk6xpyzodqpfgq:1
+6xpyzodqpfgq:1
 08:00:07:1
 zirv:1
 altı:12
@@ -1921,8 +1920,7 @@ seyir:6
 jeopoli:3
 teknik:3
 açı:4
-https://www.ntv.com.tr/ekonomi/ceyrek-altin-ne-kadaryejyjwogjkkvu428qk4ufw:1
-09:00:05:2
+00:05:2
 görebilir:1
 kuyumç:1
 odas:2
@@ -2041,8 +2039,7 @@ psikoloji:1
 sıyrılmak:1
 tamamladı:ülkemizin:1
 tamdır.:1
-https://www.cnnturk.com/ekonomi/altin/altin-fiyatlari-170-lirayi-gorebilir:1
-12:22:46:1
+22:46:1
 aktifbanktan:1
 rız:10
 sarraf:19
@@ -2079,14 +2076,12 @@ işbirlik:1
 dav:4
 netice:1
 yöneltilebilecek:1
- :5
 denizbank:1
 halkbank:1
 reza:2
 zarrab:2
 açıklamasır\t\t\t\t\tr:1
 \tr\t\t\t\t\tr\t\t\t\t.:25
-http://www.cumhuriyet.com.tr/haber/ekonomi/877075/aktifbank_tan_riza_sarraf_aciklamasi.html:1
 15:56:06:1
 halkbanktan:2
  halkbanktan:1
@@ -2126,9 +2121,7 @@ mahi:2
 belirs:2
 hukuks:1
 olun:1
-r\t\t\t\t\tr:20
-http://www.cumhuriyet.com.tr/haber/ekonomi/876969/halkbank_tan_reza_zarrab_aciklamasi.html:1
-15:56:10:1
+r\t\t\t\t\tr:2015:56:10:1
 akaryakıt:3
 istasyon:4
 ihale:10
@@ -2172,9 +2165,9 @@ istenir:2
 kes:7
 verilmedik:2
 öğrenildi.:3
-https://www.cnnturk.com/ekonomi/turkiye/akaryakit-istasyonu-ihalesine-son-dakika-iptali:1
+-iptali:1
 16:44:02:1
-https://www.cnnturk.com/ekonomi/akaryakit-istasyonu-ihalesine-son-dakika-iptali:1
+1
 16:44:03:1
 canavar:1
 hisl:1
@@ -2294,7 +2287,7 @@ bıraktık:1
 halıdere’de:1
 depo:8
 indirdik:1
-https://www.ntv.com.tr/ekonomi/halkbanktan-sarraf-aciklamasijpa0g6r7l0out_opy1vd2a:1
+2a:1
 18:00:03:1
 ziraat:4
 reutersa:1
@@ -2308,8 +2301,7 @@ gün.:1
 çağlayan:9
 zafer:5
 rüşvet:8
-ettir\t\t\t\t\tr:1
-http://www.cumhuriyet.com.tr/haber/ekonomi/877205/ziraat_bankasi_ndan_riza_sarraf_aciklamasi.html:1
+ettir\t\t\t\t\tr:1html:1
 18:36:03:1
 fet:2
 randal:1
@@ -2340,7 +2332,7 @@ quarlesin:1
 yorum:1
 ismi:1
 çelişti.:1
-https://www.ntv.com.tr/ekonomi/fedden-dijital-para-aciklamasijbjlasdsze2kjwvxso-8cw:1
+8cw:1
 20:40:02:1
 dow:2
 jones:2
@@ -2372,8 +2364,7 @@ gelir:8
 04:2
 başvuru:5
 kaldı.:1
-https://www.cnnturk.com/ekonomi/dow-jones-tarihi-bir-rekorla-kapandi:1
-21:44:02:1
+1
 nobel:2
 ödül:8
 ekonomist:4
@@ -2401,7 +2392,7 @@ fitzgerald:1
 türev:1
 2018’in:2
 değerlendiriyor.:1
-https://www.cnnturk.com/ekonomi/nobel-odullu-ekonomist-stiglitz-bitcoin-hemen-yasaklanmali:1
+saklanmali:1
 23:33:02:1
 söylenti:2
 arttı...:1
@@ -2469,8 +2460,7 @@ imkansız:1
 fonla:1
 dövizle.:1
 sorun:3
-etmek:2
-http://www.cumhuriyet.com.tr/haber/ekonomi/877280/kriz_soylentileri_artti..._2018_daha_zor_gececek.html:1
+etmek:2cecek.html:1
 2017-12-01:20
 02:36:02:1
 kozyatağı:1
@@ -2502,7 +2492,7 @@ ziyaret:1
 kiralanabilir:1
 metrekare:1
 seviyesinde.:1
-https://www.cnnturk.com/ekonomi/kozyatagi-carrefour-avm-269-milyon-euroya-satiliyor:1
+yor:1
 03:33:02:1
 pozitif:3
 ayrış:1
@@ -2526,7 +2516,7 @@ belirleyiç:1
 rol:1
 oynayacak:1
 kaydetti.:8
-https://www.ntv.com.tr/ekonomi/dolar-ne-kadar-1-aralik-2017-dolar-euro-fiyatlaridc3l2x4el0cvpav5e8twrw:1
+dc3l2x4el0cvpav5e8twrw:1
 06:32:08:1
 ekonomist::1
 diyanet:2
@@ -2537,8 +2527,7 @@ kar:5
 realizasyon:1
 tetikledik:1
 zorladı.:1
- dijital:1
-http://www.cumhuriyet.com.tr/haber/ekonomi/877317/nobel_odullu_ekonomist__bitcoin_bir_balon_hemen_yasaklanmali.html:1
+ dijital:1emen_yasaklanmali.html:1
 06:45:04:1
 açılış:3
 bist:6
@@ -2554,7 +2543,7 @@ iletiş:1
 kazanç:2
 103.:2
 ism:1
-https://www.cnnturk.com/ekonomi/piyasa-hisse/borsa-gune-yatay-basladi-1-aralik-2017:1
+017:1
 07:22:04:1
 türkiye:1
 imalat:3
@@ -2574,8 +2563,7 @@ imalatçı:1
 kesintis:3
 dokuzunç:1
 gerçekleşti.:7
-https://www.cnnturk.com/ekonomi/tu-rkiye-imalat-pmi-kasimda-52-9a-yukseldi:1
-07:44:03:2
+44:03:2
 ingilterede:2
 ftse:2
 09:1
@@ -2590,7 +2578,7 @@ fran:3
 pmi12.:3
 00:2
 pmi18.:2
-https://www.cnnturk.com/ekonomi/piyasa-hisse/kuresel-piyasalar-yogun-veri-gundemine-odaklandi:1
+ine-odaklandi:1
 07:44:05:2
 2017nin:1
 yükseldi.:4
@@ -2603,7 +2591,7 @@ lirasektör:1
 aktif:2
 tamam:4
 sağlamıştı.:1
-https://www.cnnturk.com/ekonomi/turkiye/bankalarin-10-aylik-kari-gecen-yili-gecti:1
+i:1
 08:11:04:2
 halka:1
 tahsis:6
@@ -2642,7 +2630,7 @@ sıfır:5
 indirebilir:1
 ka:1
 artırabilir.:1
-https://www.cnnturk.com/ekonomi/turkiye/halka-arzlarda-yerli-yatirimci-tahsis-orani-dusuruldu:1
+ani-dusuruldu:1
 08:22:03:1
 dakika...:1
 ilk:5
@@ -2657,7 +2645,7 @@ ayki:1
 ulaşarak:1
 ovp:1
 aşacağız.:1
-https://www.cnnturk.com/ekonomi/turkiye/son-dakika-kasim-ayi-ihracat-rakami-aciklandi:1
+landi:1
 09:33:06:1
 çinli:1
 resmen:4
@@ -2678,7 +2666,7 @@ itibaren:9
 başlayabilir:2
 china çin’in:1
 yedinç:1
-https://www.ntv.com.tr/ekonomi/bank-of-chinaya-turkiye-icin-lisans-ciktiiuvv3jwtmk609kpegpx-oa:1
+mk609kpegpx-oa:1
 11:16:02:1
 kapatıyor:1
 kapatılma:1
@@ -2697,8 +2685,7 @@ müşter:2
 onlin:1
 faydalanıyor.:1
 mobil:1
-https://www.cnnturk.com/ekonomi/dev-banka-259-subesini-birden-kapatiyor:1
-11:44:04:2
+04:2
 hizme:2
 başlıyor:1
 başlayabilecek:1
@@ -2706,7 +2693,7 @@ iz:1
 çıktıbanka:1
 lisansı:1
 onaylandık:1
-https://www.cnnturk.com/ekonomi/sirketler/cinli-dev-banka-turkiyede-hizmete-basliyor:1
+iyor:1
 12:22:04:2
 metal:6
 tis:1
@@ -2742,8 +2729,7 @@ verilmeyecek:1
 açıklamaktadır.:1
 temsil:1
 etmişti.:3
-https://www.cnnturk.com/ekonomi/metal-iscisinin-tis-surecinde-uyusmazlik:1
-12:44:48:1
+:48:1
 istanbulun:3
 giy:2
 konut:6
@@ -2751,7 +2737,6 @@ konut:6
 maden:1
 işlen:6
 mensucat:1
-https://www.cnnturk.com/ekonomi/turkiye/istanbulun-kasim-enflasyonu-aciklandi:1
 12:44:49:1
 söylemey:1
 1-:1
@@ -2775,7 +2760,7 @@ içerik:1
 siz:6
 önemsiz:1
 gösterirsiniz.:1
-https://www.cnnturk.com/ekonomi/iste-hayat/is-gorusmesinde-asla-soylenmeyecekler:1
+:1
 14:00:02:1
 şangay:1
 işbirliği:3
@@ -2808,7 +2793,7 @@ afganistan’ın:2
 örgü:2
 engel:2
 bulunmadık:2
-https://www.ntv.com.tr/dunya/sangay-isbirligi-orgutunde-ekonomik-is-birligini-arttirmaliyizm4c_uijxrk-blimnoeqwlg:1
+ttirmaliyizm4c_uijxrk-blimnoeqwlg:1
 15:24:02:1
 vakıfbanktan:1
 üniversite:6
@@ -2824,13 +2809,13 @@ bey:1
 gayet:1
 güzel.:1
 gidiyor.:4
-https://www.ntv.com.tr/ekonomi/vakifbanktan-sarraf-aciklamasiksfxao9vdesfbhaj65iixg:1
+ixg:1
 16:00:04:1
 dakika::1
 çiftçi:1
 sevindirecek:1
 haber!:1
-https://www.cnnturk.com/ekonomi/turkiye/son-dakika-ciftcileri-sevindirecek-haber:1
+:1
 17:00:02:1
 flynnin:1
 tennesse:1
@@ -2885,7 +2870,7 @@ oras:1
 mertlik:1
 derler.:1
 yiği:1
-https://www.cnnturk.com/ekonomi/flynnin-itirafi-dolari-ve-abd-hisselerini-dusurdu:1
+u:1
 20:00:02:1
 abden:1
 insan:7
@@ -2907,9 +2892,7 @@ taşıdık:1
 gelebilecek:1
 yazdı.:2
 ayrılma:1
-öngörülmüştü.:1
-http://www.cumhuriyet.com.tr/haber/ekonomi/877984/ab_den_insan_haklari_sarti.html:1
-2017-12-02:11
+öngörülmüştü.:12:11
 02:45:03:1
 teşvik:3
 kral:2
@@ -2947,11 +2930,9 @@ mübariz:2
 mansimov:2
 som:2
 sıtk:2
-yapmıştı.:2
-http://www.cumhuriyet.com.tr/haber/ekonomi/878008/tesvik_krali_ayan..._adi_wikileaks_ve_malta_belgelerinde____1_sterlinlik__sirketin_tek_yonetim_kurulu_uyesi.html:1
+yapmıştı.:2_belgelerinde____1_sterlinlik__sirketin_tek_yonetim_kurulu_uyesi.html:1
 03:09:02:1
-üyesi::1
-http://www.cumhuriyet.com.tr/haber/ekonomi/878008/tesvik_krali_ayan...__1_sterlinlik__sirketin_tek_yonetim_kurulu_uyesi__adi_malta_belgelerinde.html:1
+üyesi::1n_tek_yonetim_kurulu_uyesi__adi_malta_belgelerinde.html:1
 04:09:03:1
 into:1
 `ekonomi`:1
@@ -2990,8 +2971,7 @@ tabi:3
 önemli.:1
 mücade:4
 kalk:1
-zaten.:1
-http://www.cumhuriyet.com.tr/haber/ekonomi/877970/uluslararasi_seffaflik_dernegi_baskani_ozarslan__yolsuzluga_karsi_ortak_ses_sart.html:1
+zaten.:1slan__yolsuzluga_karsi_ortak_ses_sart.html:1
 04:09:06:1
 kasımda:1
 domate:1
@@ -3015,7 +2995,7 @@ pıra:1
 muz:1
 havuç:1
 geçti.:1
-https://www.ntv.com.tr/ekonomi/kasimda-en-fazla-domatesin-fiyati-arttign8x4jkmjks3dv2av9wtnq:1
+s3dv2av9wtnq:1
 13:32:03:1
 kanserden:1
 tansiyona...:1
@@ -3087,8 +3067,7 @@ bulunmuyor.:1
 düşecek:2
 ki:6
 kolaylık:1
-bulunabiliyor:1
-http://www.cumhuriyet.com.tr/haber/ekonomi/878426/kanserden_tansiyona..._yuzlerce_ilaca_gorulmemis_zam.html:1
+bulunabiliyor:1memis_zam.html:1
 16:27:03:1
 nihat:1
 zeybekç:2
@@ -3119,8 +3098,7 @@ başlanan:2
 olta:2
 takılan:2
 chp17-25:1
-chp.:1
-http://www.cumhuriyet.com.tr/haber/ekonomi/878428/ekonomi_bakani_zeybekci_den_doviz_kurlarina_iliskin_aciklama.html:1
+chp.:1_iliskin_aciklama.html:1
 16:45:03:1
 fiyatlarının 2004ten:1
 aktarılan açıklamada:1
@@ -3137,7 +3115,7 @@ denetlemektedir.:1
 yapılmaktadır.:1
  şu:1
 ulaşmamıştır.:1
-https://www.ntv.com.tr/ekonomi/saglik-bakanligindan-ilac-fiyatlarina-iliskin-aciklamafl3fidu8meizjwrbkhlfba:1
+klamafl3fidu8meizjwrbkhlfba:1
 17:16:02:1
 altında:1
 alış:2
@@ -3155,18 +3133,12 @@ tcmb’nin:1
 rezerv:1
 hangi:2
 açıklanma:1
-gerekmektedirr\t\t\t\t\tr:1
-http://www.cumhuriyet.com.tr/haber/ekonomi/878523/altinda_rekor_alis.html:1
-23:18:06:1
-28.:2
-2017’de:2
+gerekmektedirr\t\t\t\t\tr:12017’de:2
 658’e:1
 düşen:3
 13.:1
 birliği’nde:1
-35.:1
-http://www.cumhuriyet.com.tr/haber/ekonomi/878530/k_r_artti__istihdam_azaldi.html:1
-23:45:07:1
+35.:11
 metalde:1
 grev:2
 arabuluç:2
@@ -3177,9 +3149,7 @@ ertele:1
 sağlanamaz:1
 biri:2
 hakem:1
-çözülüyor.:1
-http://www.cumhuriyet.com.tr/haber/ekonomi/878527/metalde_adim_adim_greve_dogru.html:1
-23:45:08:1
+çözülüyor.:108:1
 sgkya:1
 meslek:6
 bildirmeyen:1
@@ -3225,7 +3195,7 @@ oluşturulma:1
 üretimme:1
 sağlayacak:1
 verdiler.:1
-https://www.cnnturk.com/ekonomi/turkiye/sgkya-meslegini-bildirmeyene-ceza-geliyor:1
+r:1
 2017-12-03:3
 07:22:03:2
 bekliyor:2
@@ -3275,7 +3245,7 @@ geçilme:2
 hedefleniyorspk:1
 20’den:1
 çekildi.:1
-https://www.cnnturk.com/ekonomi/turkiye/milyar-dolarlik-halka-arzlar-bekliyoruz:1
+1
 eski:2
 taner:2
 yıldız::1
@@ -3321,8 +3291,7 @@ niç:1
 problem:1
 alakalı.:1
 halin:2
-getiriyorsunuz.:1
-http://www.cumhuriyet.com.tr/haber/ekonomi/879086/eski_enerji_bakani_taner_yildiz__iran_a_ambargoyu_turkiye_degil_avrupa_ulkeleri_deldi.html:1
+getiriyorsunuz.:1argoyu_turkiye_degil_avrupa_ulkeleri_deldi.html:1
 18:36:02:1
 yasa:5
 kat:4
@@ -3342,9 +3311,7 @@ işçi:1
 konfederasyon:2
 dairesi’ne:1
 disk-ar:1
-27.:1
-http://www.cumhuriyet.com.tr/haber/ekonomi/879099/yeni_yasalar_da_kadini_vurdu.html:1
-2017-12-04:23
+27.:1-04:23
 03:09:06:1
 hanke::1
 kurtarmak:1
@@ -3373,7 +3340,7 @@ gerçek:2
 aktardı.:1
 basılmayan:1
 edilmeyen:1
-https://www.cnnturk.com/ekonomi/dunya/prof-hanke-turk-lirasi-kurtarmak-icin-altina-endeksli-para-birimine-gecilmesi-gerek:1
+na-endeksli-para-birimine-gecilmesi-gerek:1
 03:55:03:1
 sigortalı:2
 ölmez:4
@@ -3392,7 +3359,7 @@ yaklaşımı.:2
 yıl.:1
 sakatlık:1
 içermiyor.:1
-https://www.ntv.com.tr/ekonomi/yeni-yildan-itibaren-sigortali-olmezse-primleri-iade-edilecekebuhca2dukgidjm80yvt-a:1
+ade-edilecekebuhca2dukgidjm80yvt-a:1
 05:24:01:1
 japonya...:1
 iştah:2
@@ -3412,7 +3379,7 @@ yönünde.:1
 13-15:1
 otur:1
 durumda.:2
-https://www.cnnturk.com/ekonomi/turkiye/cin-guney-kore-japonya-asyali-yatirimcilarin-turkiye-istahi-artti:1
+arin-turkiye-istahi-artti:1
 06:33:03:1
 kasım:1
 tüfe’de:1
@@ -3440,8 +3407,7 @@ tr81:1
 zonguldak:1
 karabük:1
 bart:1
-https://www.cnnturk.com/ekonomi/turkiye/kasim-ayi-enflasyon-orani-aciklandi:1
-07:11:03:1
+:11:03:1
 süslü:1
 paket:2
 aldanmay:1
@@ -3479,14 +3445,13 @@ kaydetti:yılbaşı:1
 etmeli.:1
 tehdit:1
 gerekir.:1
-https://www.ntv.com.tr/ekonomi/teskten-yilbasi-alisverisi-uyarisityovkualmka4do1bwfuxzg:1
+bwfuxzg:1
 07:24:02:1
 açıklandı...:1
 2003ten:1
 eğilim:1
 12.:6
-çekirdek:1
-http://www.cumhuriyet.com.tr/haber/ekonomi/879242/enflasyon_rakamlari_aciklandi..._2003_ten_bu_yana_en_yuksek_seviyeye_cikti.html:1
+çekirdek:1u_yana_en_yuksek_seviyeye_cikti.html:1
 07:36:02:1
 027:1
 003:1
@@ -3496,7 +3461,7 @@ enflasyo:3
 yükselecek:1
 hesaplanıyor.:1
 oldu .:1
-https://www.cnnturk.com/ekonomi/piyasa-hisse/borsa-haftaya-dususle-basladi-4-aralik-2017:1
+lik-2017:1
 07:44:04:1
 elektrikte:1
 istanbulu:1
@@ -3516,7 +3481,7 @@ sayısımesken3:1
 sulamabi:1
 638diğer40:1
 11 .:1
-https://www.cnnturk.com/ekonomi/elektrikte-serbest-tuketici-sayisi-kasimda-artti:1
+:1
 aralıktan:1
 başlayacak:3
 rakamları açıklandı.:1
@@ -3534,7 +3499,7 @@ oynaklık:1
 üretme:1
 amaçlıyor.:1
 edeceğiz.:2
-https://www.ntv.com.tr/ekonomi/mehmet-simsek-araliktan-itibaren-kalici-dusus-sureci-baslayacaktbddfwekaksylbzy589jlq:1
+eci-baslayacaktbddfwekaksylbzy589jlq:1
 07:56:05:1
 e-devlet:1
 e-bordro:3
@@ -3554,7 +3519,7 @@ mevcut:1
 kullanmak:1
 yazıp:1
 yapabilirsiniz.:1
-https://www.cnnturk.com/ekonomi/turkiye/e-devlet-e-bordro-sorgulama-nasil-yapilir:1
+r:1
 global:3
 yönetecek:1
 2008de:1
@@ -3577,7 +3542,7 @@ strateji:1
 yapış:1
 geçirme:1
 ittik:1
-https://www.cnnturk.com/ekonomi/sirketler/global-ozel-sermaye-fonlari-15-trilyon-dolari-yonetecek:1
+-dolari-yonetecek:1
 08:22:06:1
 emeklilik:1
 dönüş:1
@@ -3597,9 +3562,7 @@ dinen:1
 sayılmadık:1
 uzak:1
 değişti.:1
-https://www.cnnturk.com/ekonomi/sigortali-olmezse-prim-iade:1
-08:33:04:1
-9405den:1
+:1
 9290dan:1
 abddek:1
 diplomatik:1
@@ -3613,8 +3576,7 @@ dolar/tldeki:1
 gevşeme:1
 olamayacak:2
 görülebilecek:1
-https://www.cnnturk.com/ekonomi/turkiye/dolar-tl-enflasyon-sonrasi-geriledi:1
-08:44:05:1
+:44:05:1
 yolç:1
 taşınacak:1
 arslan:4
@@ -3661,8 +3623,7 @@ güzel:1
 gidiyor:1
 istanbullular:1
 sabredecekler.:1
-https://www.cnnturk.com/ekonomi/bu-hatta-gunde-1-5-milyon-yolcu-tasinacak:1
-08:55:05:1
+5:05:1
 air:3
 france:3
 uçuş:3
@@ -3693,14 +3654,13 @@ ntvnin:1
 filo:3
 adet:2
 belirtiliyor.:1
- r\t\t\t\t\tr:1
-http://www.cumhuriyet.com.tr/haber/ekonomi/879333/air_france__istanbul_ucuslarini_durduruyor.html:1
+ r\t\t\t\t\tr:1html:1
 09:09:03:1
 şimşek::1
 şimşek:6
 değerlendirdi.:1
 kaynaklanmak:1
-https://www.cnnturk.com/ekonomi/turkiye/simsek-enflasyonda-araliktan-itibaren-kalici-dusus-baslayacak:1
+lici-dusus-baslayacak:1
 09:44:02:1
 akpde:1
 kafa:1
@@ -3714,8 +3674,7 @@ cumhurbaşakn:1
 açıklandık:2
 biber:1
 zamangerçek:1
-ağr:1
-http://www.cumhuriyet.com.tr/haber/ekonomi/879372/akp_de_kafalar_karisik..._enflasyonun_nedeni_domates_mi_degil_mi_.html:1
+ağr:1i_domates_mi_degil_mi_.html:1
 10:09:04:1
 zirve:2
 frankfurt:1
@@ -3723,7 +3682,7 @@ sentixten:1
 indi.:3
 ölçen:1
 düşerek:1
-https://www.cnnturk.com/ekonomi/dunya/euro-bolgesinde-yatirimci-guveni-zirveden-dondu:1
+dondu:1
 11:44:05:1
 hamsinin:1
 kilogra:1
@@ -3769,7 +3728,7 @@ düzenleyecek:1
 duyurmuştu.:1
 dört:1
 yönet:2
-https://www.ntv.com.tr/ekonomi/hamsinin-kilogrami-20-liraya-yukseldisjvc3gvuaksxhfijnvgmhq:1
+hfijnvgmhq:1
 12:00:03:1
 erdoğan::1
 isteyen:1
@@ -3793,7 +3752,7 @@ muş’ta:1
 güvenmedik:1
 hitaben:1
 söyledim.:1
-https://www.cnnturk.com/ekonomi/turkiye/erdogan-isteyen-herkesin-yurtdisina-parasini-cikarma-hakki-var:1
+sini-cikarma-hakki-var:1
 12:00:04:1
 hükümetten:1
 taşeron:13
@@ -3827,8 +3786,7 @@ tamamlayarak:2
 paylaşacağız.inşallah:1
 cevap:2
 kullanmıştı.:1
-https://www.cnnturk.com/ekonomi/turkiye/hukumetten-taseron-isci-aciklamasi:1
-13:22:07:1
+22:07:1
 seçil:1
 centeno:2
 brüksel’de:1
@@ -3849,7 +3807,7 @@ bütç:5
 uyum:1
 izlenme:1
 benimsiyor.:1
-https://www.ntv.com.tr/ekonomi/euro-grubunun-yeni-baskani-secildi-gybcojnqe6w41jgqyblya:1
+gqyblya:1
 17:48:05:1
 sebze:1
 süt:1
@@ -3857,10 +3815,8 @@ peynir:1
 meyve:1
 azaldı.:2
 zeng:1
-http://www.cumhuriyet.com.tr/haber/ekonomi/879827/enflasyon_tarihi_zirveyi_gordu.html:1
-053:1
 pmi14.:1
-https://www.cnnturk.com/ekonomi/piyasa-hisse/kuresel-piyasalar-yogun-veri-trafigine-odaklandi:1
+ine-odaklandi:1
 güçlenen:1
 şekl:3
 sürdürüyor.:1
@@ -3873,12 +3829,11 @@ dolar/tlnin:2
 getiren:1
 38470e:1
 gerileyebilecek:1
-https://www.cnnturk.com/ekonomi/turkiye/dolar-ne-kadar-5-aralik-2017:1
-2017-12-05:15
+5:15
 07:11:04:1
 094:1
 105.:2
-https://www.cnnturk.com/ekonomi/piyasa-hisse/borsa-gune-yukselisle-basladi-5-aralik-2017:1
+lik-2017:1
 etkileme:2
 kullanıldı.:1
 kurl:1
@@ -3888,7 +3843,6 @@ uygulanmak:1
 rejim:1
 kullanılmamaktadır.:1
 verecektir.:1
-http://www.cumhuriyet.com.tr/haber/ekonomi/879907/merkez_bankasi_ndan_dolar_aciklamasi.html:1
 07:54:02:1
 erdoğanın:1
 onayladık:1
@@ -3962,7 +3916,7 @@ almış:1
 sorulmalıdır’:1
 erdoğan’a:1
 direnemedir\t\t\t\t\tr:1
-https://www.ntv.com.tr/galeri/ekonomi/erdoganin-onayladigi-torba-yasa-resmi-gazetede-iste-2018in-mtv-oranlarico2gifyub0g5cqzaq8dcba:1
+tede-iste-2018in-mtv-oranlarico2gifyub0g5cqzaq8dcba:1
 08:00:04:1
 tüfenkci:1
 saadet:1
@@ -4007,7 +3961,7 @@ yasaklandık:1
 kaydetti:halihazırda:1
 yürüttük:1
 şüphe:1
-https://www.ntv.com.tr/ekonomi/bakan-tufenkciden-saadet-zinciri-uyarisivfehvwb2-egulzqecwc9kq:1
+egulzqecwc9kq:1
 08:48:03:1
 şampiyon:2
 lig:2
@@ -4035,7 +3989,7 @@ uefa:1
 turnuva:1
 etm:1
 topladık:1
-https://www.ntv.com.tr/ekonomi/dolar-ne-kadar-5-aralik-2017-dolar-fiyatlarih8cnkv7_deyljj7jdi6s_q:1
+v7_deyljj7jdi6s_q:1
 vakıfbank:6
 vizyon:2
 anlamak:1
@@ -4141,7 +4095,6 @@ the:1
 year:1
 kategori:1
 birincilik:1
-https://www.cnnturk.com/ekonomi/sirketler/vakifbank-yeni-hedeflerini-acikladi:1
 09:11:08:1
 daha::1
 morgan:1
@@ -4153,7 +4106,7 @@ gördük:1
 görmedim.:1
 dayandı.:1
 görecek.:1
-https://www.cnnturk.com/ekonomi/dunya/bitcoin-icin-bir-uyari-daha-tehlikeli-bir-balon:1
+balon:1
 09:33:02:1
 harita:1
 limit:2
@@ -4169,8 +4122,7 @@ uzlaşma:1
 edilebilecek.:1
 efektif:2
 öngörülüyor.:1
-https://www.cnnturk.com/ekonomi/turkiye/merkez-2018-yol-haritasini-acikladi:1
-09:55:03:1
+:55:03:1
 doğalgazda:1
 sürüyor:1
 bor:1
@@ -4199,8 +4151,7 @@ yükseltmek:1
 ilettik:1
 arzuladık:1
 aktarıldı.:1
-https://www.cnnturk.com/ekonomi/turkiye/dogalgazda-kritik-gorusmeler-suruyor:1
-10:00:02:2
+0:00:02:2
 thy:2
 taşınmak:1
 istemiyor:1
@@ -4226,8 +4177,7 @@ airways’in:1
 aşama:1
 örnek:1
 dhmi’ye:1
-sundu.:1
-http://www.cumhuriyet.com.tr/haber/ekonomi/880031/thy__ucuncu_havalimanina_tasinmak_istemiyor.html:1
+sundu.:1.html:1
 kerevitaş:6
 gong:2
 tören:3
@@ -4278,7 +4228,7 @@ hissedar:1
 inanıyor:1
 kerevitaş’ın:1
 konsoli:1
-https://www.cnnturk.com/ekonomi/sirketler/borsa-istanbulda-gong-kerevitas-icin-caldi:1
+aldi:1
 anlat:1
 düzenleyiç:1
 denetleyiç:1
@@ -4299,7 +4249,7 @@ alıyoruz.:1
 diliyorum.:1
 mevsimlik:1
 unutmadık.:1
-https://www.cnnturk.com/ekonomi/turkiye/taseron-duzenlemesinin-detaylarini-anlatti:1
+ti:1
 11:55:05:1
 büyümede:1
 çift:1
@@ -4327,8 +4277,7 @@ ait:1
 yükselttik:1
 harcamalarıünlü&co:1
 esra:1
-https://www.cnnturk.com/ekonomi/turkiye/buyumede-cift-hane-beklentisi:1
-12:22:03:1
+:1
 atlasglobal::1
 değerlendirebilir:2
 atlasglobal:1
@@ -4350,4 +4299,4 @@ airbus:1
 operatör:1
 bombardier:1
 görüşüyor:1
-https://www.cnnturk.com/ekonomi/sirketler/atlasglobal-stratejik-ortakliklari-degerlendirebiliriz:1
+erlendirebiliriz:1

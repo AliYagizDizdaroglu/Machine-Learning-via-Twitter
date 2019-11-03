@@ -104,8 +104,9 @@ class MyStreamListener(tweepy.StreamListener):
             rate = []
             # Database ile Karşılaştırma Yapılacak (AI)
             for dataset in datasets:
-                f = open("./database/" + dataset + ".txt", "r")
-                
+                f = open("./database/" + dataset +
+                         ".txt", "r", encoding="utf8")
+
                 lines = f.readlines()
                 result = 0
                 for line in lines:
@@ -118,7 +119,7 @@ class MyStreamListener(tweepy.StreamListener):
 
                 lengthTweet = len(tweet)
                 rate.append(result / lengthTweet)
-                
+
             print(dataset + " - " + str(rate))
 
             # Bulunan sonuclara göre database güncellenecek

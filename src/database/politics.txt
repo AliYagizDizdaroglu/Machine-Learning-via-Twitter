@@ -1772,7 +1772,7 @@ skandal:2
 saray:2
 yanındar\t\t\t\t\tr:1
 r\t\t\t\t\tr\t\t\t\t.:90
-http://www.cumhuriyet.com.tr/haber/siyaset/877103/chp__belgelerle_ilgili__komisyon_kurulsun__dedi__akp_liler_gulerek_reddetti.html:1
+i__akp_liler_gulerek_reddetti.html:1
 2017-11-30:11
 15:56:05:1
 0):54
@@ -1798,7 +1798,6 @@ belirtilerek:3
 cezalandırılma:1
 isteniyordu.:1
  r\t\t\t\t\tr:9
-http://www.cumhuriyet.com.tr/haber/siyaset/876947/demirtas__onbasi__davasinda_beraat_etti.html:1
 15:56:11:1
 yar:15
 sözç:4
@@ -1823,7 +1822,7 @@ yakala:7
 aykan:6
 erdemir:7
 açıklamar\t\t\t\t\tr:1
-http://www.cumhuriyet.com.tr/haber/siyaset/876910/chp_den__belgeler_neden_savciliga_verilmedi__diyen_akp_ye_yanit.html:1
+iyen_akp_ye_yanit.html:1
 15:56:12:1
 eşitlik:3
 zirve:2
@@ -1880,7 +1879,7 @@ komisyonu’nun:2
 delil:6
 gözetilerek:1
 yaptı.r\t\t\t\t\tr:1
-http://www.cumhuriyet.com.tr/haber/siyaset/876802/kilicdaroglu_belgeleri_kimden_aldigini_acikladi__yeni_belge_sinyali_verdi.html:1
+i__yeni_belge_sinyali_verdi.html:1
 15:56:16:1
 bozdak:1
 yanıt::1
@@ -1923,7 +1922,7 @@ organizasyon:1
 katılan:3
 hakim.:1
 beklemiyorum.:1
-http://www.cumhuriyet.com.tr/haber/siyaset/876663/bekir_bozdag_dan_kilicdaroglu_nun_acikladigi_belgelere_yanit__meryem_hanimefendiye_ve_aise_annemize_de_iftira_ettiler.html:1
+elgelere_yanit__meryem_hanimefendiye_ve_aise_annemize_de_iftira_ettiler.html:1
 15:56:19:2
 evrak:3
 canıtez:1
@@ -1950,7 +1949,7 @@ görülmek:1
 mahkumiyet:1
 burs:3
 milletvekilir\t\t\t\t\tr:1
-http://www.cumhuriyet.com.tr/haber/siyaset/876661/abd_ye_belge_goturdugu_iddiasiyla_hakkinda_yakalama_karari_cikarilan_aykan_erdemir_den_aciklama.html:1
+alama_karari_cikarilan_aykan_erdemir_den_aciklama.html:1
 milletvekil:8
 görüştü...:1
 akpden:3
@@ -1966,7 +1965,7 @@ umutlanmayın.:1
 aktör:1
 olmayacağız.:1
 r\t\t\t\t\tr:61
-http://www.cumhuriyet.com.tr/haber/siyaset/876581/erdogan__milletvekilleri_ile_gorustu..._akp_den_zafer_caglayan_aciklamasi.html:1
+n_zafer_caglayan_aciklamasi.html:1
 15:56:21:1
 bahçeli:1
 günde:16
@@ -2008,7 +2007,7 @@ gerçekç:1
 beyhude:1
 belirg:1
 temennisidir.:1
-http://www.cumhuriyet.com.tr/haber/siyaset/877021/bahceli__man_adasi_skandalinda_da_saray_in_yaninda.html:1
+inda.html:1
 16:45:09:1
 1):17
 vekil:9
@@ -2035,7 +2034,6 @@ kapl:1
 koğuş:1
 yaşadık:6
 anlattı.:1
-’:1
  "diyarbakır:1
 olmas:1
 olmayacak:3
@@ -2048,7 +2046,7 @@ süre:7
 kitlesellik:1
 sağlan:1
 işaretidir":1
-http://www.cumhuriyet.com.tr/haber/siyaset/877162/akp_li_vekil_diyarbakir_cezaevindeki_iskenceyi_anlatirken_agladi__gokyuzune_bakmanin_suc_oldugu_bir_ortamdi.html:1
+_anlatirken_agladi__gokyuzune_bakmanin_suc_oldugu_bir_ortamdi.html:1
 17:09:02:1
 hdpde:1
 kurultay:7
@@ -2071,8 +2069,7 @@ alıp:1
 belirleyecek.:1
 şubat:3
 planlanıyor.:1
-http://www.cumhuriyet.com.tr/haber/siyaset/877215/hdp_de_kurultay_tarihi_belli_oldu.html:1
-19:00:03:1
+:03:1
 ysk:1
 kanu:4
 teşkilat:2
@@ -2099,8 +2096,7 @@ taşr:1
 topla:3
 ihdas:1
 edilecekr\t\t\t\t\tr:1
-http://www.cumhuriyet.com.tr/haber/siyaset/877216/ysk_kanun_teklifi_kabul_edildi.html:1
-19:09:04:1
+:1
 kozağaç:4
 tecri:1
 direniyor:1
@@ -2143,7 +2139,7 @@ icra:2
 infaz:1
 edildik:5
 ibarettirr\t\t\t\t\tr:1
-http://www.cumhuriyet.com.tr/haber/siyaset/877210/avukat_kozagacli_tecrite_karsi_tek_basina_direniyor.html:1
+niyor.html:1
 2017-12-01:11
 01:45:05:1
 adres:1
@@ -2178,7 +2174,7 @@ hazin:1
 william:1
 edward:1
 teare’nin:1
-http://www.cumhuriyet.com.tr/haber/siyaset/877279/adres_man_adasi..._belgelere_ulasmak_cok_kolay.html:1
+.html:1
 02:27:03:2
 ikna:2
 çalıştı::1
@@ -2230,7 +2226,7 @@ konuşmasın.:1
 ödeyecek.çünkü:1
 veriyor":1
 kullandı.:1
-http://www.cumhuriyet.com.tr/haber/siyaset/877278/erdogan_vekillerini_ikna_etmeye_calisti__sikinti_getirir_ama_icinden_cikariz.html:1
+ti_getirir_ama_icinden_cikariz.html:1
 yönetici:5
 (chp):1
 meclisi’nin:2
@@ -2255,8 +2251,7 @@ izn:1
 bekleniyor.:2
 ayrılan:2
 sürüyor.:1
-http://www.cumhuriyet.com.tr/haber/siyaset/877297/chp_nin_tum_yoneticilerine_sorusturma.html:1
-05:54:03:1
+5:54:03:1
 arşiv:1
 unutmaz...:1
 45-50:2
@@ -2282,7 +2277,7 @@ financial:1
 times::1
 utanç:2
 vericir\t\t\t\t\tr:1
-http://www.cumhuriyet.com.tr/haber/siyaset/877406/arsiv_unutmaz..._sarraf_in__45-50_milyon_avro_rusvet_verdim__dedigi_zafer_caglayan_ne_demisti_.html:1
+rusvet_verdim__dedigi_zafer_caglayan_ne_demisti_.html:1
 08:09:04:1
 enis:1
 berberok:1
@@ -2297,7 +2292,7 @@ cumhurbaşkanlık:3
 sistem:3
 uy:6
 alınacak.:1
-http://www.cumhuriyet.com.tr/haber/siyaset/877459/chp_li_vekiller_enis_berberoglu_durusmasinda.html:1
+tml:1
 10:00:07:1
 kurtulmuş::1
 mevlan:1
@@ -2342,7 +2337,7 @@ düğün:3
 şeb-i:1
 arus:1
 erecek.:1
-http://www.cumhuriyet.com.tr/haber/siyaset/877605/kurtulmus__mevlana_maalesef_bir_takim_yanlis_humanist_goruslerin_parcasi_olarak_anlatilmaya_calisiyor.html:1
+umanist_goruslerin_parcasi_olarak_anlatilmaya_calisiyor.html:1
 11:09:02:1
 tezcan:3
 dağıtmıştı...:1
@@ -2369,7 +2364,7 @@ açıyor.:1
 dent:1
 ‘ticaret’:1
 dendi.:1
-http://www.cumhuriyet.com.tr/haber/siyaset/877634/tezcan__belgeleri_basina_dagitmisti..._akp_den_ilk_aciklama.html:1
+_ilk_aciklama.html:1
 12:45:05:1
 kılıçdaroğl:2
 sancaktepe:1
@@ -2387,7 +2382,7 @@ gürsel:1
 teki:1
 çeşit:4
 izledi.:1
-http://www.cumhuriyet.com.tr/haber/siyaset/877692/binali_yildirim_dan_kilicdaroglu_na_tehlikeli_15_temmuz_sorusu.html:1
+15_temmuz_sorusu.html:1
 12:54:05:1
 paylaştı...:1
 geldi::1
@@ -2535,7 +2530,7 @@ süreci:1
 ediyor:1
 alınacak:3
 ediyor.:1
-http://www.cumhuriyet.com.tr/haber/siyaset/877634/chp_belgeleri_basinla_paylasti..._akp_den_yanit_geldi__fotokopi.html:1
+t_geldi__fotokopi.html:1
 12:54:08:1
 parti’den:1
 meral:9
@@ -2557,8 +2552,7 @@ sır:8
 illegal:1
 kaçakçı:1
 edilemez.:2
-http://www.cumhuriyet.com.tr/haber/siyaset/877911/iyi__parti_den_riza_sarraf_aciklamasi.html:1
-18:18:03:1
+8:18:03:1
 2):23
 duyurusu::1
 yapıl:1
@@ -2616,7 +2610,7 @@ parlakay:1
 hacızade:1
 görke:1
 akbaş:1
-http://www.cumhuriyet.com.tr/haber/siyaset/877741/akp_li_vekilden_kilicdaroglu_hakkinda_suc_duyurusu__evi_ve_chp_genel_merkezinde_arama_yapilsin.html:1
+rusu__evi_ve_chp_genel_merkezinde_arama_yapilsin.html:1
 2017-12-02:12
 00:00:12:1
 demirtaştan:1
@@ -2637,7 +2631,7 @@ tartış:4
 vurgulanırken:1
 yasak:1
 dillendirildi.:1
-http://www.cumhuriyet.com.tr/haber/siyaset/878009/demirtas_tan_partisine__benimle_ilgili_karari_verin__mesaji.html:1
+verin__mesaji.html:1
 03:18:03:1
 elitaş:3
 kılıçdaroğluna::1
@@ -2659,7 +2653,7 @@ tbmmden:1
 ticaret:3
 yönetmelik:4
 görünüyor.:1
-http://www.cumhuriyet.com.tr/haber/siyaset/878178/akp_li_elitas_tan_kilicdaroglu_na__camur_adam.html:1
+html:1
 10:18:03:1
 akşener::2
 yaş:5
@@ -2686,7 +2680,7 @@ otomobil:2
 ark:1
 cam:1
 çekti. r\t\t\t\t\tr:1
-http://www.cumhuriyet.com.tr/haber/siyaset/878345/meral_aksener__26_yasinda_bir_dolandirici_ile_siz_bu_isi_nasil_tuttunuz_.html:1
+siz_bu_isi_nasil_tuttunuz_.html:1
 14:18:04:1
 randevu:1
 yüç:1
@@ -2700,7 +2694,7 @@ kürsü:5
 teker:2
 gördü.:1
 yok.:1
-http://www.cumhuriyet.com.tr/haber/siyaset/878357/chp_li_ozel__akp_li_unal_a_belgeler_icin_randevu_verdi.html:1
+vu_verdi.html:1
 14:36:02:2
 kılıçdaroğlu::2
 milyo:2
@@ -2716,7 +2710,7 @@ efen:1
 ticarettir.:1
 çocuk:6
 istiyorum.:1
-http://www.cumhuriyet.com.tr/haber/siyaset/878361/kilicdaroglu__sahte_diyorlardi__hepsi_gercek_cikti.html:1
+ikti.html:1
 16:09:06:1
 yılmaz:3
 dokunulmazlık:6
@@ -2733,7 +2727,7 @@ bildik:2
  geri:1
 duran:2
 alçaktır.:1
-http://www.cumhuriyet.com.tr/haber/siyaset/878417/chp_li_yilmaz_dan_dokunulmazlik_dosyasinin_meclis_e_gonderilmesine_tepki__sizin_gibi_hirsizlik_mi_yaptim_.html:1
+lis_e_gonderilmesine_tepki__sizin_gibi_hirsizlik_mi_yaptim_.html:1
 16:18:03:1
 güzelbahçe:2
 inceye:1
@@ -2762,7 +2756,7 @@ inceleme:1
 saldırga:1
 yakalanma:1
 başlattı.:2
-http://www.cumhuriyet.com.tr/haber/siyaset/878535/guzelbahce_belediye_baskani_mustafa_ince_ye_silahli_saldiri.html:1
+lahli_saldiri.html:1
 20:09:03:1
 istanbul’da:2
 deleg:2
@@ -2820,8 +2814,7 @@ gösterilen:1
 almayacak:1
 kılıçdaoğlu’nun:1
 yapması."r\t\t\t\t\tr:1
-http://www.cumhuriyet.com.tr/haber/siyaset/878555/chp_istanbul_da_delege_kavgasi.html:1
-23:09:03:1
+:1
 erken:1
 kırılganlık:2
 yürüyen:1
@@ -2851,9 +2844,7 @@ istisna:1
 mhp’nin:5
 oluş:2
 gösteriliyor.:1
-http://www.cumhuriyet.com.tr/haber/siyaset/878544/erken_secimin_ayak_sesleri.html:1
-23:09:04:1
-yetkiyi:2
+etkiyi:2
 aştı:1
 meclis’e:1
 sunulduk:1
@@ -2892,10 +2883,7 @@ yapılması":4
 "evlilik:2
 cüzdan:2
 çıkarıldı.:2
-http://www.cumhuriyet.com.tr/haber/siyaset/878554/yetkiyi_astilar.html:1
-23:36:05:1
-peki:1
-kim?:1
+1
 disk:1
 kesk:2
 tmmob:1
@@ -2983,9 +2971,6 @@ başkanlığı’nı:1
 meslektaş:1
 ohal:2
 olmasıdır":1
-http://www.cumhuriyet.com.tr/haber/siyaset/878513/peki_millet_kim_.html:1
-23:45:09:1
-söyledi::2
 baraj:10
 kalacak:4
 akpde:1
@@ -3011,7 +2996,7 @@ yalç:1
 "söyleyeceğimizi:1
 teşebbüs:2
 gelecektir":1
-http://www.cumhuriyet.com.tr/haber/siyaset/878624/son_sozu_erdogan_soyledi__secim_baraji_ayni_kalacak.html:1
+lacak.html:1
 2017-12-03:16
 06:09:03:1
 aştılar...:1
@@ -3021,7 +3006,7 @@ nikah:1
 veren:3
 yasal:1
 ayrıntı:1
-http://www.cumhuriyet.com.tr/haber/siyaset/878554/yetkiyi_astilar..._imamlara_da_resmi_nikah_yetkisi.html:1
+kisi.html:1
 07:18:09:1
 cavit:2
 çak:4
@@ -3044,7 +3029,7 @@ rol:1
 oynayan:1
 nişan:1
 ödüllendirilmişti.:1
-http://www.cumhuriyet.com.tr/haber/siyaset/878702/cavit_caglar_dan_riza_sarraf_davasi_yorumu__ne_yapmis_turkiye_.html:1
+_yapmis_turkiye_.html:1
 08:36:03:1
 davutoğl:3
 26.:1
@@ -3206,7 +3191,7 @@ solç:4
 aşır:3
 olmamıştır.:3
 verir":2
-http://www.cumhuriyet.com.tr/haber/siyaset/878789/ahmet_davutoglu_ndan_carpici_riza_sarraf_yorumu__hesap_sorulmalidir.html:1
+u__hesap_sorulmalidir.html:1
 10:54:03:1
 engelli:1
 kpss:1
@@ -3228,8 +3213,7 @@ civar:1
 artış:1
 bahsediyor:1
 başlatacağız.:1
-http://www.cumhuriyet.com.tr/haber/siyaset/878797/engelli_kpss_4_yil_gecerli_olacak.html:1
-11:18:02:2
+:02:2
 çıkış:5
 buç:1
 atl:1
@@ -3256,7 +3240,7 @@ hamasi:1
 çıkaran:1
 sürek:1
 hainlik:1
-http://www.cumhuriyet.com.tr/haber/siyaset/878821/akp_li_vekilden_dikkat_ceken__solcular__cikisi.html:1
+.html:1
 11:54:02:2
 anketlerde:1
 aşağı:2
@@ -3287,7 +3271,7 @@ açıldı.:1
 yağış:1
 girecek:1
 bildirdi.:2
-http://www.cumhuriyet.com.tr/haber/siyaset/878664/_anketlerde_akp_nin_oyu_yuzde_38__asagiya_dogru_gidis_var_.html:1
+u_gidis_var_.html:1
 12:00:10:1
 mummar:1
 güler:6
@@ -3311,8 +3295,7 @@ com:2
 internet:4
 site:3
 kapatıldı.:2
-http://www.cumhuriyet.com.tr/haber/siyaset/878875/mummar_guler_in_alan_adi_satilik.html:1
-13:00:03:1
+03:1
 özel::1
 bomp:1
 patlayacak:1
@@ -3326,7 +3309,7 @@ konur:1
 korkuluyor.:1
 pislik:1
 değildir.:6
-http://www.cumhuriyet.com.tr/haber/siyaset/878922/ozgur_ozel__buyuk_bomba_sali_gunu_patlayacak.html:1
+tml:1
 13:45:02:1
 erdoğan::5
 adam:14
@@ -3345,11 +3328,11 @@ bakm:3
 şantaj:4
 boy:3
 eğmeyiz.:3
-http://www.cumhuriyet.com.tr/haber/siyaset/878962/erdogan__bazi_is_adamlarinin_varliklarini_yurtdisina_kacirma_girisimleri_oldugunu_duyuyorum.html:1
+disina_kacirma_girisimleri_oldugunu_duyuyorum.html:1
 14:27:03:2
 muş:1
 duyuyorum.:3
-http://www.cumhuriyet.com.tr/haber/siyaset/878962/erdogan__bazi_is_adamlari_varliklarini_yurtdisina_kacirma_gayretinde.html:1
+ina_kacirma_gayretinde.html:1
 14:54:03:2
 kadir:1
 topbaş:1
@@ -3373,7 +3356,7 @@ ile beraber:1
 ösymni:1
 eriş:1
 sağlanabilmektedir.:1
-http://www.cumhuriyet.com.tr/haber/siyaset/879031/kadir_topbas_tan__yeni_olusum__iddialarina_iliskin_aciklama.html:1
+skin_aciklama.html:1
 16:00:04:1
 erkan:1
 emekç:1
@@ -3389,7 +3372,7 @@ bağıms:2
 amaçlamak:1
 düşürme:1
 hedeflemektedir.:1
-http://www.cumhuriyet.com.tr/haber/siyaset/879013/erkan_bas_tan_sarraf_yorumu__akp_emekciler_tarafindan_iktidardan_indirilmeli.html:1
+afindan_iktidardan_indirilmeli.html:1
 16:00:06:1
 hdpnin:2
 tartışılmadık:1
@@ -3406,8 +3389,7 @@ sakı:1
 bildirildi.:3
 yansıyan:1
 adfedilen:1
-http://www.cumhuriyet.com.tr/haber/siyaset/878800/hdp__demirtas_icin_kararini_verdi.html:1
-16:00:12:1
+:12:1
 çavuşoğlu::1
 çavuşok:2
 nispe:1
@@ -3433,10 +3415,9 @@ oynanan:1
 kaçırmak:1
 adam.:1
 bilmiyorsunuz.:1
-http://www.cumhuriyet.com.tr/haber/siyaset/879091/basbakan_yardimcisi_hakan_cavusoglu__kilicdaroglu_bir_projedir.html:1
+glu_bir_projedir.html:1
 18:45:02:1
-http://www.cumhuriyet.com.tr/haber/siyaset/878875/muammer_guler_in_alan_adi_satilik.html:1
-19:54:14:1
+:14:1
 urfa:1
 işke:9
 iddiası::1
@@ -3516,7 +3497,7 @@ doktor:1
 götürülmedi.:1
 halen:1
 ediyor."r\t\t\t\t\tr:1
-http://www.cumhuriyet.com.tr/haber/siyaset/879108/urfa_tem_de_iskence_iddiasi__elektrik_verip_dovduler.html:1
+vduler.html:1
 2017-12-04:9
 02:54:05:1
 14):1
@@ -3587,8 +3568,7 @@ bes:1
 konç:1
 yapılmak:1
 büro:2
-http://www.cumhuriyet.com.tr/haber/siyaset/879349/hdp_li_19_vekil_hakkinda_fezleke.html:1
-09:45:03:1
+03:1
 kılıçdaroğlunun:1
 aymye:2
 başvur:1
@@ -3605,7 +3585,7 @@ reddetti.:1
  geçtiğimiz:1
 aym:3
 reddedilmişti.:1
-http://www.cumhuriyet.com.tr/haber/siyaset/879328/kilicdaroglu_nun_aym_ye_yaptigi_basvuru_reddedildi.html:1
+ildi.html:1
 10:18:07:1
 (sp):1
 ittifaklar:2
@@ -3621,7 +3601,6 @@ ittifaklar:1
 kuruplaş:1
 doğurabilir:1
 yapıp:1
-http://www.cumhuriyet.com.tr/haber/siyaset/879460/saadet_partisi_nden_ittifak_aciklamasi.html:1
 davutoğlu::4
 şubat’ta:6
 konuştuk:4
@@ -3659,9 +3638,9 @@ düzenleyecek:2
 duyurmuştu.:2
 yönet:2
 etmişti.:2
-http://www.cumhuriyet.com.tr/haber/siyaset/879485/davutoglu__28_subat_ta_konustugumuz_universiteler__kendi_iktidarimizda_bize_kapansin_diye_mucadele_etmedik.html:1
+ler__kendi_iktidarimizda_bize_kapansin_diye_mucadele_etmedik.html:1
 9):1
-http://www.cumhuriyet.com.tr/haber/siyaset/879485/davutoglu__28_subat_ta_konustugumuz_universiteler__bize_kapansin_diye_mucadele_etmedik.html:1
+ler__bize_kapansin_diye_mucadele_etmedik.html:1
 12:00:03:1
 11):1
 özkoç::1
@@ -3700,7 +3679,7 @@ taş:1
 sokan:1
 işveren:1
 sorarsın.:1
-http://www.cumhuriyet.com.tr/haber/siyaset/879681/chp_li_ozkoc__riza_sarraf_turkiye_de_yargilanmali.html:1
+ali.html:1
 15:36:03:1
 erdoğanla:1
 görüşen:2
@@ -3717,7 +3696,7 @@ arasında.:1
 100ünün:1
 veki:1
 öneriyoruz.:1
-http://www.cumhuriyet.com.tr/haber/siyaset/879696/erdogan_la_gorusen_destici_den__baraj__ve__ittifak__aciklamasi.html:1
+ifak__aciklamasi.html:1
 16:27:02:1
 toplanan:2
 açıklayarak:1
@@ -3731,7 +3710,7 @@ düşürülmeyecek:1
 dar:1
 düşünüyor:1
 açıklamasır\t\t\t\t\tr:1
-http://www.cumhuriyet.com.tr/haber/siyaset/879702/akp_sozcusu_mahir_unal_dan_secim_ittifaki_aciklamasi.html:1
+lamasi.html:1
 16:36:02:1
 sermaye:1
 sınırlandırılma:1
@@ -3755,7 +3734,7 @@ iş:3
 çıkmayacak:1
 soruyor:1
 çıkacaktır.:1
-http://www.cumhuriyet.com.tr/haber/siyaset/879493/erdogan__sermaye_hareketlerinin_sinirlandirilmasi_talimatim_yok.html:1
+asi_talimatim_yok.html:1
 2017-12-05:7
 02:54:10:1
 broşür::1
@@ -3810,8 +3789,7 @@ fetö’ye:1
 çevirme:1
 unutturamaz":1
 denildi.:2
-http://www.cumhuriyet.com.tr/haber/siyaset/879830/chp_den_brosur___akp-feto_kardesligi_.html:1
-03:36:03:1
+3:36:03:1
 sızdırdık:1
 açıklıyor:1
 -:2
@@ -3836,7 +3814,7 @@ başları::1
 toplandı:1
 yapıyoruz.:3
 sesleniyoruz.:1
-http://www.cumhuriyet.com.tr/haber/siyaset/879826/kilicdaroglu__sarraf_a_gizli_bilgileri_kimin_sizdirdigini_acikliyor_-_canli_yayin.html:1
+izdirdigini_acikliyor_-_canli_yayin.html:1
 10:45:15:1
 kılıçdaroğlundan:2
 suçlamalar::1
@@ -3850,7 +3828,7 @@ takt:1
 taktılar.:1
 kimt:1
 milletvekilleri.:1
-http://www.cumhuriyet.com.tr/haber/siyaset/879826/kilicdaroglu_ndan_sert_suclamalar__senin_hukumetin_turkiye_cumhuriyeti_devleti_ne_ihanet_etti.html:1
+etin_turkiye_cumhuriyeti_devleti_ne_ihanet_etti.html:1
 11:36:16:1
 kemalbay::1
 millidir.:1
@@ -3864,7 +3842,7 @@ değiliz.:1
 getireceğiz.:1
 dayanışma:2
 sürdürüyoruz.:1
-http://www.cumhuriyet.com.tr/haber/siyaset/880047/kemalbay__sarraf_ne_yerli_ne_de_millidir._mesele_rusvet_ve_hirsizlik_meselesidir.html:1
+le_rusvet_ve_hirsizlik_meselesidir.html:1
 14:18:11:1
 13):2
 ‘rıza:2
@@ -3961,7 +3939,7 @@ bel:1
 kes:1
 kırıklık:2
 vardır.r\t\t\t\t\tr:1
-http://www.cumhuriyet.com.tr/haber/siyaset/880315/meral_aksener__dun__riza_bey_kardesim___bugun__hain_reza__oldu.html:1
+_hain_reza__oldu.html:1
 15:18:03:1
 yakında:1
 ‘sarraf:2
@@ -4013,9 +3991,7 @@ götüremeyen:2
 baba:3
 anlayamaz.:2
 zenginleştirdiniz.:2
-http://www.cumhuriyet.com.tr/haber/siyaset/880378/_yakinda__sarraf_bizi_kandirdi__demeye_baslarlar_.html:1
-17:54:05:1
-http://www.cumhuriyet.com.tr/haber/siyaset/880378/kilicdaroglu__yakinda__sarraf_bizi_kandirdi__demeye_baslarlar.html:1
+emeye_baslarlar.html:1
 2017-12-06:15
 03:18:10:1
 görülecek.:1
@@ -4050,8 +4026,7 @@ figen:1
 yüksekdağ’ın:1
 sincan:3
 edilecek.:1
-http://www.cumhuriyet.com.tr/haber/siyaset/880497/demirtas_icin_iki_kritik_gun.html:1
-03:36:02:1
+
 oğul:1
 kaddafi:7
 libya:5
@@ -4085,9 +4060,7 @@ pusztai:1
 kutuplayıç:1
 figür:1
 tanımladı.:1
-https://www.cnnturk.com/dunya/ogul-kaddafi-libyada-siyaset-sahnesine-donuyor:1
-08:44:03:1
-hdp::1
+
 savunacak:1
 kişilik:1
 batman:1
@@ -4111,7 +4084,7 @@ doludur.:1
 valilik:1
 hdpye:1
 yasağır\t\t\t\t\tr:1
-http://www.cumhuriyet.com.tr/haber/siyaset/880680/hdp__demirtas_i_savunacak_avukat_1250__mahkeme_salonu_20_kisilik.html:1
+_salonu_20_kisilik.html:1
 08:54:03:1
 başkanı::1
 yapal:4
@@ -4172,10 +4145,10 @@ vermedi.:2
 öldürülmüyor:2
 görülme:2
 geçildi. r\t\t\t\t\tr:2
-http://www.cumhuriyet.com.tr/haber/siyaset/880751/akp_li_il_meclis_baskani__ne_yapalim_kadinlar_olduruluyorsa.html:1
+olduruluyorsa.html:1
 10:09:02:1
 kaya::1
-http://www.cumhuriyet.com.tr/haber/siyaset/880751/akp_li_halil_ibrahim_kaya__ne_yapalim_kadinlar_olduruluyorsa.html:1
+_olduruluyorsa.html:1
 10:18:02:1
 kont:1
 götürerek:1
@@ -4202,14 +4175,14 @@ taşınır:1
 taşınmaz:1
 hisse:1
 verilmiştir":1
-http://www.cumhuriyet.com.tr/haber/siyaset/880737/eski_chp_li_vekil_aykan_erdemir_in_mal_varligina_el_kondu.html:1
+na_el_kondu.html:1
 11:18:06:1
 hodri:2
 meydan:2
 buyursunlar.:1
 buluşma:1
 bulunmuştu.:2
-http://www.cumhuriyet.com.tr/haber/siyaset/880945/kilicdaroglu_hakkindaki_sorusturmaya_chp_den_hodri_meydan.html:1
+odri_meydan.html:1
 13:27:03:1
 idris:1
 baluke:1
@@ -4221,7 +4194,7 @@ yönetilemez.:1
 1980de:1
 90lı:1
 denendi.:1
-http://www.cumhuriyet.com.tr/haber/siyaset/880968/hdp_li_idris_baluken_in_tutukluluk_halinin_devamina_karar_verildi.html:1
+amina_karar_verildi.html:1
 14:00:03:1
 ikinci:1
 böl:1
@@ -4239,8 +4212,7 @@ edilemez:1
 bulmuştu.:1
 görülecek:1
 çıkacak.:1
-http://www.cumhuriyet.com.tr/haber/siyaset/880919/aym__demirtas_kararini_acikladi.html:1
-14:45:06:1
+6:1
 erdoğandan:1
 açıklaması::1
 alem:1
@@ -4253,7 +4225,7 @@ hissiya:1
 paylaşıyoruz.:1
 diyalog:2
 veriyoruz.:1
-http://www.cumhuriyet.com.tr/haber/siyaset/881017/erdogan_dan_kudus_aciklamasi___yanlis_bir_adim_tum_islam_aleminde_infiale_sebep_olacaktir.html:1
+_tum_islam_aleminde_infiale_sebep_olacaktir.html:1
 rıza:1
 şerh:3
 mit’in:5
@@ -4312,7 +4284,7 @@ uyarmıştır.:1
 incelenme:1
 izah:1
 bulunmaktadır."r\t\t\t\t\tr:1
-http://www.cumhuriyet.com.tr/haber/siyaset/881187/riza_sarraf_la_ilgili_mit_yazisi_mhp_nin_serhinde.html:1
+nde.html:1
 23:09:06:1
 mesnets:1
 dayanaks:1
@@ -4394,9 +4366,7 @@ buna.:1
 trajedi:1
 komedisi.:1
 deyin.":1
-http://www.cumhuriyet.com.tr/haber/siyaset/881208/akp_liderine_tck_kalkani.html:1
-23:18:04:1
-nuriye:1
+iye:1
 avukatları::1
 yatar:1
 18.:1
@@ -4436,7 +4406,7 @@ derinleştik:1
 yöneteme:1
 saldırmıştı’’:1
 erteledi.r\t\t\t\t\tr:1
-http://www.cumhuriyet.com.tr/haber/siyaset/881185/nuriye_ve_semih_in_avukatlari__onlar_yasasin__biz_hapis_yatariz.html:1
+biz_hapis_yatariz.html:1
 23:18:08:1
 ‘şantaj:2
 mersin’de:3
@@ -4466,8 +4436,7 @@ feray’ın:2
 çalan:2
 müddet:2
 açmıyor":2
-http://www.cumhuriyet.com.tr/haber/siyaset/881176/_santaj_ve_tuzak_var__iddiasi.html:1
-23:18:09:1
+1
 izleyici:1
 sinema:3
 buluşturacak:1
@@ -4525,12 +4494,7 @@ zek:1
 demirkup:1
 sinop’ta:1
 festivali:1
-http://www.cumhuriyet.com.tr/haber/siyaset/881261/kilicdaroglu_ndan_kudus_tepkisi.html:1
-2017-12-07:9
-02:00:02:1
-kurşun:1
-ölen:1
-http://www.cumhuriyet.com.tr/haber/siyaset/881176/polis_kursunuyla_olen_feray_s._davasinda__santaj_ve_tuzak_var__iddiasi.html:1
+aj_ve_tuzak_var__iddiasi.html:1
 03:09:10:1
 hdpden:1
 trump’ın:2
@@ -4559,9 +4523,7 @@ sorums:1
 aktif:1
 ediyoruz.:1
 2017r\t\t\t\t\tr:1
-http://www.cumhuriyet.com.tr/haber/siyaset/881371/hdp_den_kudus_aciklamasi.html:1
-07:36:02:1
-erde:1
+e:1
 tepkisi::2
 ama...:1
 israil’le:2
@@ -4575,7 +4537,7 @@ anti:1
 amerikancı.:1
 iktidarınızdır:1
 getirdiniz.:1
-http://www.cumhuriyet.com.tr/haber/siyaset/881412/eren_erdem_den_akp_ye_belgeli_kudus_tepkisi__kudus_filistin_in_diyorsunuz_ama....html:1
+udus_filistin_in_diyorsunuz_ama....html:1
 08:36:04:1
 abdüllatif:2
 şener:2
@@ -4597,7 +4559,7 @@ yağma:1
 saftaydı.:1
 başkonsolosluk:1
 protestosur\t\t\t\t\tr:1
-http://www.cumhuriyet.com.tr/haber/siyaset/881459/abdullatif_sener_den_kudus_tepkisi__sil_sahte_gozyaslarini.html:1
+gozyaslarini.html:1
 09:18:03:1
 erdoğanın:2
 lozan:6
@@ -4613,7 +4575,7 @@ idam:1
 mesela:1
 loza:1
 japonya:1
-http://www.cumhuriyet.com.tr/haber/siyaset/881766/erdogan_in_lozan_cikisina_cipras_tan_yanit.html:1
+l:1
 başbakanı aleksis:1
 çipras ortak:1
 ege:2
@@ -4622,7 +4584,7 @@ ab-türkiye:1
 celal:1
 bayar:1
 sonra.:1
-http://www.cumhuriyet.com.tr/haber/siyaset/881766/erdogan_in_lozan_cikisina_cipras_tan_yanit_-_canli_yayin.html:1
+anli_yayin.html:1
 cumhurbaşkanı’na:1
 mudanya:3
 murat:2
@@ -4644,7 +4606,7 @@ facebook:1
 reza’nın:1
 fahiş:1
 yayımladık:1
-http://www.cumhuriyet.com.tr/haber/siyaset/881775/chp_li_sozcu_cumhurbaskani_na_hakaretten_gozaltinda.html:1
+tinda.html:1
 14:45:02:1
 atinada:1
 kıbrıs:3
@@ -4660,7 +4622,7 @@ müslüman:1
 inanıyorum.:1
 duyt:1
 açık.:1
-http://www.cumhuriyet.com.tr/haber/siyaset/881766/atina_da_kibris_polemigi..._cipras__43_yildir_isgal_var__erdogan__o_zaman_cozelim.html:1
+isgal_var__erdogan__o_zaman_cozelim.html:1
 14:45:03:1
 yalanlamak:1
 pegida:2
@@ -4691,7 +4653,7 @@ pankart:2
 asılmıştı.:1
 yönelttik:1
 başlatmıştı.:1
-http://www.cumhuriyet.com.tr/haber/siyaset/881914/akp__man_belgesini__yalanlamak_isterken_dogruladi.html:1
+adi.html:1
 2017-12-08:10
 05:00:07:1
 akşener’e:1
@@ -4721,7 +4683,7 @@ cizre’de:1
 görüşme.:1
 14:30’da:1
 intikal.:1
-http://www.cumhuriyet.com.tr/haber/siyaset/881953/aksener_e_diyarbakir_da_turkce__kurtce_ve_zazaca_karsilama.html:1
+ca_karsilama.html:1
 05:27:02:1
 fetullah:2
 güle:1
@@ -4749,7 +4711,7 @@ gezerek:1
 denetleyen:1
 gaybubet:1
 belirlendi.:1
-http://www.cumhuriyet.com.tr/haber/siyaset/882002/fetullah_gulen_in_yegeninin_kelepceli_fotografi_ortaya_cikti.html:1
+i_ortaya_cikti.html:1
 06:54:03:1
 karşılan:1
 gittik:2
@@ -4759,7 +4721,7 @@ vardır.:1
 zorlanan:1
 seçmen:2
 anado:1
-http://www.cumhuriyet.com.tr/haber/siyaset/882181/meral_aksener__diyarbakir_da_boyle_karsilandi.html:1
+html:1
 09:36:03:1
 şentop::1
 açılabilir:1
@@ -4777,7 +4739,7 @@ soruşturulma:1
 değerlendirilebilir.:1
 ortada.:1
 değil":1
-http://www.cumhuriyet.com.tr/haber/siyaset/882220/akp_li_sentop__yeni_belge_ortaya_cikarsa_zarrab_sorusturmasi_acilabilir.html:1
+b_sorusturmasi_acilabilir.html:1
 10:27:02:1
 güvenen:1
 çıkanlar::1
@@ -4789,7 +4751,7 @@ gerekiyor.:1
 güçlendirir.:1
 yavru:1
 önemli.:1
-http://www.cumhuriyet.com.tr/haber/siyaset/882412/erdogan__dusuncesine_guvenen_dusunce_ozgurlugunden_korkmaz.html:1
+nden_korkmaz.html:1
 13:54:02:1
 mhpden:1
 başkan::1
@@ -4816,7 +4778,7 @@ edebilir:1
 ülkücük:1
 milliyetçilik:1
 yetmez.:1
-http://www.cumhuriyet.com.tr/haber/siyaset/882436/mhp_den_ihrac_edilen_baskan__hakkimi_hicbirine_helal_etmiyorum.html:1
+_helal_etmiyorum.html:1
 14:18:03:1
 aldır:1
 örgütlen:1
@@ -4842,7 +4804,7 @@ atanma:1
 teşkilatlanma:1
 hata’:1
 değerlendirildi.:2
-http://www.cumhuriyet.com.tr/haber/siyaset/882552/iyi_parti_de__taktik_hata__gorevden_aldirdi.html:1
+ml:1
 16:09:02:1
 rest:1
 çekti::1
@@ -4861,7 +4823,7 @@ görüyor.:1
 söyleyeceğim.:1
 gels:1
 verelim.:1
-http://www.cumhuriyet.com.tr/haber/siyaset/882546/kilicdaroglu_rest_cekti__santajlar_beni_korkutamaz.html:1
+amaz.html:1
 16:09:03:1
 ataşehir:2
 battal:2
@@ -4903,5 +4865,5 @@ istanbullular:1
  ataşehir:1
 dilek:1
 etkinliğir\t\t\t\t\tr:1
-http://www.cumhuriyet.com.tr/haber/siyaset/882441/atasehir_belediye_baskani_battal_ilgezdi_gorevden_uzaklastirildi.html:1
+den_uzaklastirildi.html:1
 20:27:28:1

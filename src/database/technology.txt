@@ -1333,7 +1333,6 @@ devlet:6
 başkanlık:4
 iş:3
 müracaatlar:1
-https://kariyer:1
 sage:4
 yapılabiliyor:1
 geliştirdik:7
@@ -1595,8 +1594,7 @@ maliyet:3
 sözcüsü tomoyuki akiyama tarafından:1
 henüz:7
 net:4
-değil.:6
-https://www.ntv.com.tr/teknoloji/surucusuz-otomobil-yola-cikticoolusgq2uwogrc62oclvg:1
+değil.:6om.tr/teknoloji/surucusuz-otomobil-yola-cikticoolusgq2uwogrc62oclvg:1
 2017-11-27:2
 14:00:01:1
 2):15
@@ -1652,8 +1650,7 @@ giderecek:1
 terapi:1
 amaçladık:1
 etti.:4
-rr.:1
-https://www.ntv.com.tr/teknoloji/akilli-telefon-bagimliligina-karsi-vekil-telefonuvy3h6woo0inkz1hczylwg:1
+rr.:1om.tr/teknoloji/akilli-telefon-bagimliligina-karsi-vekil-telefonuvy3h6woo0inkz1hczylwg:1
 14:00:06:2
 iphone:33
 x:21
@@ -1687,8 +1684,7 @@ kullanılabiliyor.:1
 691 mah batarya:1
 bulunurken iphone x:1
 716 mah bataryaya:1
-yapıyor.:1
-https://www.ntv.com.tr/teknoloji/iphone-x-iphone-8-plusa-karsi-daha-kucuk-kasa-daha-buyuk-ekranngen4ps-0kkhaadfmexjkw:1
+yapıyor.:1om.tr/teknoloji/iphone-x-iphone-8-plusa-karsi-daha-kucuk-kasa-daha-buyuk-ekranngen4ps-0kkhaadfmexjkw:1
 2017-11-28:2
 10:00:03:2
 1):15
@@ -1737,8 +1733,7 @@ ediyor.:7
 itibar:2
 2020de:1
 seviye:6
-çekmek.:1
-https://www.ntv.com.tr/teknoloji/avrupa-devleri-hibrit-elektrikli-ucak-icin-kollari-sivadimy3cer41ekoxcvsqvdtxxw:1
+çekmek.:1om.tr/teknoloji/avrupa-devleri-hibrit-elektrikli-ucak-icin-kollari-sivadimy3cer41ekoxcvsqvdtxxw:1
 19:00:07:1
 0):59
 yaş:4
@@ -1770,8 +1765,7 @@ gelebilecek:1
 düşünüyor.:2
 ser:5
 düşük:3
-bekliyorum.:1
-https://www.ntv.com.tr/teknoloji/11-yasindaki-kiz-25-bin-dolar-degerindeki-bilim-odulunun-sahibi-oldukahrv1a0pueuaz1ys7fska:1
+bekliyorum.:1om.tr/teknoloji/11-yasindaki-kiz-25-bin-dolar-degerindeki-bilim-odulunun-sahibi-oldukahrv1a0pueuaz1ys7fska:1
 2017-11-29:4
 07:00:06:1
 itü’lü:1
@@ -1842,8 +1836,7 @@ bilimci:1
 göre:1
 belirtti.:4
 hayli:1
-çarpıç:1
-https://www.ntv.com.tr/teknoloji/itulu-bilim-insanlarina-gore-kitalar-bal-gibi-damliyor-ispati-anadoluda13zzzwsdu0c0vwcvzkpqia:1
+çarpıç:1om.tr/teknoloji/itulu-bilim-insanlarina-gore-kitalar-bal-gibi-damliyor-ispati-anadoluda13zzzwsdu0c0vwcvzkpqia:1
 08:00:07:1
 kuşlardan:1
 çarpan:2
@@ -1886,8 +1879,7 @@ potansiyel:2
 250den:1
 vak:1
 edildik:2
-vurguladı.:1
-https://www.ntv.com.tr/teknoloji/ucaklar-icin-dronelar-kuslardan-tehlikeli26p6hobv5uwewhvckkzsqg:1
+vurguladı.:1om.tr/teknoloji/ucaklar-icin-dronelar-kuslardan-tehlikeli26p6hobv5uwewhvckkzsqg:1
 yeti:2
 efsane:3
 çürütül:1
@@ -1930,8 +1922,7 @@ farklılaş:1
 anlatılan eski:1
 hikaye:2
 türe:1
-ediliyor.:9
-https://www.ntv.com.tr/teknoloji/yeti-efsanesi-bilimsel-olarak-curutuldudrffcvq6lugfhvughdecng:1
+ediliyor.:9om.tr/teknoloji/yeti-efsanesi-bilimsel-olarak-curutuldudrffcvq6lugfhvughdecng:1
 17:00:02:1
 yıllar:1
 nesil:3
@@ -1979,8 +1970,7 @@ belirtelim.:4
 steam’de:2
 %50:1
 indir:3
-satılmakta.:1
-https://www.cnnturk.com/teknoloji/yillar-sonra-yeni-nesil-konsollara-geliyor:1
+satılmakta.:1rk.com/teknoloji/yillar-sonra-yeni-nesil-konsollara-geliyor:1
 2017-11-30:5
 11:04:48:1
 pubg:3
@@ -2032,8 +2022,7 @@ battlegrounds:2
 ismi:3
 çıkıp:1
 çıkmayacak:1
-bilinmiyor.:2
-https://www.cnnturk.com/teknoloji/pubg-telefonlara-geliyor:1
+bilinmiyor.:2rk.com/teknoloji/pubg-telefonlara-geliyor:1
 12:22:49:1
 civilization:5
 vi:5
@@ -2063,8 +2052,7 @@ türkç:4
 met:1
 şubat’ta:1
 raf:3
-alacak.:2
-https://www.cnnturk.com/teknoloji/civilization-vi-rise-and-fall-steamde-on-sipariste:1
+alacak.:2rk.com/teknoloji/civilization-vi-rise-and-fall-steamde-on-sipariste:1
 16:22:12:1
 robotlar:1
 işs:2
@@ -2090,8 +2078,7 @@ verme:1
 geçirilebilme:1
 gerekiyor.:6
 r\t\t\t\t\tr:8
-\tr\t\t\t\t\tr\t\t\t\t.:9
-http://www.cumhuriyet.com.tr/haber/teknoloji/877194/robotlar_800_milyona_yakin_kisiyi_issiz_birakabilir.html:1
+\tr\t\t\t\t\tr\t\t\t\t.:9iyet.com.tr/haber/teknoloji/877194/robotlar_800_milyona_yakin_kisiyi_issiz_birakabilir.html:1
 18:27:04:1
 whatsappa:3
 eriş:6
@@ -2109,8 +2096,7 @@ whatsapptan:1
 gelmedi.:2
 ö:3
 whatsapp:6
-uğra:1
-http://www.cumhuriyet.com.tr/haber/teknoloji/877223/whatsapp_a_erisim_saglanamiyor...__siber_saldiriya_maruz_kalmis_olabilir_.html:1
+uğra:1iyet.com.tr/haber/teknoloji/877223/whatsapp_a_erisim_saglanamiyor...__siber_saldiriya_maruz_kalmis_olabilir_.html:1
 19:09:03:1
 epson:2
 l6190:2
@@ -2138,8 +2124,7 @@ seti:2
 sayf:2
 bask:4
 alabilme:1
-mümkün.:2
-https://www.cnnturk.com/teknoloji/epson-l6190-kucuk-ofislerin-en-buyuk-yardimcisi:1
+mümkün.:2rk.com/teknoloji/epson-l6190-kucuk-ofislerin-en-buyuk-yardimcisi:1
 2017-12-01:13
 06:11:03:4
 galaxy:8
@@ -2166,8 +2151,7 @@ play:2
 store:1
 app:4
 store’a:1
-edebilirsiniz.:2
-https://www.cnnturk.com/teknoloji/galaxy-s8-ve-galaxy-s8-ta-kamera-sorunu-var:1
+edebilirsiniz.:2rk.com/teknoloji/galaxy-s8-ve-galaxy-s8-ta-kamera-sorunu-var:1
 08:11:07:2
 qualcomm:3
 dava:7
@@ -2204,8 +2188,7 @@ kapa:1
 ima:1
 etmişti.:2
 hiss:1
-fiyatlarını.:1
-https://www.cnnturk.com/teknoloji/qualcomm-davasindan-vazgecmiyor:1
+fiyatlarını.:1rk.com/teknoloji/qualcomm-davasindan-vazgecmiyor:1
 09:11:04:2
 çocuk:2
 "kodlama":1
@@ -2259,8 +2242,7 @@ başlama:2
 kolaylaştırmak:1
 kapsayan:1
 kılavuzu’nu:1
-içeriyor.:1
-https://www.cnnturk.com/bilim-teknoloji/apple-tum-apple-storelarda-kodlama-saatini-kutluyor:1
+içeriyor.:1rk.com/bilim-teknoloji/apple-tum-apple-storelarda-kodlama-saatini-kutluyor:1
 09:44:04:1
 autosense:1
 sakal:5
@@ -2290,8 +2272,7 @@ ayarlanıyor.:1
 skin-sensitive:1
 (749:1
 konfor:1
-tasarlandı.:1
-https://www.cnnturk.com/teknoloji/autosense-teknolojisini-alt-urunlerde-kullanilmaya-baslandi:1
+tasarlandı.:1rk.com/teknoloji/autosense-teknolojisini-alt-urunlerde-kullanilmaya-baslandi:1
 10:55:02:1
 bilindik:3
 kasım’da:2
@@ -2320,8 +2301,7 @@ sundu.:1
 selef:1
 5t’nin:1
 sunulma:2
-arttırdı.:1
-https://www.cnnturk.com/teknoloji/iphone-x-ile-yarisan-telefon:1
+arttırdı.:1rk.com/teknoloji/iphone-x-ile-yarisan-telefon:1
 11:11:03:5
 faceid’yi:2
 10’a:2
@@ -2341,8 +2321,7 @@ sızdırılan:3
 faceid:2
 hemen:5
 ilke:1
-dayanıyor.:1
-https://www.cnnturk.com/teknoloji/faceidyi-10a-katlayacak-teknoloji:1
+dayanıyor.:1rk.com/teknoloji/faceidyi-10a-katlayacak-teknoloji:1
 12:11:06:1
 bitcoin:2
 kardashian:1
@@ -2378,8 +2357,7 @@ hayran:1
 özür:1
 dileyen:1
 üzgünüm.:1
-çıkarırım.:1
-https://www.ntv.com.tr/galeri/teknoloji/bitcoin-kardashianlari-solladievztd2ymveqzw0pkkwuo5a:1
+çıkarırım.:1om.tr/galeri/teknoloji/bitcoin-kardashianlari-solladievztd2ymveqzw0pkkwuo5a:1
 13:00:03:1
 elon musktan bir:1
 rekor:3
@@ -2407,8 +2385,7 @@ hami:1
 ihtimalin:1
 adana:1
 hastane:1
-götürüldü.:1
-https://www.ntv.com.tr/galeri/teknoloji/elonmusktanbir-rekor-daha-mega-pil-calistirildi7gfafiovtk2plg5qzxacvq:1
+götürüldü.:1om.tr/galeri/teknoloji/elonmusktanbir-rekor-daha-mega-pil-calistirildi7gfafiovtk2plg5qzxacvq:1
 13:00:06:1
 yemeksepeti:1
 yenileme:1
@@ -2430,8 +2407,7 @@ ediyoruz.:2
 hizmet:3
 veren:1
 servis:1
-satılmıştı.:1
-https://www.cnnturk.com/teknoloji/yemeksepeti-alan-adini-yenilemeyi-unuttu:1
+satılmıştı.:1rk.com/teknoloji/yemeksepeti-alan-adini-yenilemeyi-unuttu:1
 13:11:05:1
 appleın tasarım:1
 şefinden iphone itirafı:1
@@ -2458,8 +2434,7 @@ kaybettiniz.:1
 değersizleştirir:1
 içerik:1
 önemsiz:1
-gösterirsiniz.:1
-https://www.ntv.com.tr/galeri/teknoloji/appleintasarim-sefindeniphoneitirafiiscel65ruu24gqhndb2iog:1
+gösterirsiniz.:1om.tr/galeri/teknoloji/appleintasarim-sefindeniphoneitirafiiscel65ruu24gqhndb2iog:1
 14:00:02:1
 hdmi:2
 2.1:1
@@ -2490,8 +2465,7 @@ ayrıca  4k:1
 50/60:1
 100/120hz:1
 tazele:1
-ulaşabiliyor.:1
-https://www.cnnturk.com/teknoloji/hdmi-2-1-kendinden-bekleneni-fazlasiyla-verebiliyor:1
+ulaşabiliyor.:1rk.com/teknoloji/hdmi-2-1-kendinden-bekleneni-fazlasiyla-verebiliyor:1
 14:11:06:3
 california’da:1
 5g:3
@@ -2517,8 +2491,7 @@ japonya:1
 kore:3
 birtak:2
 yapıldık:2
-söyleyelim.:1
-https://www.cnnturk.com/teknoloji/californiada-evlere-5g-hizinda-internet:1
+söyleyelim.:1rk.com/teknoloji/californiada-evlere-5g-hizinda-internet:1
 15:11:03:1
 dünyanın:1
 lityumiyon:1
@@ -2544,8 +2517,7 @@ türkçe’deki:1
 olas:1
 kesinti:1
 saatlik:2
-karşılayabiliyor.:1
-http://www.cumhuriyet.com.tr/haber/teknoloji/877954/dunyanin_en_buyuk_pili_calistirildi.html:1
+karşılayabiliyor.:1iyet.com.tr/haber/teknoloji/877954/dunyanin_en_buyuk_pili_calistirildi.html:1
 2017-12-02:10
 04:09:09:1
 essential:9
@@ -2566,8 +2538,7 @@ gelmez:1
 manuel:1
 indirebilirsiniz.:1
 phone’un:1
-satılmadık:1
-https://www.cnnturk.com/teknoloji/essential-phone-portre-moduna-kavusuyor:1
+satılmadık:1rk.com/teknoloji/essential-phone-portre-moduna-kavusuyor:1
 05:11:03:2
 zte:4
 axon:5
@@ -2591,8 +2562,7 @@ qhd:1
 amoled:1
 çıkarıyordu.:1
 7’den:1
-tanıtılacak.:1
-https://www.cnnturk.com/teknoloji/zte-axon-7nin-uretimi-durduruldu:1
+tanıtılacak.:1rk.com/teknoloji/zte-axon-7nin-uretimi-durduruldu:1
 06:11:02:3
 huawei:9
 honor:5
@@ -2626,8 +2596,7 @@ attı.:1
 sürülen:1
 aralık:7
 avrupa’da:4
-çıkacak.:2
-https://www.cnnturk.com/teknoloji/huawei-honor-v10a-antutudan-yuksek-not:1
+çıkacak.:2rk.com/teknoloji/huawei-honor-v10a-antutudan-yuksek-not:1
 07:11:03:3
 ps:2
 indirme:1
@@ -2692,8 +2661,7 @@ vitaforma.:1
 wanted:1
 corp:1
 (eko:1
-software).:1
-https://www.cnnturk.com/teknoloji/ps-plus-aralik-oyunlari-yakinda-indirmeye-sunulacak:1
+software).:1rk.com/teknoloji/ps-plus-aralik-oyunlari-yakinda-indirmeye-sunulacak:1
 08:11:03:2
 daydream:1
 vr:3
@@ -2709,8 +2677,7 @@ gear:1
 anımsatıyor.:1
 atabilirsiniz.:2
 duyurduk:1
-belirtmişti.:1
-https://www.cnnturk.com/teknoloji/huawei-daydream-vr-kontrolcu-ile-gelecek:1
+belirtmişti.:1rk.com/teknoloji/huawei-daydream-vr-kontrolcu-ile-gelecek:1
 nov:3
 2s:2
 li:1
@@ -2733,8 +2700,7 @@ barındıran:1
 fhd+:1
 android:6
 oreo:1
-atlamamak:1
-https://www.cnnturk.com/teknoloji/huawei-nova-2s-mi-yoksa-mate-10-lite-mi:1
+atlamamak:1rk.com/teknoloji/huawei-nova-2s-mi-yoksa-mate-10-lite-mi:1
 10:11:04:4
 aselsana:1
 elektronik:4
@@ -2766,8 +2732,7 @@ ilet:1
 akım:1
 verim:1
 dağıt:1
-bileşen:2
-https://www.ntv.com.tr/teknoloji/aselsana-elektronik-tasarim-alaninda-odulgqtngr9nsuulpja-frtrwq:1
+bileşen:2om.tr/teknoloji/aselsana-elektronik-tasarim-alaninda-odulgqtngr9nsuulpja-frtrwq:1
 12:00:03:1
 ios:4
 11.2:1
@@ -2807,8 +2772,7 @@ kablos:4
 şarj:4
 getirildiyen:1
 türkiye’deki:1
-indirilebilir:2
-https://www.cnnturk.com/teknoloji/ios-11-icin-11-2-guncellemesi-yayinlandi:1
+indirilebilir:2rk.com/teknoloji/ios-11-icin-11-2-guncellemesi-yayinlandi:1
 12:33:03:1
 telefonunuza:1
 çaktırma:1
@@ -2826,8 +2790,7 @@ işlemç:3
 tara:1
 işin:1
 tüket:1
-etkileyecek:1
-https://www.cnnturk.com/teknoloji/telefonunuza-caktirmadan-bakanlar-yandi:1
+etkileyecek:1rk.com/teknoloji/telefonunuza-caktirmadan-bakanlar-yandi:1
 14:11:02:1
 hızlanıyor:1
  mit:1
@@ -2845,8 +2808,7 @@ arttırma:1
 başaran:1
 baskı:1
 gelmiş.:1
-girecek.:1
-https://www.cnnturk.com/teknoloji/3-boyutlu-yazici-10-kat-hizlaniyor:1
+girecek.:1rk.com/teknoloji/3-boyutlu-yazici-10-kat-hizlaniyor:1
 2017-12-03:9
 05:11:02:2
 teknolojideki:1
@@ -2894,8 +2856,7 @@ yatırımç:2
 kripto:3
 bitcoin’e:1
 yüzlerce:1
-yatırıyor.:1
-https://www.cnnturk.com/teknoloji/teknolojideki-gelismeler-bankacilik-sistemini-ve-nakit-parayi-devirecek:1
+yatırıyor.:1rk.com/teknoloji/teknolojideki-gelismeler-bankacilik-sistemini-ve-nakit-parayi-devirecek:1
 4):1
 müjde!:1
 internets:1
@@ -2909,8 +2870,7 @@ diğer:1
 yöntemlerelbet:1
 sms:4
 kullanabilirsiniz.:1
-arayüz:1
-http://www.cumhuriyet.com.tr/haber/teknoloji/878638/whatsapp_kullanicilarina_mujde__artik_internetsiz_de_kullanabileceksiniz.html:1
+arayüz:1iyet.com.tr/haber/teknoloji/878638/whatsapp_kullanicilarina_mujde__artik_internetsiz_de_kullanabileceksiniz.html:1
 06:45:02:1
 x’in:4
 geçiç:1
@@ -2926,8 +2886,7 @@ yönündeydi.:1
 kaç:1
 normal:2
 gösteriyordu.:1
-falan:1
-https://www.cnnturk.com/teknoloji/iphone-xin-etkisi-gecici-degil:1
+falan:1rk.com/teknoloji/iphone-xin-etkisi-gecici-degil:1
 s8+’larda:1
 kaybett:1
 olabilir.:3
@@ -2950,8 +2909,7 @@ modell:1
 "kamerada:1
 netle:1
 sorunu":1
-gelmişti.:1
-https://www.cnnturk.com/teknoloji/galaxy-s8-ve-galaxy-s8-larda-yine-sorunlar-bas-gosterdi:1
+gelmişti.:1rk.com/teknoloji/galaxy-s8-ve-galaxy-s8-larda-yine-sorunlar-bas-gosterdi:1
 home:4
 max:3
 2018’den:1
@@ -2971,8 +2929,7 @@ mini:1
 sayıyor.:1
 verm:1
 2018’e:1
-bestbuy:1
-https://www.cnnturk.com/teknoloji/google-home-max-2018den-once-cikacak:1
+bestbuy:1rk.com/teknoloji/google-home-max-2018den-once-cikacak:1
 appledan:1
 tedarikçi:1
 sık:5
@@ -2993,8 +2950,7 @@ kopararak:1
 yönet:1
 çip:3
 üretmek:4
-istiyor.:2
-https://www.cnnturk.com/teknoloji/appledan-dev-hamle:1
+istiyor.:2rk.com/teknoloji/appledan-dev-hamle:1
 alışkanlık:1
 değişebilir:1
 patent:5
@@ -3011,8 +2967,7 @@ not::1
 önce tamamen:1
 oluştuk:1
 konsept:2
-vardı.:1
-https://www.cnnturk.com/teknoloji/telefon-kullanim-aliskanliklarimiz-degisebilir:1
+vardı.:1rk.com/teknoloji/telefon-kullanim-aliskanliklarimiz-degisebilir:1
 14:11:03:1
 tamir:3
 edilebilecek:2
@@ -3026,8 +2981,7 @@ yavaş:2
 belirtiyor.:1
 sahipti.:1
 sökülüp:1
-takılır:1
-https://www.cnnturk.com/teknoloji/essential-phone-2-daha-kolay-tamir-edilebilecek:1
+takılır:1rk.com/teknoloji/essential-phone-2-daha-kolay-tamir-edilebilecek:1
 15:11:04:1
 htc:2
 davranan:1
@@ -3048,8 +3002,7 @@ panel:1
 ram:3
 16’şar:1
 mp:5
-kamera.:1
-https://www.cnnturk.com/teknoloji/htc-hizli-davranan-sirketler-arasinda:1
+kamera.:1rk.com/teknoloji/htc-hizli-davranan-sirketler-arasinda:1
 2017-12-04:11
 13):3
 müj:2
@@ -3071,8 +3024,7 @@ belirtilmişti.:1
 arada.:1
 bildiğiniz:1
 hazırlanıyor:1
-çin’e:1
-https://www.cnnturk.com/teknoloji/xbox-one-x-sahiplerine-mujde:1
+çin’e:1rk.com/teknoloji/xbox-one-x-sahiplerine-mujde:1
 kurdu...:1
 din:1
 devle:1
@@ -3098,8 +3050,7 @@ hızı:1
 sıkç:1
 düşürüldük:1
 twitter:1
-kapatılıyor.:1
-http://www.cumhuriyet.com.tr/haber/teknoloji/879206/emniyet_ozel_birim_kurdu...__dine_ve_devlete_hakaret__edenleri_izleyecek.html:1
+kapatılıyor.:1iyet.com.tr/haber/teknoloji/879206/emniyet_ozel_birim_kurdu...__dine_ve_devlete_hakaret__edenleri_izleyecek.html:1
 07:27:03:1
 sesli:1
 e-kitap:1
@@ -3117,8 +3068,7 @@ kopya:2
 ödünç:1
 gösterebilecek.:1
 okuduk:1
-isabet:1
-https://www.cnnturk.com/teknoloji/sesli-kitap-destegi-basladi:1
+isabet:1rk.com/teknoloji/sesli-kitap-destegi-basladi:1
 dedikodu:1
 yalan:1
 5’ine:1
@@ -3140,8 +3090,7 @@ dönem:5
 belk:1
 dönebilir.:1
 üretibilecek:1
-edilmişti.:1
-https://www.cnnturk.com/teknoloji/samsung-s8-microsoft-edition-dedikodularini-yalanladi:1
+edilmişti.:1rk.com/teknoloji/samsung-s8-microsoft-edition-dedikodularini-yalanladi:1
 09:11:06:1
 3):1
 8.1:1
@@ -3168,8 +3117,7 @@ yayınlanır.:1
 developer:1
 preview:1
 2’li:1
-göreceksiniz.:1
-https://www.cnnturk.com/teknoloji/android-8-1-sorunlari-cozdu:1
+göreceksiniz.:1rk.com/teknoloji/android-8-1-sorunlari-cozdu:1
 10:11:02:1
 evinizde:1
 heps:3
@@ -3198,8 +3146,7 @@ wpa/wpa2:1
 (tkip/aes):1
 şifrele:1
 sunan:2
-oluyor.:2
-https://www.cnnturk.com/teknoloji/evinizde-hepsi-bir-arada-internet-deneyimi:1
+oluyor.:2rk.com/teknoloji/evinizde-hepsi-bir-arada-internet-deneyimi:1
 oppo:2
 a83:1
 segmen:3
@@ -3215,8 +3162,7 @@ skala:1
 8mp:1
 3090mah:1
 besleniyor.:1
-netlik:1
-https://www.cnnturk.com/teknoloji/oppo-a83-orta-segmente-hitap-ediyor:1
+netlik:1rk.com/teknoloji/oppo-a83-orta-segmente-hitap-ediyor:1
 12:11:03:3
 11):2
 kapaklı:1
@@ -3242,8 +3188,7 @@ büyüklüğünde.:1
 çılg:1
 gelebilir:1
 euro’dan:1
-fazla.:2
-https://www.cnnturk.com/teknoloji/kapakli-telefon-samsung-w2018-tanitildi:1
+fazla.:2rk.com/teknoloji/kapakli-telefon-samsung-w2018-tanitildi:1
 13:11:06:2
 digitimes’ın:1
 hazırlığında.:1
@@ -3260,8 +3205,7 @@ taş:2
 kimi:1
 doğu:1
 doğurma:1
-çalışacak.:1
-https://www.cnnturk.com/teknoloji/uygun-fiyatli-ipad-geliyor:1
+çalışacak.:1rk.com/teknoloji/uygun-fiyatli-ipad-geliyor:1
 yaşında!:1
 (ilk:1
 1992de:1
@@ -3299,23 +3243,20 @@ oluşturuyor.:1
 rol:1
 yükleniç:1
 gelişme:4
-katkı:1
-https://www.ntv.com.tr/galeri/teknoloji/sms-25-yasinda-ilk-kisa-mesaj-1992de-atildibngkl0ry-0y-42ezyhkwka:1
+katkı:1om.tr/galeri/teknoloji/sms-25-yasinda-ilk-kisa-mesaj-1992de-atildibngkl0ry-0y-42ezyhkwka:1
 18:00:04:1
 asus:5
 zenfone:5
  iç:1
 mekan:15
 çekim.:6
-iç:8
-https://www.cnnturk.com/teknoloji/asus-zenfone-4-fotograf-performansi:1
+iç:8rk.com/teknoloji/asus-zenfone-4-fotograf-performansi:1
 2017-12-05:12
 liv:1
 flash:2
 alıyor.:4
 güzellik:3
-selfie.:3
-https://www.cnnturk.com/teknoloji/asus-zenfone-live-fotograf-performansi:1
+selfie.:3rk.com/teknoloji/asus-zenfone-live-fotograf-performansi:1
 star:2
 wars:1
 harmanlayıp:1
@@ -3336,8 +3277,7 @@ arasında.:2
 wars’un:1
 film:7
 sonrası;:1
-belirlenmiş.:1
-https://www.cnnturk.com/teknoloji/oneplus-5t-star-wars-edition-cikti:1
+belirlenmiş.:1rk.com/teknoloji/oneplus-5t-star-wars-edition-cikti:1
 07:11:06:1
 doym:1
 ulaşacak?:1
@@ -3355,8 +3295,7 @@ rezerv rezerv yükseliyorsa:1
 rezerv rezerv yükseliyor.:1
 bitcoin bir:1
 paradır.:1
-rusya’da:2
-https://www.ntv.com.tr/teknoloji/bitcoin-ne-zaman-doyma-noktasina-ulasacaks6rsdppcg0wsoxg1_p2m3q:1
+rusya’da:2om.tr/teknoloji/bitcoin-ne-zaman-doyma-noktasina-ulasacaks6rsdppcg0wsoxg1_p2m3q:1
 07:16:04:1
 aralık’a:2
 bildirim:1
@@ -3384,8 +3323,7 @@ klasik:1
 başlat:1
 metot:1
 yüklemek:1
-olacaktır.:1
-https://www.cnnturk.com/teknoloji/2-aralika-ait-gelen-bildirimlere-dikkat:1
+olacaktır.:1rk.com/teknoloji/2-aralika-ait-gelen-bildirimlere-dikkat:1
 08:11:02:1
 0);"":1
 rusya:1
@@ -3425,8 +3363,7 @@ ncsc:1
 virüs:1
 sağlayıcı:1
 yapılmama:1
-çizdi.:1
-https://www.cnnturk.com/teknoloji/rusya-menseli-antivurus-yazilimlarini-kullanmayin:1
+çizdi.:1rk.com/teknoloji/rusya-menseli-antivurus-yazilimlarini-kullanmayin:1
 09:11:08:1
 red:1
 bull:1
@@ -3457,8 +3394,7 @@ stratejik:1
 ham:1
 sayıs:1
 yeral:1
-yerüs:1
-https://www.cnnturk.com/bilim-teknoloji/red-bull-amaphiko-connect-egitim-eglence-ve-ilham-dolu-hafta-sonu:1
+yerüs:1rk.com/bilim-teknoloji/red-bull-amaphiko-connect-egitim-eglence-ve-ilham-dolu-hafta-sonu:1
 appstoredan:1
 yuan:1
 kazanç:1
@@ -3478,8 +3414,7 @@ gerekecek.:1
 x’un:1
 yaşanma:1
 kalt:2
-doğru.:1
-https://www.cnnturk.com/teknoloji/appstoredan-112-milyar-yuan-kazanc-elde-ettiler:1
+doğru.:1rk.com/teknoloji/appstoredan-112-milyar-yuan-kazanc-elde-ettiler:1
 bekliyor:1
 eskime:1
 dayanan:1
@@ -3502,8 +3437,7 @@ yeni bir:1
 şeyl:1
 karşılaşmaz:1
 şüphes:1
-dolduracak.:1
-https://www.cnnturk.com/teknoloji/pil-teknolojisinde-bizi-ilginc-gunler-bekliyor:1
+dolduracak.:1rk.com/teknoloji/pil-teknolojisinde-bizi-ilginc-gunler-bekliyor:1
 google’a:1
 3.3:1
 ceza:3
@@ -3519,8 +3453,7 @@ yasa:2
 çiğnedik:1
 mahkem:1
 edilir:1
-3.:3
-https://www.cnnturk.com/teknoloji/googlea-3-3-milyar-dolar-ceza-kesilebilir:1
+3.:3rk.com/teknoloji/googlea-3-3-milyar-dolar-ceza-kesilebilir:1
 13:11:08:1
 maps:1
 gören:1
@@ -3536,8 +3469,7 @@ docs:1
 sheets:1
 slides’ı:1
 uyacak:1
-güncellemişti.:1
-https://www.cnnturk.com/teknoloji/google-maps-artik-iphone-x-ile-uyumlu:1
+güncellemişti.:1rk.com/teknoloji/google-maps-artik-iphone-x-ile-uyumlu:1
 10):2
 2018’de:1
 f:7
@@ -3604,8 +3536,7 @@ ingilizlerin:1
 yarışır:1
 dedik:1
 yaşatmak:1
-ediyorlar":1
-http://www.cumhuriyet.com.tr/haber/teknoloji/880338/2018_de_resmi_kurumlarda_f_klavye_zorunlu_olarak_kullanilacak.html:1
+ediyorlar":1iyet.com.tr/haber/teknoloji/880338/2018_de_resmi_kurumlarda_f_klavye_zorunlu_olarak_kullanilacak.html:1
 15:36:03:1
 watch:5
 spor:4
@@ -3626,8 +3557,7 @@ dolaysı:1
 iphone’a:1
 duymuyor.:1
 avrupa’dan:1
-geçerli.:1
-https://www.cnnturk.com/teknoloji/apple-watch-series-3-spor-saatlerini-geride-birakti:1
+geçerli.:1rk.com/teknoloji/apple-watch-series-3-spor-saatlerini-geride-birakti:1
 2017-12-06:10
 face:4
 id:2
@@ -3643,8 +3573,7 @@ bu.:1
 cumarte:1
 yar:1
 dağıtacak:1
-geliriz.:1
-https://www.cnnturk.com/teknoloji/face-id-hatasi-nasil-duzeltilir:1
+geliriz.:1rk.com/teknoloji/face-id-hatasi-nasil-duzeltilir:1
 blackberry:2
 nokia:3
 kanada:3
@@ -3668,8 +3597,7 @@ gerekçe:1
 almanya’da:1
 nokia’ya:1
 açma:1
-hazırlanıyor.:2
-https://www.cnnturk.com/teknoloji/blackberry-ve-nokia-patent-ihlalleri-yuzunden-karsi-karsiya:1
+hazırlanıyor.:2rk.com/teknoloji/blackberry-ve-nokia-patent-ihlalleri-yuzunden-karsi-karsiya:1
 07:11:04:1
 h8324:3
 duymadık:1
@@ -3691,8 +3619,7 @@ verecektir.:1
 gfxbench‘te:1
 arka;:1
 kardeş:2
-diyebilecek:1
-https://www.cnnturk.com/teknoloji/h8324-gun-yuzune-cikti:1
+diyebilecek:1rk.com/teknoloji/h8324-gun-yuzune-cikti:1
 08:11:12:1
 iklim:1
 değişiklik:1
@@ -3724,15 +3651,13 @@ biridir.:1
 santraller:1
 verilir:1
 üretme:1
-bulunamaz.:1
-https://www.cnnturk.com/bilim-teknoloji/iklim-degisikliginin-nedeni-carpik-kentlesme-ve-fosil-yakitlar:1
+bulunamaz.:1rk.com/bilim-teknoloji/iklim-degisikliginin-nedeni-carpik-kentlesme-ve-fosil-yakitlar:1
 10:11:03:1
 çekimi.:3
 çek:4
 moddayken.:1
 plan.:1
-açıda.:2
-https://www.cnnturk.com/teknoloji/asus-zenfone-max-fotograf-performansi:1
+açıda.:2rk.com/teknoloji/asus-zenfone-max-fotograf-performansi:1
 10:11:05:1
 venezuela:1
 borç:1
@@ -3750,8 +3675,7 @@ açıklandı.:1
 yapılandırmak:1
  yeni:1
 çıkarılacak:1
-vermedi.:1
-https://www.cnnturk.com/teknoloji/venezuela-sanal-para-birimi-cikardi:1
+vermedi.:1rk.com/teknoloji/venezuela-sanal-para-birimi-cikardi:1
 efsane::1
 mesajlaşma:1
 vodafone:1
@@ -3773,16 +3697,14 @@ vs.:1
 paket:1
 alış:1
 sefer:1
-patlak:1
-https://www.cnnturk.com/teknoloji/25-yillik-efsane-sms:1
+patlak:1rk.com/teknoloji/25-yillik-efsane-sms:1
 8+12mp:1
 dual:2
 selfie’ler:2
 önemli.:1
 tane:3
 12mp:1
-pürüzs:1
-https://www.cnnturk.com/teknoloji/asus-zenfone-4-ailesi-video-performansi:1
+pürüzs:1rk.com/teknoloji/asus-zenfone-4-ailesi-video-performansi:1
 14:11:04:2
 sunulurken:1
 aylık:4
@@ -3790,8 +3712,7 @@ satma:1
 spekülasyon:1
 atılma:1
 etkile:1
-görünüyor.:1
-https://www.cnnturk.com/teknoloji/iphone-x-rekoru-da-beraberinde-getirdi:1
+görünüyor.:1rk.com/teknoloji/iphone-x-rekoru-da-beraberinde-getirdi:1
 15:11:02:1
 pokemon:4
 seven:1
@@ -3810,8 +3731,7 @@ gerçekç:1
 sunmak:1
 ekledik.:1
  nintanic:1
-önemsiyor.:1
-https://www.cnnturk.com/bilim-teknoloji/pokemon-sevenlere-mujde:1
+önemsiyor.:1rk.com/bilim-teknoloji/pokemon-sevenlere-mujde:1
 2017-12-07:15
 01:33:03:1
 tunç:3
@@ -3862,8 +3782,7 @@ mö:1
 yapıldı.:1
 jambo:1
 metali:1
-koydu.:1
-https://www.cnnturk.com/bilim-teknoloji/tunc-caginda-araclar-meteordan-yapilmis:1
+koydu.:1rk.com/bilim-teknoloji/tunc-caginda-araclar-meteordan-yapilmis:1
 01:44:02:1
 com:1
 başlattı.:1
@@ -3873,8 +3792,7 @@ oluşturdu.:1
 düşünmek:1
 tmall:1
 vmall:1
-başlatmadı.:1
-https://www.cnnturk.com/teknoloji/iphone-x-ile-yarisiyor:1
+başlatmadı.:1rk.com/teknoloji/iphone-x-ile-yarisiyor:1
 07:11:02:1
 13.3:1
 ile:1
@@ -3885,8 +3803,7 @@ ortalama:2
 gerçekleştiren:1
 gerçekleşen:1
 maalesef:1
-bilg:1
-https://www.cnnturk.com/teknoloji/finlandiya-13-3-gb-ile-mobil-internet-sampiyonu:1
+bilg:1rk.com/teknoloji/finlandiya-13-3-gb-ile-mobil-internet-sampiyonu:1
 08:11:04:1
 assassins:1
 okyanus:1
@@ -3908,8 +3825,7 @@ black:2
 flag’de:1
 geçiyor.:1
 flag’i:1
-ekleyebilirsiniz.:1
-https://www.cnnturk.com/teknoloji/assassins-creed-4-ile-okyanuslara-yelken-acin:1
+ekleyebilirsiniz.:1rk.com/teknoloji/assassins-creed-4-ile-okyanuslara-yelken-acin:1
 09:11:05:1
 facebook’tan:2
 kazanamadık:1
@@ -3936,8 +3852,7 @@ gemini’yi:1
 kurmuşlardı.:1
 milyarder:2
 mali:1
-paylaşmayan:1
-https://www.cnnturk.com/teknoloji/facebooktan-kazanamadiklarini-bitcoinden-kazandilar:1
+paylaşmayan:1rk.com/teknoloji/facebooktan-kazanamadiklarini-bitcoinden-kazandilar:1
 yapt:1
 huaweinin:1
 telekom:1
@@ -3952,8 +3867,7 @@ tırmanarak:1
 72.:1
 huawei;:1
 brand:1
-z:1
-https://www.cnnturk.com/teknoloji/45-milyar-abd-dolari-yatirim-yapti:1
+z:1rk.com/teknoloji/45-milyar-abd-dolari-yatirim-yapti:1
 12:11:04:1
 gök:2
 bilimç:1
@@ -3979,8 +3893,7 @@ okur:1
 nitelik:1
 çekildi.:1
 ayr:1
-yayımlandı.:1
-https://www.ntv.com.tr/teknoloji/en-uzak-kara-delik-kesfedildieqnjmm0m_k2lodvel5g7yq:1
+yayımlandı.:1om.tr/teknoloji/en-uzak-kara-delik-kesfedildieqnjmm0m_k2lodvel5g7yq:1
 12:24:03:1
 sinema:1
 tutkun:1
@@ -4010,8 +3923,7 @@ dost:1
 dinleyici:1
 rahatlık:1
 radyonom’a:1
-webte www.:1
-https://www.cnnturk.com/bilim-teknoloji/sinema-tutkunlarina-ozel-radyo-d-smart-popcorn-radyo:1
+webte www.:1rk.com/bilim-teknoloji/sinema-tutkunlarina-ozel-radyo-d-smart-popcorn-radyo:1
 12:55:03:1
 girdik:1
 oynadık:1
@@ -4028,8 +3940,7 @@ anket:1
 reel:1
 karşılık:1
 bulundurma:1
-pazar.:1
-https://www.cnnturk.com/teknoloji/cin-apple-icin-onemli-bir-potansiyel:1
+pazar.:1rk.com/teknoloji/cin-apple-icin-onemli-bir-potansiyel:1
 mon:5
 lisa:5
 yarat:1
@@ -4061,8 +3972,7 @@ horoz:1
 tasarlan:1
 iplik:1
 birara:1
-getirildi.:1
-https://www.cnnturk.com/bilim-teknoloji/bilim-insanlari-dna-ile-mona-lisanin-dunyanin-en-kucuk-kopyasini-yaratti:1
+getirildi.:1rk.com/bilim-teknoloji/bilim-insanlari-dna-ile-mona-lisanin-dunyanin-en-kucuk-kopyasini-yaratti:1
 13:44:02:1
 "en:1
 iyiler":1
@@ -4110,8 +4020,7 @@ ipadletgo::1
 buy:1
 &:1
 sell:1
-secondhandsahibinden.:1
-https://www.cnnturk.com/bilim-teknoloji/apple-en-iyiler-listesini-paylasti:1
+secondhandsahibinden.:1rk.com/bilim-teknoloji/apple-en-iyiler-listesini-paylasti:1
 13:55:05:1
 başlayan:1
 için bitcoin kullanım:1
@@ -4141,15 +4050,13 @@ kayma:1
 ülk:1
 gelişmek:2
 karşılaştırdık:1
-bölgelerde.:1
-https://www.ntv.com.tr/galeri/teknoloji/yeni-baslayanlar-icinbitcoinkullanim-kilavuzu-bitcoinnasil-alinirrvp9apyy_esp_boq_6-chq:1
+bölgelerde.:1om.tr/galeri/teknoloji/yeni-baslayanlar-icinbitcoinkullanim-kilavuzu-bitcoinnasil-alinirrvp9apyy_esp_boq_6-chq:1
 14:00:04:1
 düşt:1
 sunulmuştu.:1
 etike:1
 satılacak:1
-sunulmamıştı.:1
-https://www.cnnturk.com/teknoloji/google-pixel-2-fiyati-600-dolara-dustu:1
+sunulmamıştı.:1rk.com/teknoloji/google-pixel-2-fiyati-600-dolara-dustu:1
 aksesuar:1
 iphone’larla:1
 sunuldu.:1
@@ -4190,8 +4097,7 @@ patlıcan:1
 yakut:1
 (product:1
 red):1
-giri:1
-https://www.cnnturk.com/teknoloji/apple-yeni-aksesuar-rengini-tanitti:1
+giri:1rk.com/teknoloji/apple-yeni-aksesuar-rengini-tanitti:1
 15:11:05:1
 vivo:4
 x20:2
@@ -4212,8 +4118,7 @@ donaıl:1
 64gb.:1
 sponsorluk:1
 turnuv:1
-kullanacaklar.:1
-https://www.cnnturk.com/teknoloji/vivo-x20-fifa-world-cup-2018-edition-resmi-torenle-tanitildi:1
+kullanacaklar.1rk.com/teknoloji/vivo-x20-fifa-world-cup-2018-edition-resmi-torenle-tanitildi:1
 2017-12-08:7
 tutt:1
 santrali:1
@@ -4230,8 +4135,7 @@ firmalar yeni:1
 atıl:1
 ederken.:1
 amazon’un:1
-düğme:1
-https://www.cnnturk.com/teknoloji/google-sozunu-tuttu:1
+düğme1rk.com/teknoloji/google-sozunu-tuttu:1
 07:11:08:1
 eset:6
 uef:3
@@ -4276,8 +4180,7 @@ değecek:1
 kullanıyorsunuz. :1
 olum:1
 yanıtlat:1
-söyleyebilirim.".:1
-https://www.cnnturk.com/teknoloji/eset-uefi-taramasina-kavustu:1
+söyleyebilirim.".1rk.com/teknoloji/eset-uefi-taramasina-kavustu:1
 08:11:06:1
 alibaba:1
 satacak:1
@@ -4305,8 +4208,7 @@ forma:1
 gol:1
 atarken:1
 asist:1
-(sabah).:1
-https://www.ntv.com.tr/galeri/teknoloji/alibaba-internetten-otomobil-satacak4zb6rrmyoum63q3kpvhheg:1
+(sabah).:1om.tr/galeri/teknoloji/alibaba-internetten-otomobil-satacak4zb6rrmyoum63q3kpvhheg:1
 09:00:07:1
 dayanıklılık:2
 ömr:1
@@ -4326,8 +4228,6 @@ perfoermans:1
 bildirilmiş.:1
 çekiç:1
 faktör:1
-faktörü.:1
-https://www.cnnturk.com/teknoloji/dayaniklilik-ve-pil-omru-konusunda-sinifta-kaldi:1
 09:11:03:1
 p11:1
 leica:2
@@ -4344,8 +4244,6 @@ ortaklaş:1
 24mp:1
 selfi:1
 konumlandır:1
-düşüncesinde.:1
-https://www.cnnturk.com/teknoloji/huawei-p11-cok-iddiali-olacak:1
 bitcoine bir:1
  agos:1
 yönetmen:1
@@ -4382,7 +4280,5 @@ ihlalle:1
 yargılanan:1
 tahli:1
 verildi.:1
-  r\t\t\t\t\tr:1
-https://www.ntv.com.tr/galeri/teknoloji/bitcoinebir-yasak-dahay90iytbza0ihydqmtpd6qq:1
 11:00:05:1
 12);:1

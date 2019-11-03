@@ -1266,7 +1266,7 @@ sinirindafenerbahçe:1
 ceza:27
 sınır:2
 bulunuyor.:4
-https://www.ntv.com.tr/spor/fenerbahce-antalyaspor-deplasmanindahudelvga5euz8wnng4xmzg:1
+8wnng4xmzg:1
 null:100
 2017-11-26:6
 15:00:04:1
@@ -1311,7 +1311,7 @@ korkmaz:3
 sürdürüldük:1
 belirtildi.:6
 rr.:3
-https://www.ntv.com.tr/spor/medipol-basaksehirli-elia-ameliyatolacak_7edk-pdweifnllq7ucdfq:1
+weifnllq7ucdfq:1
 15:00:06:1
 eski:1
 darp:4
@@ -1355,7 +1355,7 @@ vermek:2
 emniyet:1
 müdürlük:2
 götürüldü.:1
-https://www.ntv.com.tr/spor/eski-kulup-baskani-eski-teknik-direktoru-darp-ettikwhgh70dpugr-eohk_feiq:1
+tikwhgh70dpugr-eohk_feiq:1
 18:00:03:1
 milliler:1
 iki:3
@@ -1372,7 +1372,7 @@ yaşadı.:4
 40-34.:1
 47-43:1
 55-55.:1
-https://www.ntv.com.tr/spor/milliler-ikide-iki-yaptisoqayysx-0ynuawc5b9_ug:1
+
 19:00:03:1
 gült:1
 pas:6
@@ -1399,7 +1399,7 @@ cezasaha:4
 şut:4
 çapraz:3
 çekti.:1
-https://www.ntv.com.tr/spor/fenerbahcedeplasmanda-gulduhudelvga5euz8wnng4xmzg:1
+g:1
 19:00:04:1
 manchester:3
 city:2
@@ -1416,7 +1416,7 @@ sterling:1
 1992den:1
 ulaşan:1
 kayıt:1
-https://www.ntv.com.tr/spor/manchester-cityden-premier-lig-rekorulhoj8ymo2egdzd_eraivwq:1
+dzd_eraivwq:1
 21:00:03:1
 milanda:1
 montella:3
@@ -1444,7 +1444,7 @@ napoli:1
 küm:1
 düşm:1
 hatt:1
-https://www.ntv.com.tr/spor/milanda-montella-kovuldu-gattuso-geldi78bx3n9rxkke2shfntjt8a:1
+ke2shfntjt8a:1
 2017-11-27:3
 11:00:07:1
 kayseri:2
@@ -1464,7 +1464,7 @@ bulut:1
 emmanuel:1
 adebayor:2
 verdi.:8
-https://www.ntv.com.tr/spor/basaksehir-kayseride-takildicwpot960j0i-nciwx11aqg:1
+qg:1
 20:00:36:1
 eli:1
 hakem:28
@@ -1495,7 +1495,7 @@ iler:1
 süren:1
 olsa:2
 oynadık.:1
-https://www.ntv.com.tr/spor/adebayor-topu-eliyle-aldigini-soyledi1xelcidwq0cndyue50kz3g:1
+ndyue50kz3g:1
 21:00:05:1
 fenerbahçede:1
 robi:2
@@ -1522,7 +1522,7 @@ giyemeyecek.:2
 aykut:4
 kocama:1
 öğrenildi.:2
-https://www.ntv.com.tr/spor/fenerbahcederobin-van-persie-donuyorf6deastyb0kiskhknu7p3a:1
+skhknu7p3a:1
 2017-11-28:7
 08:00:02:2
 manisaspor:6
@@ -1569,7 +1569,7 @@ seyircis:1
 oynayan:3
 ziraat:2
 yoks:2
-https://www.ntv.com.tr/spor/besiktas-manisaspor-karsisinda-farklikazandibbb-hs20j06kmclrb7jemw:1
+hs20j06kmclrb7jemw:1
 14:00:05:1
 işte:2
 sivas:7
@@ -1594,7 +1594,7 @@ cumarte:8
 derp:10
 as:2
 dinlendir:1
-https://www.ntv.com.tr/spor/iste-galatasarayin-sivas-belediyespor-maci-11isfe0kldrrewhpttdqvwv8a:1
+e0kldrrewhpttdqvwv8a:1
 17:00:04:1
 galatasaray-sivas:1
 20.:2
@@ -1625,7 +1625,7 @@ seyid:1
 feyyaz:1
 hakan:7
 sinanrr.:1
-https://www.ntv.com.tr/spor/galatasaray-sivas-belediyespor-karsilasmasisfe0kldrrewhpttdqvwv8a:1
+ldrrewhpttdqvwv8a:1
 18:00:04:1
 galatasaraydan:1
 1-070.:1
@@ -1639,7 +1639,7 @@ gü:2
 derdiyok:2
 bult:1
 belirledi.:1
-https://www.ntv.com.tr/spor/galatasaraydan-farkli-galibiyetsfe0kldrrewhpttdqvwv8a:1
+vwv8a:1
 20:00:04:1
 43.:1
 nunnally:3
@@ -1682,7 +1682,7 @@ baykan:1
 simpson:5
 moldoveanu:1
 merthan:1
-https://www.ntv.com.tr/spor/fenerbahce-dogustan-ligde-ust-uste-43-galibiyetfybh0lgimkkkgodht9sf0q:1
+ybh0lgimkkkgodht9sf0q:1
 21:00:02:1
 united:2
 sürdür:1
@@ -1704,7 +1704,7 @@ tottenham:1
 harry:1
 kane:1
 attı.:2
-https://www.ntv.com.tr/spor/manchester-united-zirve-takibini-surdurdutj3hr0cvx0ygfhvdo7k1za:1
+vx0ygfhvdo7k1za:1
 23:00:03:1
 yaşl:2
 veda:1
@@ -1755,7 +1755,7 @@ gidip:1
 değiştiriyorum.:1
 gelenek:1
 özlüyorum.:1
-https://www.ntv.com.tr/spor/dunyanin-en-yasli-futbolcusunun-veda-etmeye-niyeti-yok-55-yasindalnfkefpjbk-ljuty-5gx6g:1
+ti-yok-55-yasindalnfkefpjbk-ljuty-5gx6g:1
 2017-11-29:6
 14:00:03:1
 adana:14
@@ -1785,7 +1785,7 @@ oynanmıştı.:1
 ocak:4
 1988de:1
 etmişti.:1
-https://www.ntv.com.tr/spor/iste-fenerbahcenin-adana-demirspor-maci-11ihnaojk4ylusojudmx1cfna:1
+k4ylusojudmx1cfna:1
 17:00:02:1
 fenerbahçe-adana:2
 şansalan:1
@@ -1810,7 +1810,7 @@ yiğit:1
 mendy:1
 lalawele:1
 tamberr.:1
-https://www.ntv.com.tr/spor/fenerbahce-adana-demirspor-macihnaojk4ylusojudmx1cfna:1
+1cfna:1
 18:00:02:2
 fenerbahçeden:1
 kocaman:4
@@ -1836,7 +1836,7 @@ buluşturdu.:3
 çizgisiyakın:1
 kazanılan:2
 kullandı.:1
-https://www.ntv.com.tr/spor/fenerbahceden-farkli-galibiyethnaojk4ylusojudmx1cfna:1
+cfna:1
 20:00:03:1
 potuk:2
 rol:2
@@ -1852,7 +1852,7 @@ attifenerbahçe:1
 forve:2
 elem:1
 giydi.:3
-https://www.ntv.com.tr/spor/alper-potuktan-kariyer-rekoruwv80gnnuzuk-akrxj9mlwa:1
+lwa:1
 21:00:04:1
 ozan:3
 tufan:2
@@ -1883,7 +1883,7 @@ ağır:2
 amaç:3
 çalışacak:1
 yorum:1
-https://www.ntv.com.tr/spor/aykut-kocamandan-ozan-tufan-ve-soldado-aciklamasiwunmj9jjckeofzmnwy1maw:1
+iwunmj9jjckeofzmnwy1maw:1
 22:00:04:1
 libertadores:1
 gremio:2
@@ -1905,7 +1905,7 @@ sant:1
 böyle:1
 3.:6
 2ncilik:1
-https://www.ntv.com.tr/spor/kupa-libertadores-cristian-baronili-gremionun-olduim3fgxa-eum-zmzwqomp7a:1
+duim3fgxa-eum-zmzwqomp7a:1
 2017-11-30:35
 09:00:02:1
 janssen::1
@@ -1926,7 +1926,7 @@ alabilm:1
 ihtimalim:1
 biliyordum.:1
 geçirmiştik.:1
-https://www.cnnturk.com/spor/futbol/janssen-video-hakem-olsa-galatasaray-derbisini-kazanmistik:1
+bisini-kazanmistik:1
 11:04:47:1
 doğu:1
 2.:2
@@ -1946,7 +1946,7 @@ pazar:2
 00te:2
 al-riyadi:2
 beckerspor:1
-https://www.cnnturk.com/spor/basketbol/dogu-avrupa-kadinlar-basketbol-ligi-2-etabi-basliyor:1
+-etabi-basliyor:1
 11:04:49:1
 fabri:1
 vs.:1
@@ -1963,10 +1963,7 @@ yeme:1
 bitirdi.:3
 yedigalatasaray:1
 fernando:5
-https://www.cnnturk.com/spor/futbol/fabri-vs-muslera:1
-11:04:51:1
-haber:16
-kasım...:3
+asım...:3
 yemişti.:1
 düzg:2
 insan.:1
@@ -1981,7 +1978,7 @@ josef:2
 souz:2
 televizyon:3
 gönderdi.:3
-https://www.cnnturk.com/spor/futbol/son-dakika-fenerbahce-haberleri-30-kasim-van-persie-kadro-disi:1
+-van-persie-kadro-disi:1
 11:04:52:2
 fırat:10
 aydınus:10
@@ -2047,7 +2044,7 @@ fenerbahçe-beşiktaş:1
 0-12016-2017 :1
  beşiktaş-fenerbahçe :1
  1-1 .:1
-https://www.cnnturk.com/spor/futbol/besiktas-firat-aydinusla-2013ten-beri-kazanamiyor:1
+zanamiyor:1
 dakika::2
 serkan:3
 aleks:1
@@ -2061,7 +2058,6 @@ merkez:2
 beşiktaş-galatasaray::1
 aydınus3:1
 pazar::1
-https://www.cnnturk.com/spor/futbol/son-dakika-derbinin-hakemi-belli-oldu:1
 11:04:53:1
 erman:1
 toroğlu::1
@@ -2084,7 +2080,7 @@ ayrılır:1
 inanıyor:1
 giderdik.:1
 fikirdeyim.:1
-https://www.cnnturk.com/spor/futbol/erman-toroglu-fatih-terim-adami-arkadan-vurmaz:1
+vurmaz:1
 11:04:55:1
 dönüş:1
 muhteşe:5
@@ -2140,7 +2136,7 @@ reçber:2
 ibrahima:1
 yattar:1
 katıldı.:3
-https://www.cnnturk.com/spor/futbol/son-dakika-besiktas-haberleri-30-kasim-donusum-muhtesem-olacak-soku:1
+onusum-muhtesem-olacak-soku:1
 11:04:56:1
 soracak:2
 lig’de:1
@@ -2165,7 +2161,7 @@ quilon:1
 görüşmek:6
 istanbul’a:4
 yönetecek.:4
-https://www.cnnturk.com/spor/futbol/son-dakika-galatasaray-haberleri-30-kasim-uefa-hesap-soracak:1
+m-uefa-hesap-soracak:1
 11:04:58:2
 tsubasa:3
 mess:2
@@ -2202,8 +2198,7 @@ kavuşan:1
 90larda:1
 yayınlanma:1
 başlamıştı.:1
-https://www.cnnturk.com/spor/futbol/tsubasa-messi-ve-ronaldoyla-donuyor:1
-değiş:4
+ğiş:4
 devr:3
  devler:1
 kullanılacak.:1
@@ -2216,7 +2211,7 @@ karşılaş:2
 21:00’de:1
 başlayacak.:1
 21.:1
-https://www.cnnturk.com/spor/futbol/son-dakika-sampiyonlar-ligi-maclarinin-saatleri-degisti:1
+aatleri-degisti:1
 11:04:59:1
 canlı::1
 kayserispor-eyüpspor:1
@@ -2238,7 +2233,7 @@ büyükşehir:8
 yeşil:1
 bursa:2
 itti.:1
-https://www.cnnturk.com/spor/futbol/canli-kayserispor-eyupspor-maci-izle-turkiye-kupasi-maclari-hangi-kanalda:1
+kiye-kupasi-maclari-hangi-kanalda:1
 12:22:44:1
 murat:4
 cavcav:4
@@ -2289,8 +2284,7 @@ kırılan:1
 gata:1
 kaldırılarak:1
 alınmıştı.:1
-https://www.cnnturk.com/spor/futbol/murat-cavcavin-oglundan-iyi-haber:1
-12:22:48:1
+2:48:1
 derbide:1
 dana:1
 kuyruk:1
@@ -2332,7 +2326,7 @@ gol 1:1
 6053  61:1
 752 1  76:1
 909 5 .:1
-https://www.cnnturk.com/spor/futbol/derbide-dananin-kuyrugu-son-15-dakikada-kopuyor:1
+kopuyor:1
 12:22:56:1
 pfdkdan:2
 par:11
@@ -2348,7 +2342,7 @@ bilets:2
 seyirç:3
 alınma:2
 edildi.:4
-https://www.ntv.com.tr/spor/pfdkdan-6-super-lig-kulubune-cezastnlrj-tqugnfqgygry_lq:1
+ygry_lq:1
 15:00:03:1
 çalhanoğlu’nun:1
 şantaj:3
@@ -2392,7 +2386,7 @@ bittik:1
 anlattı.:4
 sözcür\t\t\t\t\tr:1
 \tr\t\t\t\t\tr\t\t\t\t.:5
-http://www.cumhuriyet.com.tr/haber/spor/876844/hakan_calhanoglu_nun_santaj_davasi_basladi__10_kez_birlikte_olduk_ama_korundum.html:1
+avasi_basladi__10_kez_birlikte_olduk_ama_korundum.html:1
 15:56:14:1
 pako:1
 ayestaran:3
@@ -2417,8 +2411,7 @@ coruna:1
 4-1lik:1
 galibi:3
 olmuştu.:2
-https://www.cnnturk.com/spor/futbol/pako-ayestaran-iki-ay-sonra-kovuldu:1
-16:22:04:1
+:22:04:1
 kahramanmaraş:1
 üzt:1
 bindir:2
@@ -2443,8 +2436,7 @@ irfan:1
 gelişen medipol:1
 ters:2
 kana:1
-https://www.cnnturk.com/spor/futbol/basaksehir-kahramanmarasi-uzdu:1
-16:22:08:1
+8:1
 bursasporda:1
 ekong:4
 78.:1
@@ -2466,10 +2458,7 @@ lig’in:1
 15.:1
 yetiştirilme:1
 çalışılacak.:1
-https://www.cnnturk.com/spor/futbol/bursasporda-ekong-sakatlandi:1
-16:22:14:1
-https://www.cnnturk.com/spor/futbol/pfdkdan-6-super-lig-kulubune-ceza:1
-16:22:17:1
+2:17:1
 trabzonspordan:1
 77.:1
 hugo:1
@@ -2481,7 +2470,7 @@ matus:1
 bero:1
 damg:1
 vuran:1
-https://www.ntv.com.tr/spor/trabzonspordan-farkli-galibiyetvzosc5zqhkq-f16u-nxx6a:1
+nxx6a:1
 17:08:03:1
 aranızda:1
 mı?:1
@@ -2515,7 +2504,7 @@ reddettik:1
 mechelen:1
 bosmans’ın:1
 düşünüyorum.:1
-https://www.ntv.com.tr/spor/aranizda-hakem-olan-var-mibi50r0rwnuidognrfcth5w:1
+:1
 17:08:04:1
 erzurumspor:6
 0-4:1
@@ -2536,7 +2525,6 @@ goltrabzonspor:1
 kolombiya:3
 belediye:2
 kaydederek:1
-https://www.cnnturk.com/spor/futbol/erzurumspor-0-4-trabzonspor-mac-ozeti:1
 17:22:04:2
 abdullah:2
 avcı:1
@@ -2565,7 +2553,7 @@ cephesikipaş:1
 antrenörü ejder:1
 orak:1
 karşılaşmada ellerinden:1
-https://www.cnnturk.com/spor/futbol/abdullah-avcidan-kahramanmarasspor-yorumu:1
+u:1
 fifadan:1
 uyar:1
 ege:1
@@ -2605,9 +2593,7 @@ kesinlik:1
 değildir.:2
 lisans:1
 uygulandı.:1
-https://www.cnnturk.com/spor/futbol/fifadan-manisaspora-uyari:1
-18:22:03:1
-aziz:1
+ziz:1
 yıldır:4
 sevg:2
 sel:1
@@ -2633,8 +2619,7 @@ gezerek:1
 sporcu:1
 sohbet:2
  .:2
-https://www.cnnturk.com/spor/basketbol/aziz-yildirima-sevgi-seli:1
-19:11:06:1
+1
 gelişen:2
 stojiljkoviç:1
 men:2
@@ -2660,8 +2645,7 @@ gitti::1
 3-2 karşılaşma:1
 3-2lik:1
 tamamlandı.:1
-https://www.cnnturk.com/spor/futbol/kayserispor-3-2-eyupspor-ozet:1
-19:44:02:1
+:1
 leh:6
 10-9.:2
 dragiç:2
@@ -2677,7 +2661,7 @@ stimaç:2
 25.:2
 48-48.:2
 52-50:1
-https://www.cnnturk.com/spor/basketbol/anadolu-efes-milani-yenerek-ugurladi:1
+1
 19:55:03:1
 banvi:1
 32-35.:1
@@ -2693,15 +2677,14 @@ japan:1
 67-72.:1
 taylor:1
 79-79.:1
-https://www.cnnturk.com/spor/basketbol/besiktas-banvite-sans-tanimadi:1
-20:33:06:1
+3:06:1
 jefferson:1
 ax:1
 armani:1
 exchange:1
 olimpia:1
 6.:2
-https://www.ntv.com.tr/spor/anadolu-efes-3-galibiyetini-aldioyqfzilrzkmq6snld7grxq:1
+d7grxq:1
 20:40:03:1
 japanden:1
 yenilgi:1
@@ -2720,7 +2703,7 @@ michael:1
 thomas:1
 japande:1
 8di.:1
-https://www.ntv.com.tr/spor/besiktas-sompo-japanden-seriye-devamrapunjinaekp6j4jkw0pca:1
+6j4jkw0pca:1
 20:40:05:1
 pfdk’den:1
 trabzonspor’a:1
@@ -2746,7 +2729,7 @@ ortadoğu:1
 pek:1
 gazetecilik:1
 yapmıştı.:1
-http://www.cumhuriyet.com.tr/haber/futbol/877170/pfdk_den_besiktas_ve_trabzonspor_a_men_cezasi.html:1
+nspor_a_men_cezasi.html:1
 22:00:06:1
 ispanyada:1
 kazanma:1
@@ -2758,8 +2741,7 @@ yükseltti::1
 49-60.:1
 bulmak:1
 zorlandı.:2
-https://www.cnnturk.com/spor/basketbol/fenerbahce-ispanyada-kazandi:1
-22:11:04:1
+04:1
 zaferi!:1
 pota:1
 görme:1
@@ -2774,7 +2756,7 @@ sırtladı.:1
 vitoria:1
 bugün:3
 kaybetmişti.:1
-https://www.ntv.com.tr/spor/fenerbahce-dogusun-baskonia-zaferikhj_tv-0rk-xldlxkdnxaa:1
+lxkdnxaa:1
 22:24:04:1
 aralık...:4
 rıdvan:10
@@ -2800,7 +2782,7 @@ iddaa:1
 oran:8
 idda:1
 değişti.:1
-https://www.cnnturk.com/spor/futbol/son-dakika-besiktas-haberleri-1-aralik-ridvan-dilmen-besiktas-kazanir:1
+idvan-dilmen-besiktas-kazanir:1
 2017-12-01:43
 06:55:04:1
 dilme:1
@@ -2828,7 +2810,7 @@ sor:3
 şutör:1
 kullanıyor:1
 veriyorum.:1
-https://www.cnnturk.com/spor/futbol/ridvan-dilmenin-besiktas-galatasaray-derbisi-tahmini:1
+bisi-tahmini:1
 07:11:04:1
 herke:1
 ezer:1
@@ -2845,14 +2827,14 @@ konuşmaz.:1
 lucescu:1
 denir:1
 yine.:1
-https://www.cnnturk.com/spor/futbol/ridvan-dilmen-fatih-terim-herkesi-ezer:1
+
 07:22:02:1
 sözübu:3
 sırtlayan:3
 konuştu.:5
 destekfilip:3
 quilon galatasaray:3
-https://www.cnnturk.com/spor/futbol/son-dakika-galatasaray-haberleri-1-aralik-yeni-muslera-bulundu:1
+k-yeni-muslera-bulundu:1
 07:22:03:1
 0;:1
 into:1
@@ -2881,7 +2863,7 @@ düzey:1
 kura:1
 acayip:1
 geçer.:1
-https://www.cnnturk.com/spor/futbol/ridvan-dilmen-real-madrid-gelmezse-besiktas-turu-gecer:1
+tas-turu-gecer:1
 07:44:05:1
 arjantin:3
 buldu::2
@@ -2896,7 +2878,7 @@ satma:3
 bekledik:1
 kaydedildi.:1
 kapattı.:2
-https://www.cnnturk.com/spor/futbol/galatasaray-yeni-muslerayi-arjantinde-buldu:1
+ldu:1
 kur:3
 çek:3
 kaç:2
@@ -2932,7 +2914,7 @@ torba:1
 torba::5
 portek:3
 polonya:3
-https://www.cnnturk.com/spor/futbol/dunya-kupasi-kura-cekimi-saat-kacta-hangi-kanalda:1
+i-kanalda:1
 08:11:03:1
 kollanmıyor:1
 çin:2
@@ -2954,8 +2936,7 @@ göksel:1
 gümüşdağ:2
 isim.:2
 titr:1
-https://www.cnnturk.com/spor/futbol/ridvan-dilmen-basaksehir-kollanmiyor:1
-08:11:05:1
+8:11:05:1
 atılan:3
 günt:2
 kılıç:1
@@ -2987,7 +2968,7 @@ hasre:1
 yıllar iki:1
 sığdık:1
 kurmak:1
-https://www.cnnturk.com/spor/futbol/kendi-kalesine-atilan-golleriyle-unlu-derbi:1
+rbi:1
 08:33:03:1
 derbi::1
 ayrılan:1
@@ -3007,7 +2988,7 @@ carrasco:1
 halin:4
 yaşayacaklar.:1
 gaziantepspor:1
-https://www.cnnturk.com/spor/futbol/derbi-besiktas-galatasaray-maci-ne-zaman-saat-kacta-hangi-kanalda-14-hafta:1
+-saat-kacta-hangi-kanalda-14-hafta:1
 08:33:04:1
 fenerbahçeye:1
 euroluk:1
@@ -3031,7 +3012,7 @@ kazanıyor.:1
 saray:2
 raka:2
 civarında.:2
-https://www.cnnturk.com/spor/futbol/fenerbahceye-10-milyon-euroluk-yeni-sponsor:1
+sor:1
 08:33:05:1
 milyarlık:1
 yük:1
@@ -3046,7 +3027,7 @@ tahmi:1
 musleragalatasaray:1
 gösteriliyor.:1
 younes:1
-https://www.cnnturk.com/spor/futbol/1-milyarlik-derbinin-adi-besiktas-galatasaray:1
+saray:1
 08:44:06:1
 athletic:2
 bilbao-real:1
@@ -3064,7 +3045,7 @@ beklen:1
 ezel:1
 atletico:1
 madri:2
-https://www.cnnturk.com/spor/futbol/athletic-bilbao-real-madrid-maci-hangi-kanalda-ne-zaman-saat-kacta:1
+analda-ne-zaman-saat-kacta:1
 08:55:03:1
 ersan:1
 coşt:1
@@ -3098,7 +3079,6 @@ asist ben:1
 simmons:1
  nbae:1
 edilecek.:1
-https://www.cnnturk.com/spor/nba/ersan-costu-ama-cedili-cavaliers-kazandi:1
 08:55:06:1
 persie:2
 verecek:1
@@ -3121,12 +3101,12 @@ hayal:1
 kırıklık:1
 persie’nin:1
 bekleniyordu.:1
-https://www.cnnturk.com/spor/futbol/son-dakika-fenerbahce-haberleri-1-aralik-van-persienin-takima-verecek-bir-seyi-yok:1
+-van-persienin-takima-verecek-bir-seyi-yok:1
 09:11:02:1
 çalan:2
 kartal:2
 çaldı.:2
-https://www.cnnturk.com/spor/futbol/son-dakika-besiktas-haberleri-1-aralik-vidanin-maliyeti-belli-oldu:1
+idanin-maliyeti-belli-oldu:1
 09:11:04:1
 “beşiktaş:1
 lokomotif:2
@@ -3148,7 +3128,7 @@ yükseltmektir.:1
 hırs:1
 inanç:1
 yapacağız.:1
-https://www.ntv.com.tr/spor/fikret-orman-dunya-takimi-olma-yolunda-hizla-ilerliyoruzc0bqfihacucwfwklj4z59a:1
+rliyoruzc0bqfihacucwfwklj4z59a:1
 09:32:03:1
 muhtemel:1
 11i.:1
@@ -3156,7 +3136,7 @@ pep:1
 mı.:1
 verilen:1
 açıklandı.:1
-https://www.cnnturk.com/spor/futbol/besiktas-galatasaray-derbisinin-oranlari-yine-degisti:1
+-yine-degisti:1
 09:44:02:1
 soyunma:1
 basıp:1
@@ -3194,7 +3174,7 @@ saldırgan:2
 hakk:2
 başlattı.:2
 r\t\t\t\t\tr:4
-http://www.cumhuriyet.com.tr/haber/spor/877500/soyunma_odasi_basip_hakemi_olduresiye_dovduler.html:1
+duresiye_dovduler.html:1
 09:45:14:1
 dört:1
 şov:1
@@ -3208,12 +3188,9 @@ gölge:1
 dördüncü :1
 havalandırarak:1
 5e:1
-https://www.cnnturk.com/spor/futbol/dort-buyuklerin-yedekleri-sov-yapti:1
-09:55:06:1
-2017...:3
-https://www.cnnturk.com/spor/futbol/son-dakika-besiktas-haberleri-1-aralik-2017-vidanin-maliyeti-belli-oldu:1
+017-vidanin-maliyeti-belli-oldu:1
 10:11:05:1
-https://www.cnnturk.com/spor/futbol/son-dakika-galatasaray-haberleri-1-aralik-2017-yeni-muslera-bulundu:1
+k-2017-yeni-muslera-bulundu:1
 10:11:09:1
 sosas:1
 çalış:1
@@ -3239,8 +3216,7 @@ hareket:1
 yusuf:2
 yazıç:1
 şen:1
-https://www.cnnturk.com/spor/futbol/trabzonspor-sosasiz-calisti:1
-10:22:03:1
+
 sow:3
 devlet:6
 ars:2
@@ -3271,8 +3247,7 @@ alınacak:1
 bonus:1
 prim:1
 ödeme:1
-https://www.cnnturk.com/spor/futbol/sow-devlet-baskanindan-arsa-istedi:1
-10:33:02:1
+33:02:1
 hasan:1
 şaş:2
 sıcak:1
@@ -3301,7 +3276,7 @@ bırakıp:1
 gitmiyor:1
 getiriyor:1
 ediyorduk.:1
-https://www.cnnturk.com/spor/futbol/hasan-sas-galatasaraydan-cagri-bekliyor:1
+1
 10:33:04:1
 penaltıyı:1
 beğenmeyen:1
@@ -3312,7 +3287,7 @@ döverek:1
 linç:1
 girişim:1
 sözcü .:1
-https://www.cnnturk.com/spor/futbol/penaltiyi-begenmeyen-seyirciler-hakemi-hastanelik-etti:1
+astanelik-etti:1
 10:44:02:1
 rus:3
 terentyev:2
@@ -3332,7 +3307,7 @@ söyleyemezsin’:1
 dedim.:2
 hatırladık:1
 çıkıyordum.:1
-https://www.cnnturk.com/spor/futbol/rus-futbolcu-terentyevi-otomobilinde-dovduler:1
+duler:1
 10:44:05:1
 kaçır:1
 park’ta:1
@@ -3345,7 +3320,7 @@ bekçi:2
 2011-2012:1
 ikili:1
 yaşarken:1
-https://www.cnnturk.com/spor/futbol/muslera-ile-selcuk-hic-besiktas-maci-kacirmadi:1
+irmadi:1
 11:44:03:1
 internet:2
 site:5
@@ -3356,22 +3331,14 @@ y.:1
 siz:1
 iletiş:1
 sayfa:2
-http://www.:1
-#fenerbahçeliyiz:1
-2017.:1
-fofan:1
-bombasıbaşkan:1
-kongre:1
-üye:5
+e:5
 iste:1
 kanunui:1
 gerekç:1
 kişisel:1
 verilmemişti.:1
 ajansspor.:1
-https://www.cnnturk.com/spor/futbol/ali-koc-harekete-gecti:1
-12:44:51:1
-güvenç:3
+nç:3
 kurtar:7
 yolculuk:2
 uğurlan:1
@@ -3405,11 +3372,11 @@ bağçeşm:1
 mezarlık:1
 defnedilecek.:1
   .:1
-https://www.cnnturk.com/spor/futbol/guvenc-kurtarin-esi-son-yolculuguna-ugurlandi:1
+landi:1
 13:22:02:1
 luis:1
 bek:1
-https://www.cnnturk.com/spor/futbol/son-dakika-galatasaray-haberleri-1-aralik-2017-filipe-luis-yeni-sol-bek:1
+k-2017-filipe-luis-yeni-sol-bek:1
 13:33:06:1
 recep:5
 tayyip:6
@@ -3436,7 +3403,7 @@ allah:1
 ban:2
 erkek:1
 evla:1
-http://www.cumhuriyet.com.tr/haber/spor/877739/_recep__tayyip__erdogan__cumhurbaskani_ile_gorusmek_istiyor.html:1
+urbaskani_ile_gorusmek_istiyor.html:1
 13:36:04:1
 galatasarayın:1
 wonderkidini:1
@@ -3454,7 +3421,7 @@ stil:1
 luk:1
 modri:1
 benzetiyor.:1
-https://www.cnnturk.com/spor/futbol/galatasarayin-wonderkidini-ispanyol-kulubu-izledi:1
+bu-izledi:1
 13:44:03:1
 bırakacak:3
 yineleyen:1
@@ -3472,7 +3439,7 @@ bil:1
 görevi.:1
 2019da:1
 bırakacağım.:1
-https://www.cnnturk.com/spor/futbol/fikret-orman-birakacagi-tarihi-acikladi:1
+1
 13:55:04:1
 özlenen:1
 kim:3
@@ -3499,7 +3466,7 @@ web:1
 öner:1
 eleştiri:1
 inanıyorum.:1
-http://www.cumhuriyet.com.tr/haber/spor/877819/ali_koc__ozlenen_fenerbahce_icin_yola_ciktim.html:1
+cin_yola_ciktim.html:1
 15:09:03:1
 çeşit:1
 internet:2
@@ -3511,7 +3478,7 @@ vakti.:1
 facebook:1
 instagra:1
 açıldı.:1
-https://www.ntv.com.tr/spor/ali-koctan-baskanlik-yarisinda-yeni-adimpgjhvn9y9eebv4zwue5lsa:1
+9eebv4zwue5lsa:1
 15:48:05:1
 gazişehir:4
 altınordu:1
@@ -3548,7 +3515,7 @@ gaziantepsar:1
 kartlar::1
 90+1:1
 uçar altınordu.:1
-https://www.cnnturk.com/spor/futbol/gazisehir-gaziantep-altinorduyu-2-golle-gecti:1
+gecti:1
 eşleşme:2
 rusya’nın:1
 başken:1
@@ -3600,8 +3567,7 @@ sırbistan:1
 pana:1
 kore:1
 arabistan .:1
-https://www.cnnturk.com/spor/futbol/dunya-kupasi-grup-eslesmeleri:1
-17:55:03:1
+:1
 başkanlığı:1
 abdde:1
 görülen:1
@@ -3653,7 +3619,7 @@ terör:1
 soruştur:1
 büro:1
 şöyle::1
-https://www.ntv.com.tr/spor/baskanligi-birakacagi-tarihi-acikladip4jsf0dozeoeuzhixiym2q:1
+euzhixiym2q:1
 18:00:06:1
 berk:2
 özer:1
@@ -3679,8 +3645,7 @@ yaptı;yabancı:1
 webo:1
 değiştirdim.:1
 baskı:1
-https://www.cnnturk.com/spor/futbol/chelsea-berke-ozeri-izlemeye-geldi:1
-18:44:03:1
+44:03:1
 tekke:3
 9-0lık:3
 tar:1
@@ -3702,8 +3667,7 @@ unutarak:1
 cezal:1
 eksik:1
 başarabiliriz.:1
-https://www.cnnturk.com/spor/futbol/fatih-tekkeden-9-0lik-yenilgi-yorumu:1
-18:55:03:1
+8:55:03:1
 ay::1
 lazım:1
 toplan:1
@@ -3731,8 +3695,7 @@ parlakay:1
 hacızade:1
 görke:1
 akbaş:1
-https://www.cnnturk.com/spor/futbol/ali-ay-futbolcu-satmamiz-lazim:1
-19:33:03:1
+3:1
 rom:3
 3-1:1
 spal:3
@@ -3750,6 +3713,6 @@ ceng:1
 64üncü:1
 yerini patrik:1
 schick:1
-https://www.cnnturk.com/spor/futbol/as-roma-3-1-spal:1
+3-1-spal:1
 20:11:04:1
 1;:1
