@@ -4263,7 +4263,6 @@ erk:1
 kullandır:1
 hızı:1
 gerileyecek:1
-35-4:1
 öngörü:2
 bürümcekç:1
 çekecek:1
@@ -4273,12 +4272,10 @@ muammer:1
 kömürcüok:1
 ait:1
 çektik:1
-6ya:1
 yükselttik:1
 harcamalarıünlü&co:1
 esra:1
-:1
-atlasglobal::1
+atlasglobal:1
 değerlendirebilir:2
 atlasglobal:1
 murat:1

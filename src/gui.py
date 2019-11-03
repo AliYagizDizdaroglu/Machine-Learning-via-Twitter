@@ -1,4 +1,5 @@
 # !/usr/bin/python3
+# -*- coding: utf-8 -*-
 import tkinter
 
 from tkinter import *
@@ -27,15 +28,20 @@ datasets = ['art', 'economy', 'politics', 'sport', 'technology']
 
 class MyStreamListener(tweepy.StreamListener):
     def on_status(self, status):
-        # Sadece dili türkçe olan tweetleri
-        # alıp kullancagız
+        # Sadece dili turkce olan tweetleri
+        # alip kullancagiz
         if(status.lang == "tr"):
             tweet = status.text
 
             gui.writeTweets(tweet = tweet)
+            gui.writeTweets("----------------------")
+            gui.writeTweets("----------------------")
+            gui.writeTweets("----------------------")
+            gui.writeTweets("----------------------")
+            gui.writeTweets("----------------------")
 
-            # tweetlerin içinden gereksiz kısımları çıkaracagız.
-            # RT, @.. https:.. noktalama işaretleri
+            # tweetlerin icinden gereksiz kisimlari cikaracagiz.
+            # RT, @.. https:.. noktalama isaretleri
             resultRT = tweet.find('RT')
             if(resultRT != -1):
                 tweet = tweet.split(tweet[:tweet.find(':') + 2])[1]
@@ -52,7 +58,7 @@ class MyStreamListener(tweepy.StreamListener):
                         tweet = tweet.split(
                             tweet[resultUserTag:resultSpace])[1]
 
-            # http... olan kısmı çıkarılır
+            # http... olan kismi cikarilir
             while(tweet.find('http') != -1):
                 resultHttp = tweet.find('http')
                 if(resultHttp != -1):
@@ -67,18 +73,18 @@ class MyStreamListener(tweepy.StreamListener):
 
                     tweet = tweet.split(tweet[resultHttp:resultSpace])[0]
 
-            # Noktalama işaretlerinden temizlenip
-            for removedItem in ['.', ',', ':', '!', '\'', '’', '\n', '+', '%', '&', '❗️', '\"', '-', '_', '(', ')', '?', '..', '...', '[', ']', '{', '}', '“', '“']:
+            # Noktalama isaretlerinden temizlenip
+            for removedItem in ['.', ',', ':', '!', '\'', '’', '\n', '+', '%', '&', '!', '\"', '-', '_', '(', ')', '?', '..', '...', '[', ']', '{', '}', '“', '“']:
                 tweet = tweet.replace(removedItem, ' ')
 
             for removedItem in [' ve ', ' ile ', ' bu ', ' da ', ' de ', ' ama ', ' fakat ', ' ancak ', ' eger ', ' sayet ', ' veya ']:
                 tweet = tweet.replace(removedItem, ' ')
 
-            # Büyük küçük harf farklılıgı olmaması için
-            # bütün cümleyi kücük harf yapıyoruz
+            # Buyuk kucuk harf farkliligi olmamasi icin
+            # butun cumleyi kucuk harf yapiyoruz
             tweet = tweet.lower()
 
-            # tweet içindeki kelimelerin kokleri bulunacak
+            # tweet icindeki kelimelerin kokleri bulunacak
             tweetWords = tweet.split(' ')
             tweet = []
             for tweetWord in tweetWords:
@@ -94,7 +100,7 @@ class MyStreamListener(tweepy.StreamListener):
 
             print(tweet)
             rate = []
-            # Database ile Karşılaştırma Yapılacak (AI)
+            # Database ile Karsilastirma Yapilacak (AI)
             for dataset in datasets:
                 f = open("./database/" + dataset +
                         ".txt", "r", encoding="utf8")
@@ -121,12 +127,14 @@ class MyStreamListener(tweepy.StreamListener):
             for result in rate:
                 ratePercent.append((100 * result) / sum)
 
-
+            i=0
             print(dataset + " - " + str(rate))
-            gui.writeRate(dataset + " - " + str(ratePercent))
-
-            # Bulunan sonuclara göre database güncellenecek
-
+            for pRate in ratePercent:
+                
+                gui.writeRate("%s %.2f" % (datasets[i] , pRate))
+                i+=1
+            # Bulunan sonuclara gore database gcncellenecek
+            gui.writeRate("----------------------")
             # print(tweet)
 
 class Gui:
@@ -146,10 +154,10 @@ class Gui:
         self.btnRealTimeStop.grid(row = 1, column = 2, sticky = W, pady = 2) 
 
         self.labelframeTweets = LabelFrame(root, text = "Tweet")
-        self.labelframeTweets.grid(row = 0, column = 3, columnspan = 1, rowspan = 3, pady = 10) 
+        self.labelframeTweets.grid(row = 0, column = 3, pady = 2) 
 
         self.labelframeResult = LabelFrame(root, text = "Sonuclar")
-        self.labelframeResult.grid(row = 0, column = 4, pady = 10) 
+        self.labelframeResult.grid(row = 0, column = 4, pady = 2) 
 
         self.realTimeTweetEntry = Entry(root, bd = 5)
         self.realTimeTweetEntry.grid(row = 1, column = 0) 
