@@ -1,5 +1,9 @@
-#!/usr/bin/env python
-# -*- coding: utf-8 -*-
+# !/usr/bin/python3
+import tkinter
+
+from tkinter import *
+from tkinter import messagebox
+
 import tweepy
 import re
 
@@ -21,26 +25,14 @@ stemmer = TurkishStemmer()
 
 datasets = ['art', 'economy', 'politics', 'sport', 'technology']
 
-config = {
-    "apiKey": 'AIzaSyBDgWYe3XTCVmhByPbm213KxDJL0rkcLO4',
-    "authDomain": 'project01-f64c4.firebaseapp.com',
-    "databaseURL": 'https://project01-f64c4.firebaseio.com',
-    "projectId": 'project01-f64c4',
-    "storageBucket": 'project01-f64c4.appspot.com',
-    "messagingSenderId": '829199127735',
-    "appId": '1:829199127735:web:3db486e626e90f66a46932',
-}
-
-
 class MyStreamListener(tweepy.StreamListener):
-
     def on_status(self, status):
         # Sadece dili türkçe olan tweetleri
         # alıp kullancagız
         if(status.lang == "tr"):
             tweet = status.text
 
-            print(tweet)
+            gui.writeTweets(tweet = tweet)
 
             # tweetlerin içinden gereksiz kısımları çıkaracagız.
             # RT, @.. https:.. noktalama işaretleri
@@ -120,14 +112,75 @@ class MyStreamListener(tweepy.StreamListener):
                 lengthTweet = len(tweet)
                 rate.append(result / lengthTweet)
 
+            ratePercent = []
+
+            sum = 0
+            for rateSum in rate:
+                sum += rateSum
+
+            for result in rate:
+                ratePercent.append((100 * result) / sum)
+
+
             print(dataset + " - " + str(rate))
+            gui.writeRate(dataset + " - " + str(ratePercent))
 
             # Bulunan sonuclara göre database güncellenecek
 
             # print(tweet)
 
+class Gui:
+    def __init__(self, root):
+        self.root = root
+        self.writeTweetsGrid = 0
+
+        self.root.geometry("1300x500")
+
+        self.label = Label(root, text="Gercek Zamanli Tweet Isleme :")
+        self.label.grid(row = 0, column = 0, sticky = W) 
+
+        self.btnRealTimeStart = Button(root, text = "Baslat", command = self.realTimeTweetStart)
+        self.btnRealTimeStart.grid(row = 1, column = 1, sticky = W, pady = 2) 
+        
+        self.btnRealTimeStop = Button(root, text = "Durdur", command = self.realTimeTweetStop)
+        self.btnRealTimeStop.grid(row = 1, column = 2, sticky = W, pady = 2) 
+
+        self.labelframeTweets = LabelFrame(root, text = "Tweet")
+        self.labelframeTweets.grid(row = 0, column = 3, columnspan = 1, rowspan = 3, pady = 10) 
+
+        self.labelframeResult = LabelFrame(root, text = "Sonuclar")
+        self.labelframeResult.grid(row = 0, column = 4, pady = 10) 
+
+        self.realTimeTweetEntry = Entry(root, bd = 5)
+        self.realTimeTweetEntry.grid(row = 1, column = 0) 
+
+        self.Lb1 = Listbox(self.labelframeTweets, width=50)
+        self.Lb1.grid(row = 0, column = 0, sticky = W) 
+        
+        self.Lb2 = Listbox(self.labelframeResult, width=50)
+        self.Lb2.grid(row = 0, column = 0, sticky = W) 
+        
+
+    def realTimeTweetStart(self):
+        myStream.filter(track=[self.realTimeTweetEntry.get()],  is_async=True)
+
+    
+    def realTimeTweetStop(self):
+        print(1)
+
+    def writeTweets(self, tweet):
+        self.Lb1.insert(self.writeTweetsGrid, tweet)
+        self.writeTweetsGrid += 1
+
+    def writeRate(self, rate):
+        self.Lb2.insert(self.writeTweetsGrid, rate)
+        self.writeTweetsGrid += 1
+
 
 myStreamListener = MyStreamListener()
 myStream = tweepy.Stream(auth=api.auth, listener=myStreamListener)
 
-myStream.filter(track=['turkiye'],  is_async=True)
+root = Tk()
+gui = Gui(root)
+
+root.mainloop()
