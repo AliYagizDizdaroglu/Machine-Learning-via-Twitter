@@ -11,7 +11,6 @@ consumer_secret = "tI3lpqssacsulSh0YDik5FdUzn0GL5o7E3SfGuF9HTSaoSzlpK"
 access_key = "1938234672-fZNrHZNQhMWbI02ef4oe74jlhU1K0oM4TXaDOFG"
 access_secret = "jndmA6jdtFDR66TKrEjyFCkiOjMaDAH2HQHPeOjr3N5Ad"
 
-
 auth = tweepy.OAuthHandler(consumer_key, consumer_secret)
 auth.set_access_token(access_key, access_secret)
 
@@ -21,16 +20,6 @@ stemmer = TurkishStemmer()
 
 datasets = ['art', 'economy', 'politics', 'sport', 'technology']
 
-config = {
-    "apiKey": 'AIzaSyBDgWYe3XTCVmhByPbm213KxDJL0rkcLO4',
-    "authDomain": 'project01-f64c4.firebaseapp.com',
-    "databaseURL": 'https://project01-f64c4.firebaseio.com',
-    "projectId": 'project01-f64c4',
-    "storageBucket": 'project01-f64c4.appspot.com',
-    "messagingSenderId": '829199127735',
-    "appId": '1:829199127735:web:3db486e626e90f66a46932',
-}
-
 
 class MyStreamListener(tweepy.StreamListener):
 
@@ -38,6 +27,7 @@ class MyStreamListener(tweepy.StreamListener):
         # Sadece dili türkçe olan tweetleri
         # alıp kullancagız
         if(status.lang == "tr"):
+            print(status)
             tweet = status.text
 
             print(tweet)
@@ -112,19 +102,27 @@ class MyStreamListener(tweepy.StreamListener):
                 for line in lines:
                     word = line.split(':')
                     if word[0] in tweet:
-                        result += int(word[1]) / len(lines)
+                        try:
+                            result += int(word[1]) / len(lines)
+                        except:
+                            result += 0
 
                 if len(tweet) == 0:
                     lengthTweet = 1
 
                 lengthTweet = len(tweet)
-                rate.append(result / lengthTweet)
+                if lengthTweet != 0:
+                    rate.append(result / lengthTweet)
+
 
             print(dataset + " - " + str(rate))
-
-            # Bulunan sonuclara göre database güncellenecek
-
-            # print(tweet)
+            # sonucların yazılacagı dosya
+            # results.txt
+            # sonuclar rate değişkeninde bulunuyor.
+            # rate değişkeninde hangi kategori en yüksek puanda
+            # bulunacak.
+            # en yüksek puan da olan kategorinin dosyadaki
+            # degeri bir arttırılacak. Dosyaya geri kaydedilecek
 
 
 myStreamListener = MyStreamListener()

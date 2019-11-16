@@ -1,0 +1,5 @@
+art:0
+economy:0
+politics:0
+sport:0
+technology:0

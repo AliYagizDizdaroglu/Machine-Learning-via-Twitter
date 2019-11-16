@@ -3249,8 +3249,7 @@ asus:5
 zenfone:5
  iç:1
 mekan:15
-çekim.:6
-iç:8rk.com/teknoloji/asus-zenfone-4-fotograf-performansi:1
+çekim:6
 2017-12-05:12
 liv:1
 flash:2
