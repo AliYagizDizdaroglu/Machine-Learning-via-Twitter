@@ -1,9 +1,10 @@
 #!/usr/bin/env python
 # -*- coding: utf-8 -*-
+from TurkishStemmer import TurkishStemmer
+
+import numpy as np
 import tweepy
 import re
-
-from TurkishStemmer import TurkishStemmer
 
 consumer_key = "kZ5jxPjg7rq5XCq0R6LBYF6tY"
 consumer_secret = "tI3lpqssacsulSh0YDik5FdUzn0GL5o7E3SfGuF9HTSaoSzlpK"
@@ -27,7 +28,7 @@ class MyStreamListener(tweepy.StreamListener):
         # Sadece dili türkçe olan tweetleri
         # alıp kullancagız
         if(status.lang == "tr"):
-            print(status)
+
             tweet = status.text
 
             print(tweet)
@@ -69,7 +70,7 @@ class MyStreamListener(tweepy.StreamListener):
             for removedItem in ['.', ',', ':', '!', '\'', '’', '\n', '+', '%', '&', '❗️', '\"', '-', '_', '(', ')', '?', '..', '...', '[', ']', '{', '}', '“', '“']:
                 tweet = tweet.replace(removedItem, ' ')
 
-            for removedItem in [' ve ', ' ile ', ' bu ', ' da ', ' de ', ' ama ', ' fakat ', ' ancak ', ' eger ', ' sayet ', ' veya ']:
+            for removedItem in [' ki ', ' ve ', ' ile ', ' bu ', ' da ', ' de ', ' ama ', ' fakat ', ' ancak ', ' eger ', ' sayet ', ' veya ']:
                 tweet = tweet.replace(removedItem, ' ')
 
             # Büyük küçük harf farklılıgı olmaması için
@@ -95,7 +96,7 @@ class MyStreamListener(tweepy.StreamListener):
             # Database ile Karşılaştırma Yapılacak (AI)
             for dataset in datasets:
                 f = open("./database/" + dataset +
-                        ".txt", "r", encoding="utf8")
+                         ".txt", "r", encoding="utf8")
 
                 lines = f.readlines()
                 result = 0
@@ -114,7 +115,6 @@ class MyStreamListener(tweepy.StreamListener):
                 if lengthTweet != 0:
                     rate.append(result / lengthTweet)
 
-
             print(dataset + " - " + str(rate))
             # sonucların yazılacagı dosya
             # results.txt
@@ -123,6 +123,31 @@ class MyStreamListener(tweepy.StreamListener):
             # bulunacak.
             # en yüksek puan da olan kategorinin dosyadaki
             # degeri bir arttırılacak. Dosyaya geri kaydedilecek
+
+            dizi = rate
+            results = []
+
+            f = open("results.txt", "r", encoding="utf8")
+            try:
+
+                diziMaxNumber = np.amax(dizi)
+                diziMax = dizi.index(diziMaxNumber)
+                lines = f.readlines()
+
+                f2 = open("results.txt", "w", encoding="utf8")
+
+                for line in lines:
+                    a = line.split(':')
+                    results.append(int(a[1]))
+
+                results[diziMax] = results[diziMax]+1
+                print(results)
+
+                for i in range(0, 5):
+                    b = lines[i].split(':')
+                    f2.write(b[0]+':'+str(results[i])+'\n')
+            except:
+                print('hata')
 
 
 myStreamListener = MyStreamListener()

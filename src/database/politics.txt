@@ -11,7 +11,6 @@ davutok:20
 ek:7
 de:120
 manisa:3
-da:129
 yapacak:5
 konuşma:21
 yen:22
@@ -4622,7 +4621,7 @@ müslüman:1
 inanıyorum.:1
 duyt:1
 açık.:1
-isgal_var__erdogan__o_zaman_cozelim.html:1
+erdogan:50
 14:45:03:1
 yalanlamak:1
 pegida:2
@@ -4815,7 +4814,7 @@ kaya:1
 antlaşma:1
 gözen:1
 geçirilme:1
- erdoğan:1
+erdoğan:50
 kendisini:1
  hakkındaki:1
 iddilar:1

@@ -1,5 +1,5 @@
-art:0
-economy:0
-politics:0
-sport:0
-technology:0
+art:2
+economy:10
+politics:48
+sport:5
+technology:25
