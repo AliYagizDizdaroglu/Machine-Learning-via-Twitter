@@ -130,23 +130,37 @@ class MyStreamListener(tweepy.StreamListener):
 
             dizi = rate
             results = []
+            # oranların bulundugu dizi eğer boş gelirse
+            # bu kısmın hiç çalışmaması için.
             if len(dizi) > 0:  
                 a = dizi.index(max(dizi))
                 try:
+                    # v - oranların en büyüğüne ait kategorideki dosyadan kelimeleri okuduk
                     fd = open("./database/"+str(datasets[a])+".txt",encoding = 'utf-8')
                     liness = fd.readlines()
-                    # perform file operations
 
                     resultDataset = []
                     for line in liness:
                         word = line.split(':')
+                        # kelimeler gelen tweette var ise 
+                        # yeni bir diziye(resultDataset) kelime sayısı 1 arttırılarak kaydedilir
                         if word[0] in tweet:
+                            # kelimenin sayısını bir arttırdık
                             tempDataset = word[0] + ":" + str(int(word[1]) + 1) + "\n"
                             resultDataset.append(tempDataset)
                         else:
+                            # eğer kelime tweette geçmiyor ise
+                            # yeni diziye(resultDataset) direk oynanmadan kaydedilir
+                            # orginal hali ile.
+                            # bunun sebebi dizilerde update olmadıgından.
+                            # güncellenmesi gereken kelimeyi güncelleyip
+                            # orginal halde olan kelimeyi aynı tutup kaydediyorum
+                            # bu sayede dosyada sanki silip tekrar yazmış gibi güncellemiş oluyorum. 
                             resultDataset.append(line)
                     fd.close()
                     fdw = open("./database/"+str(datasets[a])+".txt", "w", encoding="utf8")
+                    # resultDataset güncellenmiş olan kelime dizimizi 
+                    # tekrar dosyaya yazıyoruz.
                     for data in resultDataset:
                         fdw.write(data)
                     fdw.close()           
@@ -154,6 +168,7 @@ class MyStreamListener(tweepy.StreamListener):
                     print("dosya acılamadı")
                     f.close() 
 
+                # yagızın bölgesi
                 diziMax = 0
                 f = open("results.txt", "r", encoding="utf8")
                 try:
@@ -190,8 +205,6 @@ class MyStreamListener(tweepy.StreamListener):
                 else:                
                     print('technology' + " - " + str(rate) + '\n')
                                     
-
-               
                 if diziMax == 0:
                     f3.write('art' + " - " + str(rate) + '\n\n')
                 elif diziMax == 1:
@@ -204,6 +217,7 @@ class MyStreamListener(tweepy.StreamListener):
                     f3.write('technology' + " - " + str(rate) + '\n\n')
                 
                 f3.close()
+                # yagızın bölgesi bitiş
                 
 
 
