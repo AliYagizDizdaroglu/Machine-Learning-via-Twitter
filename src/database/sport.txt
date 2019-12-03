@@ -185,7 +185,7 @@ nın:5
 en:47
 isim:7
 baş:11
-genç:9
+genç:10
 abdülkadir:4
 ömür:3
 aldı:2
@@ -869,7 +869,7 @@ cavanaugh:2
 girdi:1
 anadolu:7
 başla:1
-ev:18
+ev:19
 sahip:9
 kayıp:5
 kaybet:3
@@ -1253,7 +1253,7 @@ akde:1
 beraber:2
 kaldı.:4
 seyirci:5
-önün:2
+önün:3
 sah:11
 yaşamadı.:1
 osmanlıspor:3
@@ -1880,7 +1880,7 @@ cephesi:1
 ulaşmak:2
 söyledi.:2
 biraz:2
-ağır:2
+ağır:3
 amaç:3
 çalışacak:1
 yorum:1

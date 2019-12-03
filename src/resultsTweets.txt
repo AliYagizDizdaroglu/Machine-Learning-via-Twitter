@@ -2524,3 +2524,24 @@ politics - [0.0006654922685457035, 0.002186555012793673, 0.004943850999726103, 0
 RT @GurkaynakGonenc: PISA'daki performans konusuna biraz daha dikkatli bakmak isteyenler icin. https://t.co/72ceychtev
 economy - [0.00017615971814445095, 0.004884856943475227, 0.0040468364831553, 0.003146006991126647, 0.00478636469764184]
 
+['sınır', 'değişme', 'korkut', '3', 'ülke', 'libya', 'ya', 'türki', 'kumpa']politics - [0.00011417759509362564, 0.0028688842366441807, 0.005318177668218752, 0.0011054345552866662, 0.0011933483798998625]
+
+['fran', 'cumhurbaşkan', 'emmanuel', 'macron', 'ypg', 'yi', 'kastederek', 'türki', 'biz', 'beraber', 'savaşan', 'saldırıyor', 'det', 'macron', '…']politics - [0.00013701311411235074, 0.0011010312475769558, 0.004327581484524788, 0.0007170386304562159, 0.0005914857187329754]
+
+['türki', 'küresel', 'ısın', 'insan', 'kaynak', 'neden', '50', 'yıl', '36', 'göl', 'kuru', 'birçok', 'su', 'kaynak', 'her', 'geçen', 'gün', 'azalıyor', 'k…']economy - [0.000733998825601879, 0.004419632472668063, 0.003070535830125848, 0.0015142723708976666, 0.002506850830087126]
+
+['türki', 'komünist', 'gençlik', 'direnen', 'işçi', 'yan']politics - [7.33998825601879e-05, 0.0028688842366441807, 0.004108463434675432, 0.0011651877744913509, 0.001634368433341116]
+
+['ilkok', 'gidiyor', 'bell', 'birgu', 'bilgisayarim', 'olur', 'di', 'chip', 'dergi', 'alip', 'okur', 'turkiye‘de', 'yayinla…']politics - [2.2584579249288586e-05, 0.0004473312219299658, 0.0008690980342582643, 0.0004343599396032846, 0.00037716194615564216]
+
+Evinin önünde bıçaklanan genç balerin, ağır yaralandı
+https://t.co/jqkZy91qzI https://t.co/Wyu6IolQvW
+sport - [0.0003355423202751447, 0.000631376067524009, 0.0011151543608404742, 0.001190796297007644, 0.0008338614455822021]
+
+RT @ibrahimkaragul: Barbaros Hayrettin Paşa, 473 yıl sonra geri döndü.
+
+Sancağı Karargâha konuldu. Akdeniz’in sahipleri geldi.
+
+Türkiye-Lib…
+economy - [0.00035404649234914166, 0.0032018390049669554, 0.002259654889071487, 0.001281179317653386, 0.001854115449588661]
+

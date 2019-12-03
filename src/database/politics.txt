@@ -22,7 +22,7 @@ açıklayacak:5
 davutoğlu:1
 na:10
 yak:14
-bir:302
+bir:303
 kaynak:9
 alınan:4
 bilgi:23
@@ -68,9 +68,9 @@ bina:4
 edecek:5
 söz:35
 konu:55
-türki:89
+türki:93
 ümit:1
-bell:9
+bell:10
 ora:8
 diyor:11
 büyükşehir:5
@@ -130,7 +130,7 @@ belk:11
 operasyon:23
 yapt:8
 aile:7
-bil:5
+bil:6
 defnedilme:1
 iz:4
 verm:3
@@ -142,7 +142,7 @@ büyük:22
 istişare:3
 millet:23
 yaptık:31
-yi:12
+yi:13
 kuran:4
 bugün:4
 getiren:5
@@ -151,7 +151,7 @@ mille:2
 borç:1
 her:37
 alan:12
-iyi:6
+iyi:7
 hizmet:2
 getirerek:2
 yatırım:2
@@ -163,7 +163,7 @@ sağlayarak:1
 ödeyebilecek:1
 dil:12
 getirdi:4
-bu:179
+bu:180
 hakikati:1
 iç:113
 bayrak:1
@@ -215,7 +215,7 @@ gip:43
 şahıs:3
 değil:34
 mill:27
-biz:131
+biz:132
 emanet:1
 dava:36
 sahiplenmek:1
@@ -285,21 +285,21 @@ içeride:2
 başarı:3
 olmay:1
 defa:6
-sınır:16
+sınır:17
 boyu:9
 dizayn:1
 tehdit:10
 karş:37
 çıkt:5
 deaş:38
-di:29
+di:30
 arka:5
 karanlık:1
 örgü:18
 kullanarak:3
 bölge:18
 birlik:24
-ülke:53
+ülke:54
 kan:3
 ateş:8
 boğma:1
@@ -419,7 +419,7 @@ siyasi:25
 katkı:3
 bulunmak:2
 dört:4
-ypg:16
+ypg:17
 işgali:2
 altındayken:1
 edilemeyecek:1
@@ -433,7 +433,7 @@ attık:3
 adım:9
 laf:3
 kullanan:2
-cumhurbaşkan:52
+cumhurbaşkan:53
 şöyl:16
 sürdürdü:3
 şöyle:1
@@ -447,19 +447,19 @@ ye:11
 ı:7
 ihraç:9
 etti:9
-fran:4
+fran:5
 dan:6
 gelt:7
 almanya:2
 hollan:2
 lıy:1
 geldik:7
-yer:35
+yer:36
 gönder:2
 dürüst:3
 üretiyor:2
 fark:2
-ya:29
+ya:30
 pyd:7
 onur:2
 sürdürüyor:2
@@ -487,7 +487,7 @@ etmedik:1
 vurgulayan:3
 saymayacak:1
 ancak:10
-baz:14
+baz:15
 adın:6
 zikredecek:1
 zira:3
@@ -514,7 +514,7 @@ edemez:1
 kullandı:9
 demokrasi:1
 katili:1
-bir:9
+bir:10
 kişisin:1
 hele:1
 diyen:10
@@ -589,7 +589,7 @@ yin:4
 söylüyor:7
 avrupa:4
 mülteç:1
-yan:25
+yan:26
 olmama:2
 eleştiren:4
 ikinç:4
@@ -691,7 +691,7 @@ acap:2
 gider:6
 soran:1
 lider:17
-olur:17
+olur:18
 getirir:3
 ben:21
 söyleyecek:1
@@ -1106,7 +1106,7 @@ tesl:7
 gerekmez:1
 tutuklayacaksan:1
 komutan:2
-öğrenç:4
+öğrenç:5
 günah:1
 bütün:24
 duracak:1
@@ -1157,7 +1157,7 @@ adalet:13
 herkes:5
 kavra:1
 dolayı:6
-temel:8
+temel:9
 yönetim:6
 ister:5
 sadakat:1
@@ -1252,7 +1252,7 @@ karataş:1
 mesaj:5
 yayınladı:1
 oturumda:1
-iyi:5
+iyi:6
 temsilci:4
 gerçekleştirilen:2
 destek:14
@@ -1499,7 +1499,7 @@ dip:2
 yang:4
 söndürme:2
 etkilenmeme:2
-det:4
+det:5
 dünk:1
 dikkat:3
 çe:4
@@ -1541,7 +1541,7 @@ dönüş:2
 sağlayacak:1
 yapılacak:11
 çizdi:1
-yi:3
+yi:4
 birebir:1
 ilgilendiren:1
 güvenlik:1
@@ -1603,7 +1603,7 @@ etkilenen:1
 dikkati:1
 çekti:1
 etki:5
-sonuç:8
+sonuç:9
 besledik:1
 menşe:1
 bakıldık:1
@@ -1934,7 +1934,7 @@ emr:3
 "28.:1
 sözde/sahte:1
 rapor":1
-rapor:10
+rapor:11
 bilg:3
 yoktur.:3
 habers:1
@@ -2111,7 +2111,7 @@ yoksun.:1
 avukatlık:3
 şeyl:1
 suçlandım::1
-iyi:3
+iyi:4
 poli:1
 yapmak.:1
 som:2
@@ -3337,7 +3337,7 @@ kadir:1
 topbaş:1
 ösym:1
 yeterlilik:2
-test:3
+test:4
 kitapçık:5
 paylaştı.:1
 tyt:1
@@ -3621,7 +3621,7 @@ sınama:4
 işaretidir.:2
 düşen:2
 olal:2
-beraber:3
+beraber:4
 olmaktır":2
 üniversite:11
 konferans:10
@@ -3788,7 +3788,7 @@ fetö’ye:1
 çevirme:1
 unutturamaz":1
 denildi.:2
-3:38
+3:39
 sızdırdık:1
 açıklıyor:1
 -:2
@@ -4012,7 +4012,7 @@ irlanda:1
 sinn:1
 fe:1
 ingiltere:1
-işçi:1
+işçi:2
 britanya:1
 sendika:1
 danimark:2
@@ -4028,7 +4028,7 @@ edilecek.:1
 
 oğul:1
 kaddafi:7
-libya:7
+libya:8
 dönüyor:1
 ayaklanma:2
 ayın:4
@@ -4587,7 +4587,7 @@ anli_yayin.html:1
 cumhurbaşkanı’na:1
 mudanya:3
 murat:2
-gençlik:2
+gençlik:3
 izzet:1
 durs:1
 sayfa:3

@@ -24,14 +24,14 @@ dedi:2
 yardımcı:11
 a:33
 muhabir:3
-türki:34
+türki:36
 milyon:81
 bin:61
 olan:69
 büyükbaş:1
 hayvan:4
 sayı:27
-geçen:34
+geçen:35
 sen:4
 ya:18
 ulaştık:2
@@ -164,7 +164,7 @@ yüzd:1
 okuy:1
 vazgeçiyor:1
 nin:20
-yıl:148
+yıl:150
 ocak-eylül:1
 dönem:26
 ihracat:25
@@ -353,7 +353,7 @@ arabistan:10
 tesis:4
 saldırı::1
 yaşanan:5
-küresel:22
+küresel:23
 ekonomi:31
 endiş:1
 verici?:1
@@ -382,7 +382,7 @@ tisatç:1
 erg:1
 yıldızoğlu:1
 fiyat:63
-gün:38
+gün:39
 yüksel:9
 olyı:1
 olas:1
@@ -411,7 +411,7 @@ hemen:3
 herke:1
 hazırlıks:1
 yaka:8
-her:14
+her:15
 kadar:35
 yemen:3
 güç:12
@@ -431,7 +431,7 @@ siyasi:7
 dinamik:1
 hareke:3
 geçt:2
-kaynak:15
+kaynak:16
 saldırılar:1
 kapasite:3
 indir:5
@@ -604,7 +604,7 @@ silah:9
 müdahaleye:1
 hazırdır:1
 dedik:3
-sonr:17
+sonr:18
 bun:24
 koşul:5
 kanıt:1
@@ -633,7 +633,7 @@ karşılık:5
 gelen:5
 üst:11
 talep:24
-gelt:4
+gelt:5
 tutar:9
 rtırarak:1
 sağl:2
@@ -723,7 +723,7 @@ kristalina:3
 georgieva:10
 artan:1
 ihtilaf:3
-neden:15
+neden:16
 bulunmak:1
 par:56
 fon:20
@@ -756,7 +756,7 @@ yurt:21
 hasıla:1
 gsyh:2
 yüzde:4
-in:8
+in:9
 kaybedilme:1
 olabilir:3
 isviçre:1
@@ -786,7 +786,7 @@ sürdürülebilir:3
 birlik:28
 çalış:8
 çağrısı:1
-birçok:10
+birçok:11
 düşük:9
 negatif:3
 merkez:24
@@ -1099,7 +1099,7 @@ dikey:1
 kalkış:1
 iniş:1
 kabiliyet:1
-sahip:18
+sahip:19
 araç:15
 konsept:2
 geliştirdiklerine:1
@@ -1127,7 +1127,7 @@ görüş:5
 verilen:4
 ag:1
 pazarlama:1
-kuru:17
+kuru:18
 üyes:13
 detvel:1
 von:1
@@ -1554,7 +1554,7 @@ grafik:2
 harek:1
 görülüyor:1
 izmirde:3
-su:7
+su:8
 parti:5
 ret:1
 oy:1
@@ -2233,7 +2233,7 @@ dışar:1
 çıkt:3
 sigar:1
 içtim.:1
-dönt:2
+dönt:3
 bayıl:1
 serptim.:1
 atacak:1
@@ -2873,7 +2873,7 @@ yiği:1
 u:1
 20:00:02:1
 abden:1
-insan:7
+insan:8
 şart:3
 parlamento:1
 ap:1
@@ -4038,7 +4038,7 @@ görür:1
 değil.:1
 türkiye’den:1
 fazla.:1
-ger:1
+ger:2
 dönecek.:1
 barış:1
 turizm:1

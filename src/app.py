@@ -31,6 +31,9 @@ class MyStreamListener(tweepy.StreamListener):
 
             tweet = status.text
             print(tweet)
+
+            f3 = open("resultsTweets.txt", "a", encoding="utf8")
+            f3.write(str(tweet) + '\n')
                         
             # tweetlerin içinden gereksiz kısımları çıkaracagız.
             # RT, @.. https:.. noktalama işaretleri
@@ -151,7 +154,7 @@ class MyStreamListener(tweepy.StreamListener):
                     print("dosya acılamadı")
                     f.close() 
 
-                
+                diziMax = 0
                 f = open("results.txt", "r", encoding="utf8")
                 try:
                     diziMaxNumber = np.amax(dizi)
@@ -188,8 +191,7 @@ class MyStreamListener(tweepy.StreamListener):
                     print('technology' + " - " + str(rate) + '\n')
                                     
 
-                f3 = open("resultsTweets.txt", "a", encoding="utf8")
-                f3.write(str(tweet + '\n'))
+               
                 if diziMax == 0:
                     f3.write('art' + " - " + str(rate) + '\n\n')
                 elif diziMax == 1:
