@@ -56,7 +56,7 @@ yetenek:4
 çok:72
 yayg:1
 olan:47
-bir:262
+bir:263
 göz:6
 hastalık:3
 bağl:3
@@ -126,7 +126,7 @@ aldı:1
 robotu:1
 öğretmen:2
 ismail:3
-ay:14
+ay:15
 yavuz:1
 mehmet:1
 ayt:1
@@ -442,7 +442,7 @@ denek:2
 hayatlari:1
 bitince:1
 sicak:1
-bir:2
+bir:3
 yuva:1
 derneğin:1
 çalışacak:4
@@ -711,7 +711,7 @@ açık:5
 birlik:16
 verilen:3
 kron:1
-yaklaşık:8
+yaklaşık:9
 tl:1
 paylaşacak:1
 kimya:1
@@ -1198,7 +1198,7 @@ sağlıyor:2
 bitirir:2
 telsiz:1
 anons:1
-sahip:27
+sahip:28
 paylaştık:1
 şeref:1
 şans:1
@@ -1524,7 +1524,7 @@ seçebilecek:1
 hassasiyet:1
 seçicilikte:1
 entegre:1
-köpek:1
+köpek:2
 kullanılmayacak:1
 aktardı:1
 köpeklerin:1
@@ -2976,7 +2976,7 @@ andy:1
 rubin’in:1
 geçiriyor.:1
 yavaş:2
-çıkma:5
+çıkma:6
 2’nin:1
 belirtiyor.:1
 sahipti.:1
@@ -3723,7 +3723,7 @@ slemon:1
 polygon’a:1
 ‘’pokemon:1
 go:2
-sokak:1
+sokak:2
 dolay:1
 oyundu.:1
 gerçekç:1

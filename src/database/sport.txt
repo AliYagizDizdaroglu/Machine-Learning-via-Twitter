@@ -591,7 +591,7 @@ ba:1
 maçı:5
 normale:1
 döndü:2
-in:7
+in:8
 inç:1
 gaziantep:7
 fk:2
@@ -838,7 +838,7 @@ karşılaşma:18
 üç:6
 say:17
 çizgi:5
-etki:8
+etki:9
 36-34:1
 bitir:1
 savunma:6
@@ -2285,7 +2285,7 @@ kırılan:1
 gata:1
 kaldırılarak:1
 alınmıştı.:1
-2:48:1
+2:49
 derbide:1
 dana:1
 kuyruk:1
@@ -2459,7 +2459,7 @@ lig’in:1
 15.:1
 yetiştirilme:1
 çalışılacak.:1
-2:17:1
+2:18
 trabzonspordan:1
 77.:1
 hugo:1

@@ -2470,3 +2470,57 @@ politics - [4.893325504012527e-05, 0.0, 0.00017118597644480966, 4.48149144035134
 Gerizekalılıkta 1 numarayız
 economy - [0.0, 0.00038768705900597036, 0.0, 0.0, 0.00015565413650867773]
 
+Daha bugün yaşandı...
+Benden giden duyuru: Section A öğrencileri(A1-A10), perşembe günkü uygulama dersiniz iptal.… https://t.co/9HSPRaD0BF
+technology - [0.00024178784843356012, 0.001464088775775488, 0.0011479530185122529, 0.0011546430887493478, 0.001703039375918474]
+
+@gurkanhacir SIZI KIBI GIBI IYI ATATURKCULER ISMAYIL SAYMAZ,BARIS YARKADAS, EREN ERDEM VE CHP'ler OLMASAYDINIZ ZATE… https://t.co/kXV6luRlcJ
+politics - [0.0032846447445684084, 0.004986624796464294, 0.0060471446179129005, 0.004386259747243883, 0.0]
+
+RT @furkanhabernet: Macron: ABD Patriot vermediyse Türkiye, Avrupa'dan NATO'ya uyumlu füze alabilirdi. Ama Rusya'yı tercih ettiler
+https://…
+politics - [0.0001899761666263687, 0.001874580955899457, 0.002477161776789598, 0.0013128133748793952, 0.0007416461798354644]
+
+RT @cumhuriyetgzt: Kasım raporu: 39 kadın öldürüldü
+https://t.co/dzuBBwCxI2
+economy - [0.0001467997651203758, 0.0031635264014887184, 0.0, 0.00032266738370529714, 0.0007004436142890498]
+
+RT @TMollaveisoglu: Bu millet köle gibi çalışıp boğazındaki kuru ekmeğin vergisini hükümet hizmet etsin diye veriyor. 
+Cibuti’de cami açsın…
+economy - [0.0011398569997582123, 0.0035575988944077284, 0.003552612499395814, 0.0014709836610094429, 0.002925382153795444]
+
+RT @y_ozgurpolitika: Fransa Cumhurbaşkanı Emmanuel Macron, YPG'yi kastederek "Türkiye, bizimle beraber savaşanlara saldırıyor"dedi. Macron,…
+politics - [0.00013701311411235074, 0.0011010312475769558, 0.004053683922213093, 0.0007170386304562159, 0.0005914857187329754]
+
+Oh be Taylan Antalyalı izleyeceğiz sonunda
+sport - [0.0005137991779213153, 0.002209816236334031, 0.0009586414680909341, 0.003585193152281079, 0.0011674060238150829]
+
+RT @mbayrakceken: Meral Akşener: EYT'liler için kademeli bir çözüm planı mümkün | NTV https://t.co/844kms9L7W
+politics - [7.33998825601879e-05, 0.0068426765914553775, 0.0078060805258833195, 0.0, 0.007276830881780684]
+
+RT @y_ozgurpolitika: Fransa Cumhurbaşkanı Emmanuel Macron, YPG'yi kastederek "Türkiye, bizimle beraber savaşanlara saldırıyor"dedi. Macron,…
+economy - [0.00013701311411235074, 0.0011010312475769558, 0.0, 0.0, 0.0005914857187329754]
+
+RT @cumhuriyetgzt: Kasım raporu: 39 kadın öldürüldü
+https://t.co/dzuBBwCxI2
+technology - [0.0001467997651203758, 0.0, 0.0, 0.0, 0.0007004436142890498]
+
+RT @AtillaYesilada1: Bence günün en önemli haberi:  PISA global sınavında öğrenciler biraz daha   başarılı, ama o kadar gerideyiz ki...Nası…
+technology - [0.0007431738109219026, 0.003518260060479182, 0.002657662284305669, 0.0026216724926055386, 0.003618958673826757]
+
+RT @TMollaveisoglu: Bu millet köle gibi çalışıp boğazındaki kuru ekmeğin vergisini hükümet hizmet etsin diye veriyor. 
+Cibuti’de cami açsın…
+economy - [0.0011398569997582123, 0.0035575988944077284, 0.003552612499395814, 0.0014709836610094429, 0.002925382153795444]
+
+RT @nurseltanriver1: Yeni bir kazanım!
+Direnişimiz boyunca çıktığımız tüm davalardan beraat ettik. Sadece birinden ceza aldık.  Aynı hakime…
+politics - [0.00039452436876100995, 0.0, 0.006059983566146262, 0.0037644528098951333, 0.0057202895166939055]
+
+RT @GazeteKarinca: Suriye İnsan Hakları Gözlemevi: Tel Rıfat’a Türkiye saldırısında dokuzu çocuk 10 sivil yaşamını yitirdi
+
+https://t.co/z0…
+politics - [0.0006654922685457035, 0.002186555012793673, 0.004943850999726103, 0.0035672671865196737, 0.002179157911121488]
+
+RT @GurkaynakGonenc: PISA'daki performans konusuna biraz daha dikkatli bakmak isteyenler icin. https://t.co/72ceychtev
+economy - [0.00017615971814445095, 0.004884856943475227, 0.0040468364831553, 0.003146006991126647, 0.00478636469764184]
+

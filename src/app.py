@@ -31,9 +31,6 @@ class MyStreamListener(tweepy.StreamListener):
 
             tweet = status.text
             print(tweet)
-            
-            f3 = open("resultsTweets.txt", "a", encoding="utf8")
-            f3.write(str(tweet + '\n'))
                         
             # tweetlerin içinden gereksiz kısımları çıkaracagız.
             # RT, @.. https:.. noktalama işaretleri
@@ -102,6 +99,7 @@ class MyStreamListener(tweepy.StreamListener):
                          ".txt", "r", encoding="utf8")
 
                 lines = f.readlines()
+                f.close()
                 result = 0
                 for line in lines:
                     word = line.split(':')
@@ -129,27 +127,55 @@ class MyStreamListener(tweepy.StreamListener):
 
             dizi = rate
             results = []
-            
-            f = open("results.txt", "r", encoding="utf8")
-            try:
+            if len(dizi) > 0:  
+                a = dizi.index(max(dizi))
+                try:
+                    fd = open("./database/"+str(datasets[a])+".txt",encoding = 'utf-8')
+                    liness = fd.readlines()
+                    # perform file operations
 
-                diziMaxNumber = np.amax(dizi)
-                diziMax = dizi.index(diziMaxNumber)
-                lines = f.readlines()
+                    resultDataset = []
+                    for line in liness:
+                        word = line.split(':')
+                        if word[0] in tweet:
+                            tempDataset = word[0] + ":" + str(int(word[1]) + 1) + "\n"
+                            resultDataset.append(tempDataset)
+                        else:
+                            resultDataset.append(line)
+                    fd.close()
+                    fdw = open("./database/"+str(datasets[a])+".txt", "w", encoding="utf8")
+                    for data in resultDataset:
+                        fdw.write(data)
+                    fdw.close()           
+                except:
+                    print("dosya acılamadı")
+                    f.close() 
 
-                f2 = open("results.txt", "w", encoding="utf8")
-
-                for line in lines:
-                    a = line.split(':')
-                    results.append(int(a[1]))
-
-                results[diziMax] = results[diziMax]+1
-                print(results)
                 
-                for i in range(0, 5):
-                    b = lines[i].split(':')
-                    f2.write(b[0]+':'+str(results[i])+'\n')
-            
+                f = open("results.txt", "r", encoding="utf8")
+                try:
+                    diziMaxNumber = np.amax(dizi)
+                    diziMax = dizi.index(diziMaxNumber)
+                    lines = f.readlines()
+                    f.close()
+
+                    f2 = open("results.txt", "w", encoding="utf8")
+
+                    for line in lines:
+                        a = line.split(':')
+                        results.append(int(a[1]))
+
+                    results[diziMax] = results[diziMax]+1
+                    print(results)
+                    
+                    for i in range(0, 5):
+                        b = lines[i].split(':')
+                        f2.write(b[0]+':'+str(results[i])+'\n')
+
+                    f2.close()
+                except:
+                    print('hata')
+                
                 if diziMax == 0:
                     print('art' + " - " + str(rate) + '\n')
                 elif diziMax == 1:
@@ -162,6 +188,8 @@ class MyStreamListener(tweepy.StreamListener):
                     print('technology' + " - " + str(rate) + '\n')
                                     
 
+                f3 = open("resultsTweets.txt", "a", encoding="utf8")
+                f3.write(str(tweet + '\n'))
                 if diziMax == 0:
                     f3.write('art' + " - " + str(rate) + '\n\n')
                 elif diziMax == 1:
@@ -173,8 +201,7 @@ class MyStreamListener(tweepy.StreamListener):
                 else:                
                     f3.write('technology' + " - " + str(rate) + '\n\n')
                 
-            except:
-                print('hata')
+                f3.close()
                 
 
 

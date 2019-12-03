@@ -22,7 +22,7 @@ kesinlik:2
 olmayacak:5
 dedi:2
 yardımcı:11
-a:32
+a:33
 muhabir:3
 türki:34
 milyon:81
@@ -55,7 +55,7 @@ an:7
 sıkıntı:5
 ne:30
 istinaden:1
-di:16
+di:17
 açıkla:10
 yapılıyor:2
 diyen:6
@@ -64,7 +64,7 @@ köy:1
 az:9
 indiril:1
 dik:2
-iç:117
+iç:118
 kuruş-1:1
 lira:46
 gelebildik:1
@@ -93,7 +93,7 @@ gelecek:19
 mal:8
 bekletiyor:1
 yem:1
-veriyor:4
+veriyor:5
 o:10
 yak:7
 oturuyor:1
@@ -145,7 +145,7 @@ gels:3
 am:7
 gelm:1
 kilogram:1
-bu:162
+bu:163
 ımsattı:1
 sene:2
 ik:17
@@ -239,7 +239,7 @@ baz:20
 ithalat:8
 azaldı:2
 istatistik:4
-kur:32
+kur:33
 ilişk:28
 ticaret:26
 açıkladı:1
@@ -292,7 +292,7 @@ edilen:8
 haddi:1
 puan:33
 yükseldi:1
-abd:35
+abd:36
 petrol:29
 üretim:7
 haf:17
@@ -477,7 +477,7 @@ sıkışıklık:1
 tedarik:2
 aksama:1
 söz:18
-konu:40
+konu:41
 ancak:10
 çap:1
 yarattık:1
@@ -578,7 +578,7 @@ kırılgan:1
 deng:1
 zorlanıyor:1
 birleş:2
-millet:1
+millet:2
 temsilci:7
 kelly:1
 craft:1
@@ -687,7 +687,7 @@ yılki:2
 kredi:8
 katılımç:2
 ülk:11
-den:6
+den:7
 ten:8
 çıkartarak:1
 yatırımç:11
@@ -810,7 +810,7 @@ fikr:1
 mülkiyet:1
 hak:9
 transfer:3
-gip:17
+gip:18
 yasal:2
 görüşme:9
 devlet:6
@@ -1442,7 +1442,7 @@ istihdam:4
 u:1
 %19:1
 %55:1
-hizmet:23
+hizmet:24
 karşılaştırıldık:1
 işgücüne:1
 katıl:7
@@ -1705,7 +1705,7 @@ gösteren:7
 oldu.:11
 gratis:2
 yöne:13
-demir:1
+demir:2
 sabanç:2
 ortaklık:3
 büyüme:12
@@ -2212,7 +2212,7 @@ yazlık:1
 söyledi.:12
 ver:5
 dedim.:1
-boğaz:1
+boğaz:2
 yapıştı.:1
 elin:3
 çalıştım.:1
@@ -2322,7 +2322,7 @@ gerektirdik:1
 geçer:1
 cidt:2
 siber:1
-atak:1
+atak:2
 kalabilecek:1
 aklama:1
 yayg:1
@@ -2673,7 +2673,7 @@ kapatılma:1
 çalışa:1
 çıkarılma:1
 ingiliz:2
-hükümet:4
+hükümet:5
 hiss:2
 kullanım:1
 gösterildi.:1

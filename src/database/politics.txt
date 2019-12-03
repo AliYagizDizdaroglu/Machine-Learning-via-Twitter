@@ -20,9 +20,9 @@ yol:13
 harita:4
 açıklayacak:5
 davutoğlu:1
-na:9
+na:10
 yak:14
-bir:301
+bir:302
 kaynak:9
 alınan:4
 bilgi:23
@@ -68,7 +68,7 @@ bina:4
 edecek:5
 söz:35
 konu:55
-türki:82
+türki:89
 ümit:1
 bell:9
 ora:8
@@ -107,10 +107,10 @@ açık:12
 suudi:4
 arabistan:4
 mısır:3
-a:12
+a:13
 tepk:8
 gösteren:5
-sen:14
+sen:15
 hiç:11
 konuşamaz:3
 ülken:3
@@ -124,7 +124,7 @@ seçil:4
 mursi:2
 nin:66
 ölme:5
-ne:64
+ne:65
 olt:7
 belk:11
 operasyon:23
@@ -142,7 +142,7 @@ büyük:22
 istişare:3
 millet:23
 yaptık:31
-yi:10
+yi:12
 kuran:4
 bugün:4
 getiren:5
@@ -165,7 +165,7 @@ dil:12
 getirdi:4
 bu:179
 hakikati:1
-iç:112
+iç:113
 bayrak:1
 yarış:1
 değiş:2
@@ -189,7 +189,7 @@ herk:11
 tüm:20
 kapı:17
 son:26
-kadar:39
+kadar:40
 bun:81
 hiçbir:26
 zaman:36
@@ -215,7 +215,7 @@ gip:43
 şahıs:3
 değil:34
 mill:27
-biz:130
+biz:131
 emanet:1
 dava:36
 sahiplenmek:1
@@ -228,7 +228,7 @@ olacak:15
 asıl:3
 medeniyet:1
 kül:2
-tarih:28
+tarih:29
 kalkın:1
 ayak:3
 kalma:6
@@ -285,11 +285,11 @@ içeride:2
 başarı:3
 olmay:1
 defa:6
-sınır:14
+sınır:16
 boyu:9
 dizayn:1
 tehdit:10
-karş:36
+karş:37
 çıkt:5
 deaş:38
 di:29
@@ -299,7 +299,7 @@ karanlık:1
 kullanarak:3
 bölge:18
 birlik:24
-ülke:51
+ülke:53
 kan:3
 ateş:8
 boğma:1
@@ -362,7 +362,7 @@ açar:3
 milyon:25
 mülteci:2
 gönderir:2
-nde:1
+nde:2
 düzenlenen:6
 inç:1
 konuştu:6
@@ -419,7 +419,7 @@ siyasi:25
 katkı:3
 bulunmak:2
 dört:4
-ypg:14
+ypg:16
 işgali:2
 altındayken:1
 edilemeyecek:1
@@ -433,7 +433,7 @@ attık:3
 adım:9
 laf:3
 kullanan:2
-cumhurbaşkan:51
+cumhurbaşkan:52
 şöyl:16
 sürdürdü:3
 şöyle:1
@@ -443,11 +443,11 @@ verdik:21
 konuşan:3
 hangi:8
 vert:8
-ye:10
+ye:11
 ı:7
 ihraç:9
 etti:9
-fran:3
+fran:4
 dan:6
 gelt:7
 almanya:2
@@ -459,14 +459,14 @@ gönder:2
 dürüst:3
 üretiyor:2
 fark:2
-ya:27
+ya:29
 pyd:7
 onur:2
 sürdürüyor:2
 sürdürecek:1
 ana:9
 komite:1
-ilk:12
+ilk:13
 döne:10
 dah:23
 sağlık:4
@@ -514,7 +514,7 @@ edemez:1
 kullandı:9
 demokrasi:1
 katili:1
-bir:8
+bir:9
 kişisin:1
 hele:1
 diyen:10
@@ -566,7 +566,7 @@ sorun:4
 sor:14
 tamamen:2
 saptırma:2
-çalışıyor:4
+çalışıyor:5
 kims:12
 saptır:1
 mücade:14
@@ -616,7 +616,7 @@ alacak:4
 şuyt:1
 buyt:1
 doğr:13
-yalan:2
+yalan:3
 edil:4
 sonr:26
 istediğiniz:1
@@ -723,7 +723,7 @@ hayat:2
 parlamentoda:1
 sirt:1
 dayayan:2
-grup:20
+grup:21
 iddia:44
 göstererek:2
 şun:15
@@ -819,7 +819,7 @@ para:6
 kullanılan:1
 hükm:5
 olamayacak:1
-nato:9
+nato:10
 sesleniyor:1
 yiz:1
 üyes:12
@@ -833,7 +833,7 @@ kalamaz:1
 edim:1
 önem:13
 dir:3
-ilk:2
+ilk:3
 ün:2
 ücret:1
 takır:2
@@ -852,7 +852,7 @@ bilmiyor:1
 gideceğiz:1
 abd:27
 donald:7
-trump:15
+trump:16
 desteklemedik:1
 amerikan:6
 asker:10
@@ -913,7 +913,7 @@ görüştü:2
 iletişim:2
 başkanlık:9
 yapılan:14
-görüşme:9
+görüşme:10
 düzenlenme:2
 planlanan:1
 istikrar:5
@@ -928,11 +928,11 @@ unsur:6
 yapıç:1
 tutum:2
 takdir:4
-in:3
+in:4
 yardımcı:13
 yuri:2
 uşakov:5
-ilgi:70
+ilgi:71
 kaygı:2
 anlayış:3
 karşıladık:3
@@ -946,7 +946,7 @@ sürme:1
 aktar:1
 komisyon:15
 anlaşma:9
-zarar:4
+zarar:5
 görmeme:1
 etnik:1
 durum:12
@@ -1154,7 +1154,7 @@ diyecek:1
 kesmek:1
 isteyecek:1
 adalet:13
-herkes:4
+herkes:5
 kavra:1
 dolayı:6
 temel:8
@@ -1174,7 +1174,7 @@ anayasa:2
 iktidar:10
 oturulur:1
 konuşulur:1
-ait:7
+ait:8
 duyacak:1
 gitme:2
 kazant:1
@@ -1285,7 +1285,7 @@ paylaş:10
 mehmetçik:1
 sağ:1
 salim:1
-yurt:12
+yurt:13
 evvel:2
 coğrafya:4
 temenn:3
@@ -1423,7 +1423,7 @@ köken:3
 şiddet:3
 istikrarsızlık:1
 çözecek:1
-masum:1
+masum:2
 koruma:1
 mümk:2
 kılacaktır:1
@@ -1499,7 +1499,7 @@ dip:2
 yang:4
 söndürme:2
 etkilenmeme:2
-det:3
+det:4
 dünk:1
 dikkat:3
 çe:4
@@ -1541,7 +1541,7 @@ dönüş:2
 sağlayacak:1
 yapılacak:11
 çizdi:1
-yi:1
+yi:3
 birebir:1
 ilgilendiren:1
 güvenlik:1
@@ -1588,7 +1588,7 @@ beslediği:1
 getirdiği:1
 ortadadir:1
 yakalanan:1
-kulak:1
+kulak:2
 hatırlatılma:2
 kurt:1
 haf:13
@@ -1647,7 +1647,7 @@ geçirilerek:1
 yerleşen:1
 idare:1
 edebilme:1
-ekonomik:3
+ekonomik:4
 seviye:1
 ulaşma:1
 tar:1
@@ -1753,7 +1753,7 @@ altay:1
 sunulmuştu.:1
 açıklamadachp’nin:1
 "yurtdışındaki:1
-şirket:7
+şirket:8
 araştırma":1
 önerge:1
 akp:20
@@ -2009,7 +2009,7 @@ temennisidir.:1
 inda.html:1
 16:45:09:1
 1):17
-vekil:9
+vekil:10
 diyarbakır:5
 işkence:1
 anlatırken:1
@@ -2292,7 +2292,7 @@ sistem:3
 uy:6
 alınacak.:1
 tml:1
-10:00:07:1
+10:1
 kurtulmuş::1
 mevlan:1
 takım:4
@@ -2515,7 +2515,7 @@ dağıtılmış.:1
 açılıp:1
 açılmadık:1
 "cumhurbaşkanımızın:1
-dün:9
+dün:10
 açıkladı.:1
 fakat:1
 itibar:7
@@ -2653,7 +2653,7 @@ ticaret:3
 yönetmelik:4
 görünüyor.:1
 html:1
-10:18:03:1
+10:19
 akşener::2
 yaş:5
 dolandırıç:1
@@ -3046,7 +3046,7 @@ suçlayan:1
 küstahç:1
 itham:1
 kalkarlar.:1
-geç:2
+geç:3
 gündüz.:1
 oturduk:1
 sandalye:1
@@ -3191,7 +3191,7 @@ aşır:3
 olmamıştır.:3
 verir":2
 u__hesap_sorulmalidir.html:1
-10:54:03:1
+10:55
 engelli:1
 kpss:1
 yıldr:1
@@ -3428,7 +3428,7 @@ savunuç:1
 ilhan:4
 öngör:4
 şanlıurfa’da:1
-günlük:1
+günlük:2
 gözal:2
 "ek:2
 ifadesi":1
@@ -3525,7 +3525,7 @@ ka:7
 ayşe:2
 acar:2
 başaran:2
-adem:1
+adem:2
 gever:1
 mithat:1
 sancar:1
@@ -3585,7 +3585,7 @@ reddetti.:1
 aym:3
 reddedilmişti.:1
 ildi.html:1
-10:18:07:1
+10:19
 (sp):1
 ittifaklar:2
 kutuplaş:2
@@ -3621,9 +3621,9 @@ sınama:4
 işaretidir.:2
 düşen:2
 olal:2
-beraber:2
+beraber:3
 olmaktır":2
-üniversite:10
+üniversite:11
 konferans:10
 giremez:2
 öğre:2
@@ -3745,7 +3745,7 @@ siyasetçi:2
 fethullah:1
 gülen:3
 övgü:4
-haber:4
+haber:5
 broşür:3
 getirdi.:1
 gülen’in:3
@@ -3788,7 +3788,7 @@ fetö’ye:1
 çevirme:1
 unutturamaz":1
 denildi.:2
-3:36:03:1
+3:38
 sızdırdık:1
 açıklıyor:1
 -:2
@@ -3814,7 +3814,7 @@ toplandı:1
 yapıyoruz.:3
 sesleniyoruz.:1
 izdirdigini_acikliyor_-_canli_yayin.html:1
-10:45:15:1
+10:46
 kılıçdaroğlundan:2
 suçlamalar::1
 izley:1
@@ -4028,7 +4028,7 @@ edilecek.:1
 
 oğul:1
 kaddafi:7
-libya:5
+libya:7
 dönüyor:1
 ayaklanma:2
 ayın:4
@@ -4145,10 +4145,10 @@ vermedi.:2
 görülme:2
 geçildi. r\t\t\t\t\tr:2
 olduruluyorsa.html:1
-10:09:02:1
+10:10
 kaya::1
 _olduruluyorsa.html:1
-10:18:02:1
+10:19
 kont:1
 götürerek:1
 kullanılma:2
@@ -4587,7 +4587,7 @@ anli_yayin.html:1
 cumhurbaşkanı’na:1
 mudanya:3
 murat:2
-gençlik:1
+gençlik:2
 izzet:1
 durs:1
 sayfa:3
@@ -4739,7 +4739,7 @@ değerlendirilebilir.:1
 ortada.:1
 değil":1
 b_sorusturmasi_acilabilir.html:1
-10:27:02:1
+10:28
 güvenen:1
 çıkanlar::1
 gelmek:1
