@@ -650,7 +650,7 @@ dek:2
 kredimize:1
 kıyasla:1
 ödedik:6
-faiz:23
+faiz:30
 bps:4
 euro:21
 azalt:2

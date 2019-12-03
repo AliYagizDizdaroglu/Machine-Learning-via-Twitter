@@ -9,6 +9,7 @@ halindedir:1
 ve:324
 bu:130
 sesi:1
+ses:10
 ortaya:12
 çıkarır:2
 seslerin:1

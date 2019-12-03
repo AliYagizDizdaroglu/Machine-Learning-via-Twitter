@@ -30,9 +30,11 @@ class MyStreamListener(tweepy.StreamListener):
         if(status.lang == "tr"):
 
             tweet = status.text
-
             print(tweet)
-
+            
+            f3 = open("resultsTweets.txt", "a", encoding="utf8")
+            f3.write(str(tweet + '\n'))
+                        
             # tweetlerin içinden gereksiz kısımları çıkaracagız.
             # RT, @.. https:.. noktalama işaretleri
             resultRT = tweet.find('RT')
@@ -92,6 +94,7 @@ class MyStreamListener(tweepy.StreamListener):
             tweet = tweetTemp
 
             print(tweet)
+                                   
             rate = []
             # Database ile Karşılaştırma Yapılacak (AI)
             for dataset in datasets:
@@ -102,9 +105,9 @@ class MyStreamListener(tweepy.StreamListener):
                 result = 0
                 for line in lines:
                     word = line.split(':')
-                    if word[0] in tweet:
+                    if word[0] in tweet: # Database'deki kelime, gelen tweette geciyorsa
                         try:
-                            result += int(word[1]) / len(lines)
+                            result += int(word[1]) / len(lines) # len(lines) kategoride kac kelime oldugu
                         except:
                             result += 0
 
@@ -113,9 +116,9 @@ class MyStreamListener(tweepy.StreamListener):
 
                 lengthTweet = len(tweet)
                 if lengthTweet != 0:
-                    rate.append(result / lengthTweet)
+                    rate.append(result / lengthTweet) # lengthTweet gelen tweetteki kelime sayisi
 
-            print(dataset + " - " + str(rate))
+            #print(dataset + " - " + str(rate))
             # sonucların yazılacagı dosya
             # results.txt
             # sonuclar rate değişkeninde bulunuyor.
@@ -126,7 +129,7 @@ class MyStreamListener(tweepy.StreamListener):
 
             dizi = rate
             results = []
-
+            
             f = open("results.txt", "r", encoding="utf8")
             try:
 
@@ -142,12 +145,37 @@ class MyStreamListener(tweepy.StreamListener):
 
                 results[diziMax] = results[diziMax]+1
                 print(results)
-
+                
                 for i in range(0, 5):
                     b = lines[i].split(':')
                     f2.write(b[0]+':'+str(results[i])+'\n')
+            
+                if diziMax == 0:
+                    print('art' + " - " + str(rate) + '\n')
+                elif diziMax == 1:
+                    print('economy' + " - " + str(rate) + '\n')
+                elif diziMax == 2:
+                    print('politics' + " - " + str(rate) + '\n')
+                elif diziMax == 3:
+                    print('sport' + " - " + str(rate) + '\n')
+                else:                
+                    print('technology' + " - " + str(rate) + '\n')
+                                    
+
+                if diziMax == 0:
+                    f3.write('art' + " - " + str(rate) + '\n\n')
+                elif diziMax == 1:
+                    f3.write('economy' + " - " + str(rate) + '\n\n')
+                elif diziMax == 2:
+                    f3.write('politics' + " - " + str(rate) + '\n\n')
+                elif diziMax == 3:
+                    f3.write('sport' + " - " + str(rate) + '\n\n')
+                else:                
+                    f3.write('technology' + " - " + str(rate) + '\n\n')
+                
             except:
                 print('hata')
+                
 
 
 myStreamListener = MyStreamListener()

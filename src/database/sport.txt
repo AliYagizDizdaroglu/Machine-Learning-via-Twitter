@@ -978,6 +978,7 @@ devre::1
 69-72:1
 süre::1
 beş:1
+faul:30
 faulle:1
 çıkan::1
 berlin:1
@@ -1261,7 +1262,7 @@ valbuena:5
 mauricio:1
 isla:1
 aldı.:6
-kart:5
+kart:25
 sinirindafenerbahçe:1
 ceza:27
 sınır:2
@@ -1585,7 +1586,7 @@ dördünç:1
 elazığspor:1
 eleyerek:2
 rövanş:4
-karşılaşması 12:1
+karşılaşması:30
 oynanacak.:2
 galatasaray teknik:1
 igor:2
@@ -2207,7 +2208,7 @@ ligi’nde:2
 ikis:1
 saati:1
 19:00’da:1
-karşılaş:2
+karşılaş:30
 21:00’de:1
 başlayacak.:1
 21.:1
